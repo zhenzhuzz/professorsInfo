@@ -7,7 +7,7 @@
 [Apply Now](https://gradadmissions.stanford.edu/apply/apply-now)
 
 <details>
-<summary>Click to expand Stanford Professors</summary>
+<summary>Click to expand Cambridge Professors</summary>
 
 [Colleges and Schools](https://www.stanford.edu/academics/schools/)  
 [All Departments](https://www.stanford.edu/list/academic/)  
@@ -168,14 +168,67 @@
             </a>
             <p>实验力学、可扩展增材制造、结构化材料、X射线计算机断层扫描、断裂力学、生物工程</p>
         </td>
-    <tr>
-        <td align="center">
-            <a href="uk/cambridge/manuf/yongjiang-shi/research-overview.md">
-                <img src="uk/cambridge/profiles/yongjiang-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjiang Shi"><br>
-                <b>Yongjiang Shi</b>
-            </a>
-            <p>全球制造网络、商业生态系统发展、中国跨国公司战略、可持续工业系统、低碳供应链、产业协同、制造能力演进</p>
-        </td>
-    </tr>
+        <tr>
+            <td align="center">
+                <a href="uk/cambridge/manuf/yongjiang-shi/research-overview.md">
+                    <img src="uk/cambridge/profiles/yongjiang-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjiang Shi"><br>
+                    <b>Yongjiang Shi</b>
+                </a>
+                <p>全球制造网络、商业生态系统发展、中国跨国公司战略、可持续工业系统、低碳供应链、产业协同、制造能力演进</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/martin-sparkes/research-overview.md">
+                    <img src="uk/cambridge/profiles/martin-sparkes-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Sparkes"><br>
+                    <b>Martin Sparkes</b>
+                </a>
+                <p>激光束监测与控制、激光与离子束过程的混合、超快与超精密加工、光学与光学设计</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/jagjit-srai/research-overview.md">
+                    <img src="uk/cambridge/profiles/jagjit-srai-profile.jpg" width="150" style="border-radius: 8px;" alt="Jagjit Srai"><br>
+                    <b>Jagjit Srai</b>
+                </a>
+                <p>国际制造系统分析与设计、供应链网络配置、价值链分析、工业能力评估、数字供应链、分布式制造</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/ajay-tharakan/research-overview.md">
+                    <img src="uk/cambridge/profiles/ajay-tharakan-profile.jpg" width="150" style="border-radius: 8px;" alt="Ajay Tharakan"><br>
+                    <b>Ajay Tharakan</b>
+                </a>
+                <p>过程工程、制造与产品配方、石化与化工工业、食品工业技术商业化</p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="uk/cambridge/manuf/frank-tietze/research-overview.md">
+                    <img src="uk/cambridge/profiles/frank-tietze-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Tietze"><br>
+                    <b>Frank Tietze</b>
+                </a>
+                <p>战略知识产权管理、技术获取与利用、可持续创新、企业战略、技术创新管理</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/florian-urmetzer/research-overview.md">
+                    <img src="uk/cambridge/profiles/florian-urmetzer-profile.jpg" width="150" style="border-radius: 8px;" alt="Florian Urmetzer"><br>
+                    <b>Florian Urmetzer</b>
+                </a>
+                <p>战略工具、商业生态系统、价值交换、客户满意度、服务设计、商业模式创新</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/chander-velu/research-overview.md">
+                    <img src="uk/cambridge/profiles/chander-velu-profile.jpg" width="150" style="border-radius: 8px;" alt="Chander Velu"><br>
+                    <b>Chander Velu</b>
+                </a>
+                <p>商业模式创新、战略决策、管理与发展经济学</p>
+            </td>
+            <td align="center">
+                <a href="uk/cambridge/manuf/amy-weatherup/research-overview.md">
+                    <img src="uk/cambridge/profiles/amy-weatherup-profile.jpg" width="150" style="border-radius: 8px;" alt="Amy Weatherup"><br>
+                    <b>Amy Weatherup</b>
+                </a>
+                <p>大学发明商业化、跨学科团队协作、技术市场评估、初创企业孵化、i-Teams项目</p>
+            </td>
+        </tr>
+
+
 
  
