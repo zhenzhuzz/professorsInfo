@@ -287,6 +287,114 @@
     </tr>
 </table>
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-guo-w/research-overview.md">
+                <img src="HK/HKU/profiles/prof-guo-w-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Guo W. 郭伟"><br>
+                <b>Prof. Guo W. 郭伟</b>
+            </a>
+            <p>共沉淀体<br>液-液相分离<br>微流控技术<br>DNA/RNA适配体</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-qu-s/research-overview.md">
+                <img src="HK/HKU/profiles/prof-qu-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qu S. 曲思超"><br>
+                <b>Prof. Qu S. 曲思超</b>
+            </a>
+            <p>可调超材料<br>噪声控制技术<br>物理声学<br>波散射理论</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-wu-cj/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wu-cj-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wu C.J. 吴昌进"><br>
+                <b>Prof. Wu C.J. 吴昌进</b>
+            </a>
+            <p>主动胶体<br>微/纳机器人<br>靶向药物递送<br>非侵入性诊断与治疗<br>自组织集体行为</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-meng-fl/research-overview.md">
+                <img src="HK/HKU/profiles/prof-meng-fl-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Meng F.L. 孟凡玲"><br>
+                <b>Prof. Meng F.L. 孟凡玲</b>
+            </a>
+            <p>微观结构表征<br>力学性能<br>原位电子显微镜</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-shao-xy/research-overview.md">
+                <img src="HK/HKU/profiles/prof-shao-xy-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Shao X.Y. 邵雪莹"><br>
+                <b>Prof. Shao X.Y. 邵雪莹</b>
+            </a>
+            <p>神经力学<br>细胞机械传导<br>微生理系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-yu-kp/research-overview.md">
+                <img src="HK/HKU/profiles/prof-yu-kp-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yu K.P. 余开平"><br>
+                <b>Prof. Yu K.P. 余开平</b>
+            </a>
+            <p>耐腐蚀材料<br>反应过程的电化学<br>异质界面</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-meng-wq/research-overview.md">
+                <img src="HK/HKU/profiles/prof-meng-wq-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Meng W.Q. 孟琬青"><br>
+                <b>Prof. Meng W.Q. 孟琬青</b>
+            </a>
+            <p>二维半导体器件制造<br>三维单片集成</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-wang-m/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wang-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang M. 王敏"><br>
+                <b>Prof. Wang M. 王敏</b>
+            </a>
+            <p>合金的动态热机械行为<br>数据/图像驱动的合金设计<br>线型剖面分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-zhang-jq/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhang-jq-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang J.Q. 张俊秋"><br>
+                <b>Prof. Zhang J.Q. 张俊秋</b>
+            </a>
+            <p>低维材料的结构与电子性质<br>扫描隧道显微镜与光谱<br>分子束外延</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-pan-wd/research-overview.md">
+                <img src="HK/HKU/profiles/prof-pan-wd-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Pan W.D. 潘文定"><br>
+                <b>Prof. Pan W.D. 潘文定</b>
+            </a>
+            <p>水系离子电池工作机制<br>先进固态电解质<br>多离子（脱）插层行为</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-wang-xn/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wang-xn-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang X.N. 王欣娜"><br>
+                <b>Prof. Wang X.N. 王欣娜</b>
+            </a>
+            <p>多光子微制造与微图案技术<br>基于超声的组织工程与再生<br>声动力学与光动力学治疗</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-zhu-bh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhu-bh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhu B.H. 朱博豪"><br>
+                <b>Prof. Zhu B.H. 朱博豪</b>
+            </a>
+            <p>正系统<br>周期性与切换系统<br>多智能体系统<br>MRI引导机器人</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-subrahmanyam/research-overview.md">
+                <img src="HK/HKU/profiles/prof-subrahmanyam-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Subrahmanyam S. 苏布拉马尼亚姆"><br>
+                <b>Prof. Subrahmanyam S. 苏布拉马尼亚姆</b>
+            </a>
+            <p>稳定性<br>分岔理论<br>数值延拓<br>原子系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/ME/prof-wen-tq/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wen-tq-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wen T.Q. 温同祺"><br>
+                <b>Prof. Wen T.Q. 温同祺</b>
+            </a>
+            <p>人工智能材料科学家<br>材料缺陷理论与设计<br>下一代原子模型</p>
+        </td>
+    </tr>
+</table>
 
 
  
