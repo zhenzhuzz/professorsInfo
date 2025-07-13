@@ -427,6 +427,258 @@
 <details>
 <summary>Click to expand CUHK Professors</summary>
 
+- **Field**: [Robotics, Perception and Artificial Intelligence Group](https://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-meng-max-qing-hu/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-meng-max-qing-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof MENG, Max Qing Hu 孟慶虎"><br>
+                <b>Prof MENG, Max Qing Hu 孟慶虎</b>
+            </a>
+            <p>手术机器人、医学影像自动诊断、信息驱动系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-ren-hongliang/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-ren-hongliang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof REN, Hongliang 任洪亮"><br>
+                <b>Prof REN, Hongliang 任洪亮</b>
+            </a>
+            <p>智能外科机器人、柔性机器人、人工智能学习与控制、多感官感知</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-zhang-yuan-ting/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-zhang-yuan-ting-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof ZHANG, Yuan Ting 張元亭"><br>
+                <b>Prof ZHANG, Yuan Ting 張元亭</b>
+            </a>
+            <p>神经生理建模、可穿戴设备、无创传感、血压监测</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Multimedia and Signal Processing Group](https://www.ee.cuhk.edu.hk/en-gb/research/research-groups/multimedia-signal-processing)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-thierry-blu/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-thierry-blu-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof BLU, Thierry"><br>
+                <b>Prof BLU, Thierry</b>
+            </a>
+            <p>图像处理、多分辨率分析、稀疏表示、生物医学成像应用</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-pak-chung-ching/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-pak-chung-ching-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof CHING, Pak Chung 程伯中"><br>
+                <b>Prof CHING, Pak Chung 程伯中</b>
+            </a>
+            <p>自适应数字信号处理、时延估计与目标定位、盲信号估计与分离、自动语音识别、语者识别与验证、无线通信的高级信号处理技术</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-qiuqiang-kong/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-qiuqiang-kong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof KONG, Qiuqiang 孔秋强"><br>
+                <b>Prof KONG, Qiuqiang 孔秋强</b>
+            </a>
+            <p>音频/音乐信号处理与生成、计算听觉、空间音频、多模态信号处理</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-tan-lee/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-tan-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof LEE, Tan 李丹"><br>
+                <b>Prof LEE, Tan 李丹</b>
+            </a>
+            <p>语音信号处理、口语语言技术、深度学习模型、语言障碍辅助技术、语音合成与识别</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-hongsheng-li/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-hongsheng-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof LI, Hongsheng 李鸿升"><br>
+                <b>Prof LI, Hongsheng 李鸿升</b>
+            </a>
+            <p>计算机视觉、医学影像分析、深度学习、多模态学习</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-li-jizhou/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-li-jizhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof LI, Jizhou 李济舟"><br>
+                <b>Prof LI, Jizhou 李济舟</b>
+            </a>
+            <p>计算显微学、材料表征、跨学科成像科学</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-wing-kin-ken-ma/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-wing-kin-ken-ma-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof MA, Ken Wing Kin 马荣健"><br>
+                <b>Prof MA, Ken Wing Kin 马荣健</b>
+            </a>
+            <p>信号处理、通信、优化、机器学习、数据科学</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-xiaogang-wang/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-xiaogang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof WANG, Xiaogang 王晓刚"><br>
+                <b>Prof WANG, Xiaogang 王晓刚</b>
+            </a>
+            <p>计算机视觉、模式识别、机器学习、视觉监控、人脸识别、图像与视频分析</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Circuits and Systems Group](https://www.ee.cuhk.edu.hk/en-gb/research/research-groups/circuits-systems)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-michael-kwok-keung-cheng/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-michael-kwok-keung-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. CHENG, Michael Kwok Keung 鄭國強"><br>
+                <b>Prof. CHENG, Michael Kwok Keung 鄭國強</b>
+            </a>
+            <p>射频集成电路（RFIC）、毫米波功率放大器、多频段可重构系统设计</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-chiu-sing-oliver-choy/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-chiu-sing-oliver-choy-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. CHOY, Oliver Chiu Sing 蔡潮盛"><br>
+                <b>Prof. CHOY, Oliver Chiu Sing 蔡潮盛</b>
+            </a>
+            <p>片上网络（NoC）、体域网（BAN）、结构化ASIC、异步通信链路、OFDM-UWB数字收发器、实时物体检测</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-shichang-gao/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-shichang-gao-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. GAO, Shichang 高式昌"><br>
+                <b>Prof. GAO, Shichang 高式昌</b>
+            </a>
+            <p>智能天线、相控阵、MIMO、移动通信天线、卫星通信、毫米波电路</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-ka-nang-alex-leung/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-ka-nang-alex-leung-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. LEUNG, Alex Ka Nang 梁加能"><br>
+                <b>Prof. LEUNG, Alex Ka Nang 梁加能</b>
+            </a>
+            <p>电源管理集成电路、模拟集成电路、无线功率传输、超低功耗电路</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-poh-chiang-loh/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-poh-chiang-loh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. LOH, Poh Chiang 盧保聰"><br>
+                <b>Prof. LOH, Poh Chiang 盧保聰</b>
+            </a>
+            <p>电网连接型变换器控制、可再生能源、微电网、电力质量、电力转换器可靠性增强</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-kong-pang-pun/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-kong-pang-pun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. PUN, Kong Pang 潘江鵬"><br>
+                <b>Prof. PUN, Kong Pang 潘江鵬</b>
+            </a>
+            <p>混合信号集成电路设计、数据转换、通信系统、医疗电子</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-ke-li-wu/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-ke-li-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. WU, Ke Li 吳克利"><br>
+                <b>Prof. WU, Ke Li 吳克利</b>
+            </a>
+            <p>电磁建模、高速电路、微波被动电路、天线设计、射频集成电路、物联网技术</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Solid State Electronics and Photonics Group](https://www.ee.cuhk.edu.hk/en-gb/research/research-groups/solid-state-electronics-photonics)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-hu-guohua/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-hu-guohua-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. HU, Guohua 胡國華"><br>
+                <b>Prof. HU, Guohua 胡國華</b>
+            </a>
+            <p>低维纳米材料的溶液加工与功能化、柔性电子学、神经形态电子学、光电子学、传感器</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-huang-chaoran/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-huang-chaoran-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. HUANG, Chaoran 黃超然"><br>
+                <b>Prof. HUANG, Chaoran 黃超然</b>
+            </a>
+            <p>硅光子学、光子集成电路、非线性光学、神经形态计算、数据传输与处理</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-long-yi/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-long-yi-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. LONG, Yi 龍禕"><br>
+                <b>Prof. LONG, Yi 龍禕</b>
+            </a>
+            <p>功能材料、智能窗、柔性器件、软电子学、纳米器件制造</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-suwardi-ady/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-suwardi-ady-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. SUWARDI, Ady"><br>
+                <b>Prof. SUWARDI, Ady</b>
+            </a>
+            <p>热电材料、可再生能源与能量收集、电子材料、热管理、废物回收</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-shu-chester-ching-tat/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-shu-chester-ching-tat-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. SHU, Chester Ching Tat 許正德"><br>
+                <b>Prof. SHU, Chester Ching Tat 許正德</b>
+            </a>
+            <p>光纤通信、非线性光纤光学、光通信信号的超快处理</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-stolterfoht-martin/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-stolterfoht-martin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. STOLTERFOHT, Martin"><br>
+                <b>Prof. STOLTERFOHT, Martin</b>
+            </a>
+            <p>钙钛矿与有机太阳能电池、光电器件、载流子输运与复合、离子输运、器件仿真与薄膜表征</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-sun-xiankai/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-sun-xiankai-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. SUN, Xiankai 孫賢開"><br>
+                <b>Prof. SUN, Xiankai 孫賢開</b>
+            </a>
+            <p>纳米光子学、光机电学、光电子学、光子集成电路与器件、纳米制造</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-tsang-hon-ki/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-tsang-hon-ki-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. TSANG, Hon Ki 曾漢奇"><br>
+                <b>Prof. TSANG, Hon Ki 曾漢奇</b>
+            </a>
+            <p>硅光子学、光互连、集成量子光子学、中红外集成光子学、非线性波导器件</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-xu-jianbin/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-xu-jianbin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. XU, Jianbin 許建斌"><br>
+                <b>Prof. XU, Jianbin 許建斌</b>
+            </a>
+            <p>近场与纳米尺度传感、有机半导体器件、太阳能技术、石墨烯电子学与光电子学</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-xue-ying/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-xue-ying-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. XUE, Ying 薛瑩"><br>
+                <b>Prof. XUE, Ying 薛瑩</b>
+            </a>
+            <p>集成光子学、激光器与光电探测器、硅光子学、半导体光电器件</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-zhao-ni/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-zhao-ni-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. ZHAO, Ni 趙鈮"><br>
+                <b>Prof. ZHAO, Ni 趙鈮</b>
+            </a>
+            <p>光电、电子与电化学器件、生物医学器件、纳结构薄膜与器件</p>
+        </td>
+        <td align="center">
+            <a href="HK/CUHK/EE/prof-cp-wong/research-overview.md">
+                <img src="HK/CUHK/profiles/prof-cp-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. C.P. WONG"><br>
+                <b>Prof. C.P. WONG</b>
+            </a>
+            <p>聚合物电子材料、电子、光子与MEMS封装、纳功能材料合成与表征</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [All EE Faculty/Academic Staff](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff)
+
 <table>
     <tr>
         <td align="center">
