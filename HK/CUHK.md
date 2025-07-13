@@ -1,6 +1,6 @@
 
 
-## [CUHK](https://www.cuhk.edu.hk/) 
+## [CUHK 香港中文大学](https://www.cuhk.edu.hk/) 
 [MAE & EE: Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines);
 [$125](https://gradadmissions.stanford.edu/apply/application-fee);
 [Apply Now](https://gradadmissions.stanford.edu/apply/apply-now)
