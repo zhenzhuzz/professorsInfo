@@ -396,5 +396,93 @@
     </tr>
 </table>
 
+</details>
+    
+ ### [Electrical and Electronics Engineering](https://www.eee.hku.hk/)
 
- 
+<details>
+<summary>Click to expand CUHK Professors</summary>
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wu-ex/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wu-ex-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wu E.X. 吳學奎"><br>
+                <b>Prof. Wu E.X. 吳學奎</b>
+            </a>
+            <p>生物医学工程<br>生物医学成像<br>磁共振成像<br>医学仪器<br>神经科学<br>深度学习<br>神经影像学</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-chen-c/research-overview.md">
+                <img src="HK/HKU/profiles/prof-chen-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chen C. 陳城"><br>
+                <b>Prof. Chen C. 陳城</b>
+            </a>
+            <p>生物医学图像分析<br>医疗人工智能<br>机器学习</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-chu-zq/research-overview.md">
+                <img src="HK/HKU/profiles/prof-chu-zq-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chu Z.Q. 褚智勤"><br>
+                <b>Prof. Chu Z.Q. 褚智勤</b>
+            </a>
+            <p>精密生物传感与成像<br>钻石缺陷<br>生物物理学<br>纳米光子学<br>材料–生物界面<br>NV中心</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-lee-wn/research-overview.md">
+                <img src="HK/HKU/profiles/prof-lee-wn-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lee W.N. 李偉寧"><br>
+                <b>Prof. Lee W.N. 李偉寧</b>
+            </a>
+            <p>医用超声成像<br>声电成像<br>血流成像<br>心血管超声<br>骨骼肌超声<br>波束形成<br>应变与弹性成像<br>神经网络超声</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-leong-atl/research-overview.md">
+                <img src="HK/HKU/profiles/dr-leong-atl-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Leong A.T.L. 梁志倫"><br>
+                <b>Dr. Leong A.T.L. 梁志倫</b>
+            </a>
+            <p>神经科学MRI应用<br>预临床MRI<br>光遗传学<br>神经调控<br>神经影像</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-tsia-kk/research-overview.md">
+                <img src="HK/HKU/profiles/prof-tsia-kk-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tsia K.K. 謝堅文"><br>
+                <b>Prof. Tsia K.K. 謝堅文</b>
+            </a>
+            <p>超快实时光学显微与光谱<br>非线性光纤光学<br>微流控生物测定<br>高通量单细胞分析</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wang-ff/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wang-ff-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang F.F. 王飛飛"><br>
+                <b>Prof. Wang F.F. 王飛飛</b>
+            </a>
+            <p>近红外II荧光成像<br>超分辨成像<br>AI增强生物医学成像<br>高级生物医学显微<br>广泛生物医学应用技术</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-wu-hc/research-overview.md">
+                <img src="HK/HKU/profiles/dr-wu-hc-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Wu H.C. 吳浩俊"><br>
+                <b>Dr. Wu H.C. 吳浩俊</b>
+            </a>
+            <p>智能电网<br>大数据分析<br>深度学习<br>生物信息学<br>生物医学信息学<br>物联网人工智能</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-zhang-sm/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhang-sm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang S.M. 張世明"><br>
+                <b>Prof. Zhang S.M. 張世明</b>
+            </a>
+            <p>穿戴式电子<br>软电子<br>有机生物电子<br>健康技术</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-zhao-yj/research-overview.md">
+                <img src="HK/HKU/profiles/dr-zhao-yj-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhao Y.J. 趙雨嬌"><br>
+                <b>Dr. Zhao Y.J. 趙雨嬌</b>
+            </a>
+            <p>磁共振成像物理与工程<br>磁共振信号处理</p>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
+</details>
