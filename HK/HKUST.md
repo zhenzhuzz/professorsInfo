@@ -23,28 +23,28 @@
                 <img src="HK/HKUST/profiles/sherry-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Sherry CHEN 陳弦"><br>
                 <b>Prof. Sherry CHEN 陳弦</b>
             </a>
-            <p>晶體學、實驗力學與動力學、材料力學 :contentReference[oaicite:0]{index=0}</p>
+            <p>晶體學、實驗力學與動力學、材料力學</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-chen-yangyang/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-chen-yangyang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yangyang CHEN 陳洋洋"><br>
                 <b>Prof. Yangyang CHEN 陳洋洋</b>
             </a>
-            <p>超材料、材料力學、先進材料與技術、控制與動力學、機電一體化 :contentReference[oaicite:1]{index=1}</p>
+            <p>超材料、材料力學、先進材料與技術、控制與動力學、機電一體化</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-zhang-fumin/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-zhang-fumin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Fumin ZHANG 張福民"><br>
                 <b>Prof. Fumin ZHANG 張福民</b>
             </a>
-            <p>海洋機器人與自主系統、移動傳感器與作動器網絡、生物啟發分佈式主動感知、人機自主協同 :contentReference[oaicite:2]{index=2}</p>
+            <p>海洋機器人與自主系統、移動傳感器與作動器網絡、生物啟發分佈式主動感知、人機自主協同</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-lam-david/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-lam-david-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. David LAM 林銓振"><br>
                 <b>Prof. David LAM 林銓振</b>
             </a>
-            <p>大數據醫療診斷、生物傳感、電動車、內腔醫療器械、眼科醫療器械 :contentReference[oaicite:3]{index=3}</p>
+            <p>大數據醫療診斷、生物傳感、電動車、內腔醫療器械、眼科醫療器械</p>
         </td>
     </tr>
     <tr>
@@ -53,21 +53,21 @@
                 <img src="HK/HKUST/profiles/prof-lee-ricky-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ricky LEE 李世瑋"><br>
                 <b>Prof. Ricky LEE 李世瑋</b>
             </a>
-            <p>計算建模、電子封裝、無鉛焊接、微機電系統 (MEMS)、光纖與 LED 封裝 :contentReference[oaicite:4]{index=4}</p>
+            <p>計算建模、電子封裝、無鉛焊接、微機電系統 (MEMS)、光纖與 LED 封裝</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-lee-yikuen/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-lee-yikuen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yi-Kuen LEE 李貽昆"><br>
                 <b>Prof. Yi-Kuen LEE 李貽昆</b>
             </a>
-            <p>生物微系統、建築機器人 MEMS 傳感器、微機電系統 (MEMS)、元宇宙用 AIoT 傳感器、CMOS MEMS 平台 :contentReference[oaicite:5]{index=5}</p>
+            <p>生物微系統、建築機器人 MEMS 傳感器、微機電系統 (MEMS)、元宇宙用 AIoT 傳感器、CMOS MEMS 平台</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-sun-qingping/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-sun-qingping-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qingping SUN 孫慶平"><br>
                 <b>Prof. Qingping SUN 孫慶平</b>
             </a>
-            <p>相變與固體不穩定力學、納米結構材料的建模設計與製程、形狀記憶材料、空調與製冷系統 :contentReference[oaicite:6]{index=6}</p>
+            <p>相變與固體不穩定力學、納米結構材料的建模設計與製程、形狀記憶材料、空調與製冷系統</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-yang-jinglei/research-overview.md">
@@ -231,28 +231,28 @@
         <img src="HK/HKUST/profiles/prof-chen-qing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 陈擎 Qing CHEN"><br>
         <b>Prof. 陈擎 Qing CHEN</b>
       </a>
-      <p>电化学能源技术、能量存储、金属与合金、纳米多孔与纳米结构材料</p>:contentReference[oaicite:0]{index=0}
+      <p>电化学能源技术、能量存储、金属与合金、纳米多孔与纳米结构材料</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-ciucci-francesco/research-overview.md">
         <img src="HK/HKUST/profiles/prof-ciucci-francesco-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Francesco CIUCCI"><br>
         <b>Prof. Francesco CIUCCI</b>
       </a>
-      <p>能量转换、能量存储、可持续能源功能材料、材料化学</p>:contentReference[oaicite:1]{index=1}
+      <p>能量转换、能量存储、可持续能源功能材料、材料化学</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-fu-lin/research-overview.md">
         <img src="HK/HKUST/profiles/prof-fu-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 傅霖 Lin FU"><br>
         <b>Prof. 傅霖 Lin FU</b>
       </a>
-      <p>智能制造、机器人与自动化、工业4.0、增材制造、数字孪生</p>:contentReference[oaicite:2]{index=2}
+      <p>智能制造、机器人与自动化、工业4.0、增材制造、数字孪生</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-huang-baoling/research-overview.md">
         <img src="HK/HKUST/profiles/prof-huang-baoling-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 黄宝玲 Baoling HUANG"><br>
         <b>Prof. 黄宝玲 Baoling HUANG</b>
       </a>
-      <p>传热、能量转化与存储</p>:contentReference[oaicite:3]{index=3}
+      <p>传热、能量转化与存储</p>
     </td>
   </tr>
   <tr>
@@ -261,21 +261,21 @@
         <img src="HK/HKUST/profiles/prof-lee-yi-kuen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 李怡锟 Yi-Kuen LEE"><br>
         <b>Prof. 李怡锟 Yi-Kuen LEE</b>
       </a>
-      <p>生物医学超声成像、电声成像、血流成像、心血管超声、肌肉骨骼超声、超声束形成、超声应变与弹性成像、神经网络超声</p>:contentReference[oaicite:4]{index=4}
+      <p>生物医学超声成像、电声成像、血流成像、心血管超声、肌肉骨骼超声、超声束形成、超声应变与弹性成像、神经网络超声</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-li-zhigang/research-overview.md">
         <img src="HK/HKUST/profiles/prof-li-zhigang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 李志刚 Zhigang LI"><br>
         <b>Prof. 李志刚 Zhigang LI</b>
       </a>
-      <p>生物传感、热质传输、纳米流体学、微纳系统建模与设计</p>:contentReference[oaicite:5]{index=5}
+      <p>生物传感、热质传输、纳米流体学、微纳系统建模与设计</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-redonnet-stephane/research-overview.md">
         <img src="HK/HKUST/profiles/prof-redonnet-stephane-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Stéphane REDONNET"><br>
         <b>Prof. Stéphane REDONNET</b>
       </a>
-      <p>航空声学、空气动力学、航天航空工程、航空与机械系统计算建模、噪声与声学</p>:contentReference[oaicite:6]{index=6}
+      <p>航空声学、空气动力学、航天航空工程、航空与机械系统计算建模、噪声与声学</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-sun-qingping/research-overview.md">
@@ -348,28 +348,28 @@
                 <img src="HK/HKUST/profiles/prof-cai-lilong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lilong CAI 蔡李隆"><br>
                 <b>Prof. Lilong CAI 蔡李隆</b>
             </a>
-            <p>机电一体化、计量学、非线性系统控制、机器人 :contentReference[oaicite:0]{index=0}</p>
+            <p>机电一体化、计量学、非线性系统控制、机器人</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-duan-molong/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-duan-molong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Molong DUAN 段默龍"><br>
                 <b>Prof. Molong DUAN 段默龍</b>
             </a>
-            <p>制造自动化、航空航天自动化、物理建模、数据驱动建模、机器动力学、加工与增材制造 :contentReference[oaicite:1]{index=1}</p>
+            <p>制造自动化、航空航天自动化、物理建模、数据驱动建模、机器动力学、加工与增材制造</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-gao-yongsheng/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-gao-yongsheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yongsheng GAO 高詠生"><br>
                 <b>Prof. Yongsheng GAO 高詠生</b>
             </a>
-            <p>制造工艺、磨削技术、在线光学测量、精密工程、制造业 :contentReference[oaicite:2]{index=2}</p>
+            <p>制造工艺、磨削技术、在线光学测量、精密工程、制造业</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-gao-yang/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-gao-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yang GAO 高洋"><br>
                 <b>Prof. Yang GAO 高洋</b>
             </a>
-            <p>机器人感知、视觉导航与控制、生物仿生机构、极端环境工业应用 :contentReference[oaicite:3]{index=3}</p>
+            <p>机器人感知、视觉导航与控制、生物仿生机构、极端环境工业应用</p>
         </td>
     </tr>
     <tr>
@@ -378,21 +378,21 @@
                 <img src="HK/HKUST/profiles/prof-lam-david-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. David LAM 林銓振"><br>
                 <b>Prof. David LAM 林銓振</b>
             </a>
-            <p>大数据医疗诊断、生物传感、电动汽车、腔内医疗器械、眼科医疗器械 :contentReference[oaicite:4]{index=4}</p>
+            <p>大数据医疗诊断、生物传感、电动汽车、腔内医疗器械、眼科医疗器械</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-lee-yikuen/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-lee-yikuen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yi-Kuen LEE 李貽昆"><br>
                 <b>Prof. Yi-Kuen LEE 李貽昆</b>
             </a>
-            <p>微机电系统 (MEMS)、生物微系统、建筑机器人用 MEMS 传感器、AIoT 传感器平台 :contentReference[oaicite:5]{index=5}</p>
+            <p>微机电系统 (MEMS)、生物微系统、建筑机器人用 MEMS 传感器、AIoT 传感器平台</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-lu-yanglong/research-overview.md">
                 <img src="HK/HKUST/profiles/prof-lu-yanglong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yanglong LU 陸楊龍"><br>
                 <b>Prof. Yanglong LU 陸楊龍</b>
             </a>
-            <p>增材制造过程监控、设计优化、多尺度仿真、机器学习、人类健康监测 :contentReference[oaicite:6]{index=6}</p>
+            <p>增材制造过程监控、设计优化、多尺度仿真、机器学习、人类健康监测</p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-sun-qingping/research-overview.md">
@@ -461,28 +461,28 @@
         <img src="HK/HKUST/profiles/prof-lee-ricky-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ricky LEE 李世瑋"><br>
         <b>Prof. Ricky LEE 李世瑋</b>
       </a>
-      <p>计算建模、电子封装、无铅焊接、微机电系统（MEMS）、光纤与LED封装</p>:contentReference[oaicite:0]{index=0}
+      <p>计算建模、电子封装、无铅焊接、微机电系统（MEMS）、光纤与LED封装</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-lee-yikuen/research-overview.md">
         <img src="HK/HKUST/profiles/prof-lee-yikuen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yi-Kuen LEE 李貽昆"><br>
         <b>Prof. Yi-Kuen LEE 李貽昆</b>
       </a>
-      <p>微机电系统（MEMS）、生物微系统、建筑机器人MEMS传感器、元宇宙AIoT传感器、CMOS MEMS传感平台</p>:contentReference[oaicite:1]{index=1}
+      <p>微机电系统（MEMS）、生物微系统、建筑机器人MEMS传感器、元宇宙AIoT传感器、CMOS MEMS传感平台</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-li-zhigang/research-overview.md">
         <img src="HK/HKUST/profiles/prof-li-zhigang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhigang LI 李志剛"><br>
         <b>Prof. Zhigang LI 李志剛</b>
       </a>
-      <p>生物传感、热质传输、纳米流体学、微纳系统建模与设计</p>:contentReference[oaicite:2]{index=2}
+      <p>生物传感、热质传输、纳米流体学、微纳系统建模与设计</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-sun-qingping/research-overview.md">
         <img src="HK/HKUST/profiles/prof-sun-qingping-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qingping SUN 孫慶平"><br>
         <b>Prof. Qingping SUN 孫慶平</b>
       </a>
-      <p>空调与制冷系统、固体相变与不稳定性力学、纳米结构材料建模与设计加工、形状记忆材料</p>:contentReference[oaicite:3]{index=3}
+      <p>空调与制冷系统、固体相变与不稳定性力学、纳米结构材料建模与设计加工、形状记忆材料</p>
     </td>
   </tr>
   <tr>
@@ -491,21 +491,21 @@
         <img src="HK/HKUST/profiles/dr-yao-shuhuai-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Shuhuai YAO 姚舒懷"><br>
         <b>Prof. Shuhuai YAO 姚舒懷</b>
       </a>
-      <p>热质传输、微流控与纳米流控、实验室芯片、相变传热</p>:contentReference[oaicite:4]{index=4}
+      <p>热质传输、微流控与纳米流控、实验室芯片、相变传热</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-ye-wenjing/research-overview.md">
         <img src="HK/HKUST/profiles/prof-ye-wenjing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wenjing YE 葉文菁"><br>
         <b>Prof. Wenjing YE 葉文菁</b>
       </a>
-      <p>计算力学、数据驱动计算方法、超材料、微尺度气体与热传输、跨学科设计与优化、拓扑优化</p>:contentReference[oaicite:5]{index=5}
+      <p>计算力学、数据驱动计算方法、超材料、微尺度气体与热传输、跨学科设计与优化、拓扑优化</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-yu-hongyu/research-overview.md">
         <img src="HK/HKUST/profiles/prof-yu-hongyu-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Hongyu YU 于宏宇"><br>
         <b>Prof. Hongyu YU 于宏宇</b>
       </a>
-      <p>柔性器件与电子、微机电系统（MEMS）、光纤与LED封装、机器人学、半导体材料与器件工艺</p>:contentReference[oaicite:6]{index=6}
+      <p>柔性器件与电子、微机电系统（MEMS）、光纤与LED封装、机器人学、半导体材料与器件工艺</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-zhao-tianshou/research-overview.md">
@@ -532,28 +532,28 @@
         <img src="HK/HKUST/profiles/prof-fu-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lin FU 傅林"><br>
         <b>Prof. Lin FU 傅林</b>
       </a>
-      <p>气动学、应用数学、计算流体力学、流体力学、偏微分方程数值方法、湍流 :contentReference[oaicite:0]{index=0}</p>
+      <p>气动学、应用数学、计算流体力学、流体力学、偏微分方程数值方法、湍流</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-gao-yang/research-overview.md">
         <img src="HK/HKUST/profiles/prof-gao-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yang GAO 高洋"><br>
         <b>Prof. Yang GAO 高洋</b>
       </a>
-      <p>机器人感知与识别、视觉引导导航与控制、仿生机构、极端环境工业应用 :contentReference[oaicite:1]{index=1}</p>
+      <p>机器人感知与识别、视觉引导导航与控制、仿生机构、极端环境工业应用</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-larry-li/research-overview.md">
         <img src="HK/HKUST/profiles/prof-larry-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Larry LI 李建邦"><br>
         <b>Prof. Larry LI 李建邦</b>
       </a>
-      <p>复杂与无序系统、流体力学、热声学 :contentReference[oaicite:2]{index=2}</p>
+      <p>复杂与无序系统、流体力学、热声学</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-rhea-liem/research-overview.md">
         <img src="HK/HKUST/profiles/prof-rhea-liem-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Rhea LIEM"><br>
         <b>Prof. Rhea LIEM</b>
       </a>
-      <p>航空航天工程、飞机与航空工程、航空与飞行工程、计算建模、数据分析 :contentReference[oaicite:3]{index=3}</p>
+      <p>航空航天工程、飞机与航空工程、航空与飞行工程、计算建模、数据分析</p>
     </td>
   </tr>
   <tr>
@@ -562,21 +562,21 @@
         <img src="HK/HKUST/profiles/prof-redonnet-stephane-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Stephane REDONNET"><br>
         <b>Prof. Stephane REDONNET</b>
       </a>
-      <p>空气声学、气动学、噪声与声学、航空航天工程、航空与机械系统计算建模 :contentReference[oaicite:4]{index=4}</p>
+      <p>空气声学、气动学、噪声与声学、航空航天工程、航空与机械系统计算建模</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-shi-fan/research-overview.md">
         <img src="HK/HKUST/profiles/prof-shi-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Fan SHI 施帆"><br>
         <b>Prof. Fan SHI 施帆</b>
       </a>
-      <p>波动、声学与超声、无损检测、弹性波散射与成像 :contentReference[oaicite:5]{index=5}</p>
+      <p>波动、声学与超声、无损检测、弹性波散射与成像</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-xu-kun/research-overview.md">
         <img src="HK/HKUST/profiles/prof-xu-kun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kun XU 徐昆"><br>
         <b>Prof. Kun XU 徐昆</b>
       </a>
-      <p>计算流体力学、Navier–Stokes方程高阶紧凑格式、多尺度建模与气体动力学格式、非平衡输运与稀薄气体流 :contentReference[oaicite:6]{index=6}</p>
+      <p>计算流体力学、Navier–Stokes方程高阶紧凑格式、多尺度建模与气体动力学格式、非平衡输运与稀薄气体流</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-yu-hongyu/research-overview.md">
@@ -772,28 +772,28 @@
         <img src="HK/HKUST/profiles/prof-chen-qifeng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qifeng CHEN 陳啟峰"><br>
         <b>Prof. Qifeng CHEN 陳啟峰</b>
       </a>
-      <p>計算機圖形學、計算機視覺、機器學習、優化演算法、生成式 AI、計算攝影、自動駕駛 :contentReference[oaicite:0]{index=0}</p>
+      <p>計算機圖形學、計算機視覺、機器學習、優化演算法、生成式 AI、計算攝影、自動駕駛</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-cheng-kwangt ting/research-overview.md">
         <img src="HK/HKUST/profiles/prof-cheng-kwangt ting-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kwang-Ting Tim CHENG 鄭光廷"><br>
         <b>Prof. Kwang-Ting Tim CHENG 鄭光廷</b>
       </a>
-      <p>計算機視覺、電子設計自動化、生物醫學影像分析、移動計算、大規模集成電路設計 :contentReference[oaicite:1]{index=1}</p>
+      <p>計算機視覺、電子設計自動化、生物醫學影像分析、移動計算、大規模集成電路設計</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-fung-pascale/research-overview.md">
         <img src="HK/HKUST/profiles/prof-fung-pascale-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Pascale Ngan FUNG 馮雁"><br>
         <b>Prof. Pascale Ngan FUNG 馮雁</b>
       </a>
-      <p>跨語言信息處理、機器翻譯、音樂信息提取、語音識別、深度學習在 NLP 中的應用、情感與情緒識別 :contentReference[oaicite:2]{index=2}</p>
+      <p>跨語言信息處理、機器翻譯、音樂信息提取、語音識別、深度學習在 NLP 中的應用、情感與情緒識別</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-li-xiaomeng/research-overview.md">
         <img src="HK/HKUST/profiles/prof-li-xiaomeng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Xiaomeng LI 李小萌"><br>
         <b>Prof. Xiaomeng LI 李小萌</b>
       </a>
-      <p>醫學影像分析、深度學習、計算機視覺 :contentReference[oaicite:3]{index=3}</p>
+      <p>醫學影像分析、深度學習、計算機視覺</p>
     </td>
   </tr>
   <tr>
@@ -802,21 +802,21 @@
         <img src="HK/HKUST/profiles/prof-mow-waiho-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wai Ho MOW 繆偉豪"><br>
         <b>Prof. Wai Ho MOW 繆偉豪</b>
       </a>
-      <p>無線通信、編碼理論、信息理論、球面解碼、複數格約簡輔助檢測 :contentReference[oaicite:4]{index=4}</p>
+      <p>無線通信、編碼理論、信息理論、球面解碼、複數格約簡輔助檢測</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-murch-ross/research-overview.md">
         <img src="HK/HKUST/profiles/prof-murch-ross-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ross MURCH 穆樂思"><br>
         <b>Prof. Ross MURCH 穆樂思</b>
       </a>
-      <p>多埠天線設計、四維電磁學、無線通信、6G 與物聯網、電磁信息理論 :contentReference[oaicite:5]{index=5}</p>
+      <p>多埠天線設計、四維電磁學、無線通信、6G 與物聯網、電磁信息理論</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-palomar-daniel/research-overview.md">
         <img src="HK/HKUST/profiles/prof-palomar-daniel-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Daniel PEREZ PALOMAR 鋒西龍"><br>
         <b>Prof. Daniel PEREZ PALOMAR 鋒西龍</b>
       </a>
-      <p>凸優化理論、信號處理、金融系統優化、大數據分析 :contentReference[oaicite:6]{index=6}</p>
+      <p>凸優化理論、信號處理、金融系統優化、大數據分析</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-shi-bertram/research-overview.md">
@@ -910,28 +910,28 @@
         <img src="HK/HKUST/profiles/prof-chan-mansun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mansun CHAN 陳文新"><br>
         <b>Prof. Mansun CHAN 陳文新</b>
       </a>
-      <p>Nano-CMOS 技術、2D 裝置與電路、人工智能技術與系統、量子計算、電子設計自動化、奈米尺度裝置與互連、固態電子與光電 :contentReference[oaicite:0]{index=0}</p>
+      <p>Nano-CMOS 技術、2D 裝置與電路、人工智能技術與系統、量子計算、電子設計自動化、奈米尺度裝置與互連、固態電子與光電</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-cheng-kwangt ting/research-overview.md">
         <img src="HK/HKUST/profiles/prof-cheng-kwangt ting-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kwang-Ting Tim CHENG 鄭光廷"><br>
         <b>Prof. Kwang-Ting Tim CHENG 鄭光廷</b>
       </a>
-      <p>計算機視覺、電子設計自動化、生物醫學影像分析、移動計算、大規模集成電路設計 :contentReference[oaicite:1]{index=1}</p>
+      <p>計算機視覺、電子設計自動化、生物醫學影像分析、移動計算、大規模集成電路設計</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-ki-winghung/research-overview.md">
         <img src="HK/HKUST/profiles/prof-ki-winghung-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wing Hung KI 暨永雄"><br>
         <b>Prof. Wing Hung KI 暨永雄</b>
       </a>
-      <p>電源管理電路與系統、開關式電源轉換器、開關電容電源轉換器、低壓差穩壓器、基準電壓源、微功率能量收集電路、RFID 與微傳感電路、類比 IC 分析與設計研究 :contentReference[oaicite:2]{index=2}</p>
+      <p>電源管理電路與系統、開關式電源轉換器、開關電容電源轉換器、低壓差穩壓器、基準電壓源、微功率能量收集電路、RFID 與微傳感電路、類比 IC 分析與設計研究</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-luong-howard/research-overview.md">
         <img src="HK/HKUST/profiles/prof-luong-howard-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Howard Cam LUONG 梁錦和"><br>
         <b>Prof. Howard Cam LUONG 梁錦和</b>
       </a>
-      <p>混合信號與類比集成電路、射頻 (RF) 電路、集成電路與系統、無線通信 :contentReference[oaicite:3]{index=3}</p>
+      <p>混合信號與類比集成電路、射頻 (RF) 電路、集成電路與系統、無線通信</p>
     </td>
   </tr>
   <tr>
@@ -940,21 +940,21 @@
         <img src="HK/HKUST/profiles/prof-sarfraz-khawar-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Khawar SARFRAZ"><br>
         <b>Prof. Khawar SARFRAZ</b>
       </a>
-      <p>超低壓數位集成電路、AI 記憶體裝置與架構、片上驗證方法論、超大規模積體電路、集成電路與系統、混合信號與類比 IC、物聯網 (IoT)、人工智慧、工程教育 :contentReference[oaicite:4]{index=4}</p>
+      <p>超低壓數位集成電路、AI 記憶體裝置與架構、片上驗證方法論、超大規模積體電路、集成電路與系統、混合信號與類比 IC、物聯網 (IoT)、人工智慧、工程教育</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-xie-yuan/research-overview.md">
         <img src="HK/HKUST/profiles/prof-xie-yuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yuan XIE 謝源"><br>
         <b>Prof. Yuan XIE 謝源</b>
       </a>
-      <p>計算機架構、超大規模積體電路、電子設計自動化、機器學習 :contentReference[oaicite:5]{index=5}</p>
+      <p>計算機架構、超大規模積體電路、電子設計自動化、機器學習</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-yue-patrick/research-overview.md">
         <img src="HK/HKUST/profiles/prof-yue-patrick-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chik Patrick YUE 俞捷"><br>
         <b>Prof. Chik Patrick YUE 俞捷</b>
       </a>
-      <p>光學無線物理層電路與系統、高速有線通信系統晶片、毫米波通信與感測電路、室內定位與影像處理技術、物聯網邊緣運算加速器設計 :contentReference[oaicite:6]{index=6}</p>
+      <p>光學無線物理層電路與系統、高速有線通信系統晶片、毫米波通信與感測電路、室內定位與影像處理技術、物聯網邊緣運算加速器設計</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-xie-zhiyao/research-overview.md">
@@ -994,28 +994,28 @@
         <img src="HK/HKUST/profiles/prof-chan-mansun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mansun CHAN 陳文新"><br>
         <b>Prof. Mansun CHAN 陳文新</b>
       </a>
-      <p>Nano-CMOS 技術、2D 裝置與電路、AI 技術與系統、量子計算 :contentReference[oaicite:0]{index=0}</p>
+      <p>Nano-CMOS 技術、2D 裝置與電路、AI 技術與系統、量子計算</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-chen-kwangting/research-overview.md">
         <img src="HK/HKUST/profiles/prof-chen-kwangting-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kevin Jing CHEN 陳敬"><br>
         <b>Prof. Kevin Jing CHEN 陳敬</b>
       </a>
-      <p>化合物半導體材料與器件、氮化鎵微功率微波晶體管 :contentReference[oaicite:1]{index=1}</p>
+      <p>化合物半導體材料與器件、氮化鎵微功率微波晶體管</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-fan-zhiyong/research-overview.md">
         <img src="HK/HKUST/profiles/prof-fan-zhiyong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhiyong FAN 范智勇"><br>
         <b>Prof. Zhiyong FAN 范智勇</b>
       </a>
-      <p>納米電子設計、納米製造、納米材料 :contentReference[oaicite:2]{index=2}</p>
+      <p>納米電子設計、納米製造、納米材料</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-lin-yenhung/research-overview.md">
         <img src="HK/HKUST/profiles/prof-lin-yenhung-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yen-Hung LIN 林彥宏"><br>
         <b>Prof. Yen-Hung LIN 林彥宏</b>
       </a>
-      <p>可再生能源、鈣鈦礦太陽能電池、可持續電子、光電形態類神經 :contentReference[oaicite:3]{index=3}</p>
+      <p>可再生能源、鈣鈦礦太陽能電池、可持續電子、光電形態類神經</p>
     </td>
   </tr>
   <tr>
@@ -1024,21 +1024,21 @@
         <img src="HK/HKUST/profiles/prof-sarfraz-khawar-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Khawar SARFRAZ"><br>
         <b>Prof. Khawar SARFRAZ</b>
       </a>
-      <p>工程教育、超低壓數位集成電路、新型記憶器件與 AI 架構、晶片級驗證方法學 :contentReference[oaicite:4]{index=4}</p>
+      <p>工程教育、超低壓數位集成電路、新型記憶器件與 AI 架構、晶片級驗證方法學</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-shao-qiming/research-overview.md">
         <img src="HK/HKUST/profiles/prof-shao-qiming-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qiming SHAO 邵啟明"><br>
         <b>Prof. Qiming SHAO 邵啟明</b>
       </a>
-      <p>自旋電子學、磁阻隨機存取記憶體、量子器件、高效 AI 系統、軟硬協同設計 :contentReference[oaicite:5]{index=5}</p>
+      <p>自旋電子學、磁阻隨機存取記憶體、量子器件、高效 AI 系統、軟硬協同設計</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-wong-man/research-overview.md">
         <img src="HK/HKUST/profiles/prof-wong-man-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Man WONG 王文"><br>
         <b>Prof. Man WONG 王文</b>
       </a>
-      <p>顯示技術、製造技術、低溫薄膜電晶體 (TFT)、微機電系統 (MEMS)、微電子學 :contentReference[oaicite:6]{index=6}</p>
+      <p>顯示技術、製造技術、低溫薄膜電晶體 (TFT)、微機電系統 (MEMS)、微電子學</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-wong-manhoi/research-overview.md">
@@ -1078,28 +1078,28 @@
         <img src="HK/HKUST/profiles/prof-fan-zhiyong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhiyong FAN 范智勇"><br>
         <b>Prof. Zhiyong FAN 范智勇</b>
       </a>
-      <p>纳米电子设计、纳米制造、纳米材料 :contentReference[oaicite:0]{index=0}</p>
+      <p>纳米电子设计、纳米制造、纳米材料</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/eeyen/research-overview.md">
         <img src="HK/HKUST/profiles/prof-lin-yenhung-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yen-Hung LIN 林彥宏"><br>
         <b>Prof. Yen-Hung LIN 林彥宏</b>
       </a>
-      <p>可再生能源、钙钛矿太阳能电池、可持续电子学、光电神经形态 :contentReference[oaicite:1]{index=1}</p>
+      <p>可再生能源、钙钛矿太阳能电池、可持续电子学、光电神经形态</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/eeawpoon/research-overview.md">
         <img src="HK/HKUST/profiles/prof-poon-andrew-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Andrew Wing On POON 潘永安"><br>
         <b>Prof. Andrew Wing On POON 潘永安</b>
       </a>
-      <p>硅光子学、电子-光子集成电路、量子光子学、微腔光学、光学互连 :contentReference[oaicite:2]{index=2}</p>
+      <p>硅光子学、电子-光子集成电路、量子光子学、微腔光学、光学互连</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/eequ/research-overview.md">
         <img src="HK/HKUST/profiles/prof-qu-jianan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Jianan QU 瞿佳男"><br>
         <b>Prof. Jianan QU 瞿佳男</b>
       </a>
-      <p>激光技术、生物光子学、环境监测、光学成像处理、现代光学器件与系统 :contentReference[oaicite:3]{index=3}</p>
+      <p>激光技术、生物光子学、环境监测、光学成像处理、现代光学器件与系统</p>
     </td>
   </tr>
   <tr>
@@ -1108,21 +1108,21 @@
         <img src="HK/HKUST/profiles/prof-srivastava-abhishek-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Abhishek Kumar SRIVASTAVA"><br>
         <b>Prof. Abhishek Kumar SRIVASTAVA</b>
       </a>
-      <p>光对准铁电液晶、固态电子与光子学、纳米材料、显示技术、液晶 :contentReference[oaicite:4]{index=4}</p>
+      <p>光对准铁电液晶、固态电子与光子学、纳米材料、显示技术、液晶</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/eepatrick/research-overview.md">
         <img src="HK/HKUST/profiles/prof-yue-patrick-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chik Patrick YUE 俞捷"><br>
         <b>Prof. Chik Patrick YUE 俞捷</b>
       </a>
-      <p>光无线物理层电路与系统、高速有线通信SoC、毫米波通信与传感电路、室内定位与图像处理技术、物联网边缘计算加速器设计 :contentReference[oaicite:5]{index=5}</p>
+      <p>光无线物理层电路与系统、高速有线通信SoC、毫米波通信与传感电路、室内定位与图像处理技术、物联网边缘计算加速器设计</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/eeneyts/research-overview.md">
         <img src="HK/HKUST/profiles/prof-neyts-kristiaan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kristiaan NEYTS"><br>
         <b>Prof. Kristiaan NEYTS</b>
       </a>
-      <p>显示技术、电子与光子开关、液晶、微腔光学、纳米光子学 :contentReference[oaicite:6]{index=6}</p>
+      <p>显示技术、电子与光子开关、液晶、微腔光学、纳米光子学</p>
     </td>
     <td></td>
   </tr>
@@ -1138,28 +1138,28 @@
         <img src="HK/HKUST/profiles/prof-chan-mansun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mansun CHAN 陳文新"><br>
         <b>Prof. Mansun CHAN 陳文新</b>
       </a>
-      <p>Nano-CMOS 技术、二维器件与电路、AI 技术与系统、量子计算</p>:contentReference[oaicite:0]{index=0}
+      <p>Nano-CMOS 技术、二维器件与电路、AI 技术与系统、量子计算</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-chen-kevinjing/research-overview.md">
         <img src="HK/HKUST/profiles/prof-chen-kevinjing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kevin Jing CHEN 陳敬"><br>
         <b>Prof. Kevin Jing CHEN 陳敬</b>
       </a>
-      <p>化合物半导体材料与器件、氮化镓微波功率晶体管</p>:contentReference[oaicite:1]{index=1}
+      <p>化合物半导体材料与器件、氮化镓微波功率晶体管</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-fan-zhiyong/research-overview.md">
         <img src="HK/HKUST/profiles/prof-fan-zhiyong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhiyong FAN 范智勇"><br>
         <b>Prof. Zhiyong FAN 范智勇</b>
       </a>
-      <p>纳米电子设计、纳米制造、纳米材料</p>:contentReference[oaicite:2]{index=2}
+      <p>纳米电子设计、纳米制造、纳米材料</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-poon-andrew/research-overview.md">
         <img src="HK/HKUST/profiles/prof-poon-andrew-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Andrew Wing On POON 潘永安"><br>
         <b>Prof. Andrew Wing On POON 潘永安</b>
       </a>
-      <p>电子-光子集成电路、光学互连、量子光子学、硅基光子学、微腔光学</p>:contentReference[oaicite:3]{index=3}
+      <p>电子-光子集成电路、光学互连、量子光子学、硅基光子学、微腔光学</p>
     </td>
   </tr>
   <tr>
@@ -1168,21 +1168,21 @@
         <img src="HK/HKUST/profiles/prof-shao-qiming-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qiming SHAO 邵啟明"><br>
         <b>Prof. Qiming SHAO 邵啟明</b>
       </a>
-      <p>自旋电子学、磁阻随机存取存储 (MRAM)、量子器件、高效 AI 系统、软硬协同设计</p>:contentReference[oaicite:4]{index=4}
+      <p>自旋电子学、磁阻随机存取存储 (MRAM)、量子器件、高效 AI 系统、软硬协同设计</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-srivastava-abhishek/research-overview.md">
         <img src="HK/HKUST/profiles/prof-srivastava-abhishek-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Abhishek Kumar SRIVASTAVA"><br>
         <b>Prof. Abhishek Kumar SRIVASTAVA</b>
       </a>
-      <p>纳米材料对准、光致向列铁电液晶、先进显示技术、光子器件</p>:contentReference[oaicite:5]{index=5}
+      <p>纳米材料对准、光致向列铁电液晶、先进显示技术、光子器件</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-wong-manhoi/research-overview.md">
         <img src="HK/HKUST/profiles/prof-wong-manhoi-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Man Hoi WONG 黃文海"><br>
         <b>Prof. Man Hoi WONG 黃文海</b>
       </a>
-      <p>超宽禁带氧化物/氮化物半导体材料与器件、半导体外延与工艺集成、功率半导体器件、高频半导体器件</p>:contentReference[oaicite:6]{index=6}
+      <p>超宽禁带氧化物/氮化物半导体材料与器件、半导体外延与工艺集成、功率半导体器件、高频半导体器件</p>
     </td>
     <td></td>
   </tr>
@@ -1199,28 +1199,28 @@
         <img src="HK/HKUST/profiles/prof-letaief-khaled-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Khaled BEN LETAIEF 李德富"><br>
         <b>Prof. Khaled BEN LETAIEF 李德富</b>
       </a>
-      <p>人工智能、物联网、大数据分析系统、触觉互联网、5G及后续系统 :contentReference[oaicite:0]{index=0}</p>
+      <p>人工智能、物联网、大数据分析系统、触觉互联网、5G及后续系统</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-lau-vincent/research-overview.md">
         <img src="HK/HKUST/profiles/prof-lau-vincent-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Vincent Kin Nang LAU 劉堅能"><br>
         <b>Prof. Vincent Kin Nang LAU 劉堅能</b>
       </a>
-      <p>随机优化、大规模MIMO系统、5G无线系统、内容中心无线网络、关键任务控制系统物联网、无线网络机器学习 :contentReference[oaicite:1]{index=1}</p>
+      <p>随机优化、大规模MIMO系统、5G无线系统、内容中心无线网络、关键任务控制系统物联网、无线网络机器学习</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-mow-waiho/research-overview.md">
         <img src="HK/HKUST/profiles/prof-mow-waiho-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wai Ho MOW 繆偉豪"><br>
         <b>Prof. Wai Ho MOW 繆偉豪</b>
       </a>
-      <p>传输技术、编码与信息理论 :contentReference[oaicite:2]{index=2}</p>
+      <p>传输技术、编码与信息理论</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-murch-ross/research-overview.md">
         <img src="HK/HKUST/profiles/prof-murch-ross-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ross MURCH 穆樂思"><br>
         <b>Prof. Ross MURCH 穆樂思</b>
       </a>
-      <p>射频成像、多端口天线系统、能量收集、6G技术、电磁信息理论、物联网、可重构智能表面、环境射频系统 :contentReference[oaicite:3]{index=3}</p>
+      <p>射频成像、多端口天线系统、能量收集、6G技术、电磁信息理论、物联网、可重构智能表面、环境射频系统</p>
     </td>
   </tr>
   <tr>
@@ -1229,21 +1229,21 @@
         <img src="HK/HKUST/profiles/prof-wong-kai-sun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kai Sun Albert WONG 王啓新"><br>
         <b>Prof. Kai Sun Albert WONG 王啓新</b>
       </a>
-      <p>通信网络、协议、光子与数据切换系统 :contentReference[oaicite:4]{index=4}</p>
+      <p>通信网络、协议、光子与数据切换系统</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-zhang-jun/research-overview.md">
         <img src="HK/HKUST/profiles/prof-zhang-jun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Jun ZHANG 張軍"><br>
         <b>Prof. Jun ZHANG 張軍</b>
       </a>
-      <p>无线通信与网络、移动边缘计算与边缘AI、集成AI与通信、协作AI :contentReference[oaicite:5]{index=5}</p>
+      <p>无线通信与网络、移动边缘计算与边缘AI、集成AI与通信、协作AI</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/ECE/prof-meng-zili/research-overview.md">
         <img src="HK/HKUST/profiles/prof-meng-zili-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zili MENG 孟子立"><br>
         <b>Prof. Zili MENG 孟子立</b>
       </a>
-      <p>元宇宙网络支持、交互视频流传输、网络协议设计与实现、算法与系统、网络编码、渲染 :contentReference[oaicite:6]{index=6}</p>
+      <p>元宇宙网络支持、交互视频流传输、网络协议设计与实现、算法与系统、网络编码、渲染</p>
     </td>
     <td></td>
   </tr>
