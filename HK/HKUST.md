@@ -14,7 +14,7 @@
 - **Field**: [Solid Mechanics and Dynamics](https://mae.hkust.edu.hk/en/research/research-areas/overview/solid-mechanics-and-dynamics)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
     <tr>
@@ -83,7 +83,7 @@
                 <img src="HK/HKUST/profiles/prof-ye-wenjing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wenjing YE 葉文菁"><br>
                 <b>Prof. Wenjing YE 葉文菁</b>
             </a>
-            <p>計算力學、數據驅動計算方法、跨學科設計與優化、拓撲優化、超材料、微尺度氣體與熱傳導 :contentReference[oaicite:8]{index=8}</p>
+            <p>計算力學、數據驅動計算方法、跨學科設計與優化、拓撲優化、超材料、微尺度氣體與熱傳導 </p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-zhang-tianlong/research-overview.md">
@@ -109,7 +109,7 @@
 - **Field**: [Materials Technology](https://mae.hkust.edu.hk/en/research/research-areas/overview/materials-technology)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
     <tr>
@@ -222,7 +222,7 @@
 - **Field**: [Energy/Thermal Fluid and Environment Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/energy-or-thermal-fluid-and-environment-engineering)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
   <tr>
@@ -291,7 +291,7 @@
         <img src="HK/HKUST/profiles/prof-yang-jinglei-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. 杨晶磊 Jinglei YANG"><br>
         <b>Prof. 杨晶磊 Jinglei YANG</b>
       </a>
-      <p>材料力学、碳中和/碳捕集与封存/直接空气捕获、智能绿色制造/合成、基于物理的材料设计机器学习、可持续材料、界面反应与扩散</p>:contentReference[oaicite:8]{index=8}
+      <p>材料力学、碳中和/碳捕集与封存/直接空气捕获、智能绿色制造/合成、基于物理的材料设计机器学习、可持续材料、界面反应与扩散</p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/prof-yao-shuhuai/research-overview.md">
@@ -339,7 +339,7 @@
 - **Field**: [Design, Manufacturing Automation and Robotics](https://mae.hkust.edu.hk/en/research/research-areas/overview/design-manufacturing-automation-and-robotics)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
     <tr>
@@ -408,7 +408,7 @@
                 <img src="HK/HKUST/profiles/prof-tang-kai-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kai TANG 湯凱"><br>
                 <b>Prof. Kai TANG 湯凱</b>
             </a>
-            <p>CAD/CAM、设计与制造自动化软件、算法设计、数值问题求解 :contentReference[oaicite:8]{index=8}</p>
+            <p>CAD/CAM、设计与制造自动化软件、算法设计、数值问题求解 </p>
         </td>
         <td align="center">
             <a href="HK/HKUST/MAE/prof-yang-zb/research-overview.md">
@@ -452,7 +452,7 @@
 - **Field**: [Microsystems and Precision Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/microsystems-and-precision-engineering)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
   <tr>
@@ -523,7 +523,7 @@
 - **Field**: [Aerospace Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/aerospace-engineering)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKUST Professors</summary>
 
 <table>
   <tr>
@@ -592,7 +592,7 @@
         <img src="HK/HKUST/profiles/prof-zhang-xin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Xin ZHANG 張欣"><br>
         <b>Prof. Xin ZHANG 張欣</b>
       </a>
-      <p>空气声学、气动学、航空航天工程、飞机与航空工程、飞机工程 :contentReference[oaicite:8]{index=8}</p>
+      <p>空气声学、气动学、航空航天工程、飞机与航空工程、飞机工程 </p>
     </td>
     <td align="center">
       <a href="HK/HKUST/MAE/dr-zhou-peng/research-overview.md">
@@ -609,4 +609,143 @@
 
 </details>
 
+### [Electronic and Computer Engineering](https://mae.hkust.edu.hk//)
 
+- **Field**: [Biomedical Engineering](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-li-xiaomeng/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-li-xiaomeng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Xiaomeng LI 李小萌"><br>
+        <b>Prof. Xiaomeng LI 李小萌</b>
+      </a>
+      <p>医学图像分析、深度学习、计算机视觉</p>:contentReference[oaicite:0]{index=0}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-qu-jianan/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-qu-jianan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Jianan QU 瞿佳男"><br>
+        <b>Prof. Jianan QU 瞿佳男</b>
+      </a>
+      <p>激光技术、生物光子学、环境监测、光学成像处理、现代光学器件与系统</p>:contentReference[oaicite:1]{index=1}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-shen-yajing/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-shen-yajing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yajing SHEN 申亞京"><br>
+        <b>Prof. Yajing SHEN 申亞京</b>
+      </a>
+      <p>生物医学机器人与器械、人机交互、机器人操控与控制、微型智能系统</p>:contentReference[oaicite:2]{index=2}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-shi-bertram/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-shi-bertram-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Bertram Emil SHI 施毅明"><br>
+        <b>Prof. Bertram Emil SHI 施毅明</b>
+      </a>
+      <p>人工智能、脑机接口、图像分析、神经形态工程、机器人学</p>:contentReference[oaicite:3]{index=3}
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-wang-yiwen/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-wang-yiwen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yiwen WANG 王怡雯"><br>
+        <b>Prof. Yiwen WANG 王怡雯</b>
+      </a>
+      <p>自适应信号处理、脑机接口、计算神经科学、神经形态工程</p>:contentReference[oaicite:4]{index=4}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-yobas-levent/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-yobas-levent-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Levent YOBAS"><br>
+        <b>Prof. Levent YOBAS</b>
+      </a>
+      <p>生物微纳流体学、生物电子学、生物医学工程、生物微机电系统(BioMEMS)、生物传感器</p>:contentReference[oaicite:5]{index=5}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-pan-ling/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-pan-ling-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ling PAN 潘玲"><br>
+        <b>Prof. Ling PAN 潘玲</b>
+      </a>
+      <p>深度强化学习、多智能体系统、科学决策AI、机器人学</p>:contentReference[oaicite:6]{index=6}
+    </td>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-yu-weichuan/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-yu-weichuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Weichuan YU 余維川"><br>
+        <b>Prof. Weichuan YU 余維川</b>
+      </a>
+      <p>生物信息学、生物医学工程、计算生物学、计算机视觉、统计模式识别</p>:contentReference[oaicite:7]{index=7}
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="HK/HKUST/ECE/prof-yuan-georgejie/research-overview.md">
+        <img src="HK/HKUST/profiles/prof-yuan-georgejie-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. George Jie YUAN 袁杰"><br>
+        <b>Prof. George Jie YUAN 袁杰</b>
+      </a>
+      <p>互补金属氧化物半导体(CMOS)、数据转换器、混合信号/模拟集成电路、可穿戴/植入式电子、传感器</p>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+</details>
+
+- **Field**: [Control and Robotic Systems](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Data Science and AI](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Integrated Circuits and Systems](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Microelectronics](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Photonics](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Quantum Engineering](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
+
+- **Field**: [Wireless Communications and Networking](https://ece.hkust.edu.hk/research/areas)
+
+<details>
+<summary>Click to expand HKUST Professors</summary>
+
+
+</details>
