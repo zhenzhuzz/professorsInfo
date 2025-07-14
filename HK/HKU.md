@@ -403,6 +403,8 @@
 <details>
 <summary>Click to expand CUHK Professors</summary>
 
+- **Field**: [Biomedical Engineering](https://www.eee.hku.hk/research/research-interests/#BiomedicalEngineering)
+
 <table>
     <tr>
         <td align="center">
@@ -410,28 +412,28 @@
                 <img src="HK/HKU/profiles/prof-wu-ex-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wu E.X. 吳學奎"><br>
                 <b>Prof. Wu E.X. 吳學奎</b>
             </a>
-            <p>生物医学工程<br>生物医学成像<br>磁共振成像<br>医学仪器<br>神经科学<br>深度学习<br>神经影像学</p>
+            <p>生物医学工程、医学影像、磁共振成像、深度学习、神经影像学、神经科学</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/prof-chen-c/research-overview.md">
                 <img src="HK/HKU/profiles/prof-chen-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chen C. 陳城"><br>
                 <b>Prof. Chen C. 陳城</b>
             </a>
-            <p>生物医学图像分析<br>医疗人工智能<br>机器学习</p>
+            <p>生物医学图像分析、医疗人工智能、机器学习</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/prof-chu-zq/research-overview.md">
                 <img src="HK/HKU/profiles/prof-chu-zq-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chu Z.Q. 褚智勤"><br>
                 <b>Prof. Chu Z.Q. 褚智勤</b>
             </a>
-            <p>精密生物传感与成像<br>钻石缺陷<br>生物物理学<br>纳米光子学<br>材料–生物界面<br>NV中心</p>
+            <p>量子技术、钻石缺陷、生物物理学（量子生物传感、CVD钻石、纳米钻石、NV中心）、细胞机械生物学</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/prof-lee-wn/research-overview.md">
                 <img src="HK/HKU/profiles/prof-lee-wn-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lee W.N. 李偉寧"><br>
                 <b>Prof. Lee W.N. 李偉寧</b>
             </a>
-            <p>医用超声成像<br>声电成像<br>血流成像<br>心血管超声<br>骨骼肌超声<br>波束形成<br>应变与弹性成像<br>神经网络超声</p>
+            <p>医用超声、声电成像、血流成像、心血管超声、骨骼肌超声、波束形成、应变与弹性成像、神经网络超声</p>
         </td>
     </tr>
     <tr>
@@ -440,28 +442,28 @@
                 <img src="HK/HKU/profiles/dr-leong-atl-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Leong A.T.L. 梁志倫"><br>
                 <b>Dr. Leong A.T.L. 梁志倫</b>
             </a>
-            <p>神经科学MRI应用<br>预临床MRI<br>光遗传学<br>神经调控<br>神经影像</p>
+            <p>神经科学MRI应用、预临床MRI、光遗传学、神经调控、神经影像学</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/prof-tsia-kk/research-overview.md">
                 <img src="HK/HKU/profiles/prof-tsia-kk-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tsia K.K. 謝堅文"><br>
                 <b>Prof. Tsia K.K. 謝堅文</b>
             </a>
-            <p>超快实时光学显微与光谱<br>非线性光纤光学<br>微流控生物测定<br>高通量单细胞分析</p>
+            <p>超快实时光学显微与光谱、非线性光纤光学、微流控生物测定、高通量单细胞分析</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/prof-wang-ff/research-overview.md">
                 <img src="HK/HKU/profiles/prof-wang-ff-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang F.F. 王飛飛"><br>
                 <b>Prof. Wang F.F. 王飛飛</b>
             </a>
-            <p>近红外II荧光成像<br>超分辨成像<br>AI增强生物医学成像<br>高级生物医学显微<br>广泛生物医学应用技术</p>
+            <p>近红外II（1000-3000nm）荧光成像、超分辨率成像、AI增强生物医学成像、先进生物医学显微技术、广泛生物医学应用</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/dr-wu-hc/research-overview.md">
                 <img src="HK/HKU/profiles/dr-wu-hc-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Wu H.C. 吳浩俊"><br>
                 <b>Dr. Wu H.C. 吳浩俊</b>
             </a>
-            <p>智能电网<br>大数据分析<br>深度学习<br>生物信息学<br>生物医学信息学<br>物联网人工智能</p>
+            <p>智能电网、大数据分析、深度学习、生物信息学、生物医学信息学、物联网人工智能</p>
         </td>
     </tr>
     <tr>
@@ -470,15 +472,402 @@
                 <img src="HK/HKU/profiles/prof-zhang-sm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang S.M. 張世明"><br>
                 <b>Prof. Zhang S.M. 張世明</b>
             </a>
-            <p>穿戴式电子<br>软电子<br>有机生物电子<br>健康技术</p>
+            <p>可穿戴电子、软电子、有机生物电子、健康技术</p>
         </td>
         <td align="center">
             <a href="HK/HKU/EE/dr-zhao-yj/research-overview.md">
                 <img src="HK/HKU/profiles/dr-zhao-yj-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhao Y.J. 趙雨嬌"><br>
                 <b>Dr. Zhao Y.J. 趙雨嬌</b>
             </a>
-            <p>磁共振成像物理与工程<br>磁共振信号处理</p>
+            <p>磁共振成像物理与工程、MRI信号处理</p>
         </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+- **Field**: [Power Electronics, Electrical Energy and Control Systems](https://www.eee.hku.hk/research/research-interests/#peecs)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-zhang-yh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhang-yh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang Y.H. 張耀豪"><br>
+                <b>Prof. Zhang Y.H. 張耀豪</b>
+            </a>
+            <p>电力电子, 功率半导体, 电子器件, 宽禁带电子器件, 超宽禁带电子器件, 功率封装, 机器学习辅助协同设计, 高温与低温电子技术</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-chesi-g/research-overview.md">
+                <img src="HK/HKU/profiles/prof-chesi-g-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chesi G. 祈國仕"><br>
+                <b>Prof. Chesi G. 祈國仕</b>
+            </a>
+            <p>计算机视觉, 控制系统, 优化, 机器人技术, 二维系统, 线性矩阵不等式, 多视图几何, 非线性系统, 不确定系统, 视觉伺服</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-hou-yh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-hou-yh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Hou Y.H. 侯云鹤"><br>
+                <b>Prof. Hou Y.H. 侯云鹤</b>
+            </a>
+            <p>电力系统, 可再生能源集成, 弹性能源基础设施, 电力电子集成能源系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-hui-syr/research-overview.md">
+                <img src="HK/HKU/profiles/prof-hui-syr-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Hui S.Y.R. 許樹源"><br>
+                <b>Prof. Hui S.Y.R. 許樹源</b>
+            </a>
+            <p>电力电子, 电力转换, 平面无芯变压器技术, 无线电力传输, 可持续照明技术, 可再生能源技术, 智能电网技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-kosuge-k/research-overview.md">
+                <img src="HK/HKU/profiles/prof-kosuge-k-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kosuge K. 小菅一弘"><br>
+                <b>Prof. Kosuge K. 小菅一弘</b>
+            </a>
+            <p>机器人技术, 机器学习, 软材料机器人, 服装处理与缝纫, 人机交互, 系统机器人</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-lam-kh/research-overview.md">
+                <img src="HK/HKU/profiles/dr-lam-kh-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Lam K.H. 林勁恆"><br>
+                <b>Dr. Lam K.H. 林勁恆</b>
+            </a>
+            <p>光伏系统, 智能电网, 能源管理系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-lee-atl/research-overview.md">
+                <img src="HK/HKU/profiles/dr-lee-atl-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Lee A.T.L. 李廷亮"><br>
+                <b>Dr. Lee A.T.L. 李廷亮</b>
+            </a>
+            <p>新型LED驱动技术, 可持续照明技术, 无线电力传输技术, 先进单电感多输出拓扑, 数字化电力变换器控制</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-liu-t/research-overview.md">
+                <img src="HK/HKU/profiles/prof-liu-t-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Liu T. 劉濤"><br>
+                <b>Prof. Liu T. 劉濤</b>
+            </a>
+            <p>电力系统稳定性与控制, 网络化微电网, 分布式控制与优化, 数据驱动控制, 复杂动态网络</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wang-y/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wang-y-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang Y. 王毅"><br>
+                <b>Prof. Wang Y. 王毅</b>
+            </a>
+            <p>智能电网数据分析, 能源预测, 多能系统, 物联网, 网络物理社会能源系统</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-zhong-j/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhong-j-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhong J. 鍾金"><br>
+                <b>Prof. Zhong J. 鍾金</b>
+            </a>
+            <p>电力市场, 低碳能源市场设计, 能源系统优化, 零碳排放能源系统, 智能电网</p>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
+- **Field**: [Intelligent Systems, Data and Networks](https://www.eee.hku.hk/research/research-interests/#IntelligentSystemsDataandNetworks)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-li-vok/research-overview.md">
+                <img src="HK/HKU/profiles/prof-li-vok-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Li V.O.K. 李宏國"><br>
+                <b>Prof. Li V.O.K. 李宏國</b>
+            </a>
+            <p>社会公益人工智能、医疗健康人工智能、清洁能源与环境、大数据、优化技术</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/mr-auy-hh/research-overview.md">
+                <img src="HK/HKU/profiles/mr-auy-hh-profile.jpg" width="150" style="border-radius: 8px;" alt="Mr. Auyeung H.H. 歐陽海航"><br>
+                <b>Mr. Auyeung H.H. 歐陽海航</b>
+            </a>
+            <p>教育人工智能、教育技术、STEM教育、大型模型、自然语言处理</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-chan-sc/research-overview.md">
+                <img src="HK/HKU/profiles/prof-chan-sc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chan S.C. 陳成澄"><br>
+                <b>Prof. Chan S.C. 陳成澄</b>
+            </a>
+            <p>数字信号处理、数据压缩、语音处理、音频图像处理</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/ms-chen-cyx/research-overview.md">
+                <img src="HK/HKU/profiles/ms-chen-cyx-profile.jpg" width="150" style="border-radius: 8px;" alt="Ms. Chen C.Y.X. 陳映賢"><br>
+                <b>Ms. Chen C.Y.X. 陳映賢</b>
+            </a>
+            <p>大型模型、视频理解、分布外检测、视频异常检测、边缘计算</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-chen-xh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-chen-xh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chen X.H. 陳顯豪"><br>
+                <b>Prof. Chen X.H. 陳顯豪</b>
+            </a>
+            <p>无线网络、边缘计算、分布式学习、网络科学</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-du-hy/research-overview.md">
+                <img src="HK/HKU/profiles/prof-du-hy-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Du H.Y. 杜洪陽"><br>
+                <b>Prof. Du H.Y. 杜洪陽</b>
+            </a>
+            <p>边缘智能、生成式人工智能、计算机网络、无线通信</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-fok-wwt/research-overview.md">
+                <img src="HK/HKU/profiles/dr-fok-wwt-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Fok W.W.T. 霍偉東"><br>
+                <b>Dr. Fok W.W.T. 霍偉東</b>
+            </a>
+            <p>电子学习技术与应用、电子商务与移动商务技术、工程经济与金融、清洁能源与环境</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-huang-kb/research-overview.md">
+                <img src="HK/HKU/profiles/prof-huang-kb-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Huang K.B. 黃啟斌"><br>
+                <b>Prof. Huang K.B. 黃啟斌</b>
+            </a>
+            <p>机器学习与无线通信、边缘AI无线通信、6G通信、MIMO通信、移动设备与电子学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-lam-jck/research-overview.md">
+                <img src="HK/HKU/profiles/prof-lam-jck-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lam J.C.K. 林志潔"><br>
+                <b>Prof. Lam J.C.K. 林志潔</b>
+            </a>
+            <p>社会公益人工智能跨学科研究（环境与能源、公共健康、流行病学、神经科学）、AI与大数据驱动阿尔茨海默病生物标志物识别与药物重定位、智能个性化空气污染监测与公共健康管理</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-lee-vcs/research-overview.md">
+                <img src="HK/HKU/profiles/dr-lee-vcs-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Lee V.C.S. 李仲誠"><br>
+                <b>Dr. Lee V.C.S. 李仲誠</b>
+            </a>
+            <p>车联网、电子学习、机器学习、实时数据库</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-li-xh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-li-xh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Liu X.H. 劉曉華"><br>
+                <b>Prof. Liu X.H. 劉曉華</b>
+            </a>
+            <p>计算机视觉、生成模型、多模态AI、深度学习、人工智能</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-liu-yw/research-overview.md">
+                <img src="HK/HKU/profiles/prof-liu-yw-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Liu Y.W. 劉元偉"><br>
+                <b>Prof. Liu Y.W. 劉元偉</b>
+            </a>
+            <p>无线通信、信号处理、6G网络、机器学习与生成式AI</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-ngai-ec/research-overview.md">
+                <img src="HK/HKU/profiles/prof-ngai-ec-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ngai E.C. 魏卓嫻"><br>
+                <b>Prof. Ngai E.C. 魏卓嫻</b>
+            </a>
+            <p>物联网、边缘智能、数据分析与机器学习、网络安全与数据隐私、智慧城市与健康信息学</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-qi-xj/research-overview.md">
+                <img src="HK/HKU/profiles/prof-qi-xj-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Qi X.J. 齊曉娟"><br>
+                <b>Prof. Qi X.J. 齊曉娟</b>
+            </a>
+            <p>3D视觉、深度学习、人工智能、医学图像分析、科学与医学AI</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-so-hh/research-overview.md">
+                <img src="HK/HKU/profiles/prof-so-hh-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. So H.H. 蘇浩然"><br>
+                <b>Prof. So H.H. 蘇浩然</b>
+            </a>
+            <p>以人为本创新、AIoT系统、可重构计算、软硬件协同设计、领域专用架构、FPGA覆盖层、计算机体系结构</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-tam-vw/research-overview.md">
+                <img src="HK/HKU/profiles/dr-tam-vw-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Tam V.W.L. 譚維立"><br>
+                <b>Dr. Tam V.W.L. 譚維立</b>
+            </a>
+            <p>人工智能、计算金融、数据分析、信息可视化、深度/强化学习、投资组合优化、学习分析</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wu-yc/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wu-yc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wu Y.C. 吳懿忠"><br>
+                <b>Prof. Wu Y.C. 吳懿忠</b>
+            </a>
+            <p>张量补全、贝叶斯信号处理、无线通信快速优化、时钟同步</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-han-y/research-overview.md">
+                <img src="HK/HKU/profiles/dr-han-y-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Han Y. 韓陽"><br>
+                <b>Dr. Han Y. 韓陽</b>
+            </a>
+            <p>人工智能、机器学习、因果分析、时空数据分析、空气污染与健康及阿尔茨海默病应用</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-yang-yc/research-overview.md">
+                <img src="HK/HKU/profiles/prof-yang-yc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yang Y.C. 楊彥超"><br>
+                <b>Prof. Yang Y.C. 楊彥超</b>
+            </a>
+            <p>具身AI、计算机视觉与图形、表征学习、信息论、机器人与人机交互</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-yeung-lk/research-overview.md">
+                <img src="HK/HKU/profiles/prof-yeung-lk-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yeung L.K.W. 楊冠威"><br>
+                <b>Prof. Yeung L.K.W. 楊冠威</b>
+            </a>
+            <p>下一代互联网、分组交换/路由器设计、全光网络、无线数据网络</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-zeng-qs/research-overview.md">
+                <img src="HK/HKU/profiles/dr-zeng-qs-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zeng Q.S. 曾群松"><br>
+                <b>Dr. Zeng Q.S. 曾群松</b>
+            </a>
+            <p>无线通信、边缘智能、基带处理、语义通信、量子增强接收机</p>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+- **Field**: [Biomedical Engineering](https://www.eee.hku.hk/research/research-interests/#PhotonicsandElectronics)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wong-n/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wong-n-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wong N. 黃威昂"><br>
+                <b>Prof. Wong N. 黃威昂</b>
+            </a>
+            <p>机器学习、紧凑建模、张量代数、电子设计自动化、人工智能芯片</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-choi-ahw/research-overview.md">
+                <img src="HK/HKU/profiles/prof-choi-ahw-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Choi A.H.W. 蔡海威"><br>
+                <b>Prof. Choi A.H.W. 蔡海威</b>
+            </a>
+            <p>氮化镓材料与器件设计、建模、工艺与表征</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-choy-wc/research-overview.md">
+                <img src="HK/HKU/profiles/prof-choy-wc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Choy W.C. 蔡植浩"><br>
+                <b>Prof. Choy W.C. 蔡植浩</b>
+            </a>
+            <p>有机/无机光电器件设计与机理、等离激元纳米结构、纳米级结构与有机/无机混合系统、多物理特性与应用</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-deng-z/research-overview.md">
+                <img src="HK/HKU/profiles/dr-deng-z-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Deng Z. 鄧卓"><br>
+                <b>Dr. Deng Z. 鄧卓</b>
+            </a>
+            <p>集成光学与光子学、III-V半导体材料与器件、生物传感与成像光谱学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-fu-gwy/research-overview.md">
+                <img src="HK/HKU/profiles/dr-fu-gwy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Fu G.W.Y. 傅偉源"><br>
+                <b>Dr. Fu G.W.Y. 傅偉源</b>
+            </a>
+            <p>III族氮化物器件、纳米光子学制备、纳米结构表征</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-kang-jq/research-overview.md">
+                <img src="HK/HKU/profiles/dr-kang-jq-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Kang J.Q. 康季強"><br>
+                <b>Dr. Kang J.Q. 康季強</b>
+            </a>
+            <p>光学相干断层成像、超快激光、成像引导激光烧蚀与手术、光纤非线性</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-li-c/research-overview.md">
+                <img src="HK/HKU/profiles/prof-li-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Li C. 李燦"><br>
+                <b>Prof. Li C. 李燦</b>
+            </a>
+            <p>人工智能硬件、类脑计算、非易失性存储器、新型纳米电子器件</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-liu-zw/research-overview.md">
+                <img src="HK/HKU/profiles/dr-liu-zw-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Liu Z.W. 劉正武"><br>
+                <b>Dr. Liu Z.W. 劉正武</b>
+            </a>
+            <p>记忆电阻器、内存计算、脑机接口、物理不可克隆函数</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-lam-em/research-overview.md">
+                <img src="HK/HKU/profiles/prof-lam-em-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lam E.M. 林殷敏"><br>
+                <b>Prof. Lam E.M. 林殷敏</b>
+            </a>
+            <p>计算光学成像、数字全息、类脑成像、生物医学成像、图像分析、计算光学人工智能</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-ma-jw/research-overview.md">
+                <img src="HK/HKU/profiles/dr-ma-jw-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Ma J.W. 馬靜文"><br>
+                <b>Dr. Ma J.W. 馬靜文</b>
+            </a>
+            <p>光物质相互作用、集成光子学、III-V半导体激光器、微机电系统、超材料</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-peng-ey/research-overview.md">
+                <img src="HK/HKU/profiles/prof-peng-ey-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Peng E.Y. 彭奕凡"><br>
+                <b>Prof. Peng E.Y. 彭奕凡</b>
+            </a>
+            <p>计算成像与显示、全息术、人工智能光学、虚拟/增强现实、计算机图形与应用、视觉任务神经工程</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wong-ky/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wong-ky-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wong K.Y. 黃建業"><br>
+                <b>Prof. Wong K.Y. 黃建業</b>
+            </a>
+            <p>新型光学产生、光子参数处理、超快光纤通信与成像</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-wang-h/research-overview.md">
+                <img src="HK/HKU/profiles/prof-wang-h-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang H. 王翰"><br>
+                <b>Prof. Wang H. 王翰</b>
+            </a>
+            <p>先进半导体、微电子学、人工智能硬件</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/mr-xiang-c/research-overview.md">
+                <img src="HK/HKU/profiles/mr-xiang-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Mr. Xiang C. 向超"><br>
+                <b>Mr. Xiang C. 向超</b>
+            </a>
+            <p>硅光子学、半导体激光器、光子集成电路</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-zhang-s/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhang-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang S. 張爽"><br>
+                <b>Prof. Zhang S. 張爽</b>
+            </a>
+            <p>光物质相互作用、超材料、拓扑光子学、非线性光学、等离激元学、超表面、全息术</p>
+        </td>
+        <td align="center">
+            <a href="HK/HKU/EE/prof-zhao-lt/research-overview.md">
+                <img src="HK/HKU/profiles/prof-zhao-lt-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhao L.T. 趙天碩"><br>
+                <b>Prof. Zhao L.T. 趙天碩</b>
+            </a>
+            <p>纳米材料与纳米制造、光学与光电器件、光/电化学器件</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="HK/HKU/EE/dr-zhu-y/research-overview.md">
+                <img src="HK/HKU/profiles/dr-zhu-y-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhu Y. 朱艳敏"><br>
+                <b>Dr. Zhu Y. 朱艳敏</b>
+            </a>
+            <p>智能诊断、数字全息、计算光学、深度学习与生成式人工智能、计算机视觉与机器智能、环境监测与健康人工智能、光谱学、偏振与散斑成像、可穿戴与便携设备</p>
+        </td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
