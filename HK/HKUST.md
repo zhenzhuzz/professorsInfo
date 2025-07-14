@@ -11,10 +11,12 @@
 
 ### [Mechanical and Aerospace Engineering](https://mae.hkust.edu.hk//)
 
-- **Field**: [Solid Mechanics and Dynamics](https://mae.hkust.edu.hk/en/research/research-areas/overview/solid-mechanics-and-dynamics)
-
 <details>
 <summary>Click to expand HKUST Professors</summary>
+
+- **Field**: [Solid Mechanics and Dynamics](https://mae.hkust.edu.hk/en/research/research-areas/overview/solid-mechanics-and-dynamics)
+
+
 
 <table>
     <tr>
@@ -104,12 +106,11 @@
 </table>
 
 
-</details>
+
 
 - **Field**: [Materials Technology](https://mae.hkust.edu.hk/en/research/research-areas/overview/materials-technology)
 
-<details>
-<summary>Click to expand HKUST Professors</summary>
+
 
 <table>
     <tr>
@@ -217,12 +218,11 @@
 </table>
 
 
-</details>
+
 
 - **Field**: [Energy/Thermal Fluid and Environment Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/energy-or-thermal-fluid-and-environment-engineering)
 
-<details>
-<summary>Click to expand HKUST Professors</summary>
+
 
 <table>
   <tr>
@@ -334,12 +334,11 @@
 </table>
 
 
-</details>
+
 
 - **Field**: [Design, Manufacturing Automation and Robotics](https://mae.hkust.edu.hk/en/research/research-areas/overview/design-manufacturing-automation-and-robotics)
 
-<details>
-<summary>Click to expand HKUST Professors</summary>
+
 
 <table>
     <tr>
@@ -447,12 +446,11 @@
 </table>
 
 
-</details>
+
 
 - **Field**: [Microsystems and Precision Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/microsystems-and-precision-engineering)
 
-<details>
-<summary>Click to expand HKUST Professors</summary>
+
 
 <table>
   <tr>
@@ -518,12 +516,11 @@
 </table>
 
 
-</details>
+
 
 - **Field**: [Aerospace Engineering](https://mae.hkust.edu.hk/en/research/research-areas/overview/aerospace-engineering)
 
-<details>
-<summary>Click to expand HKUST Professors</summary>
+
 
 <table>
   <tr>
