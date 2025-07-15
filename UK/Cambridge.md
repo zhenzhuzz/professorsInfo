@@ -429,8 +429,309 @@
 <summary>Click to expand Professors</summary>
 
 - **Field**: [Computational and Biological Learning Laboratory](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/computational-and-biological)
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-wolpert-daniel/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-wolpert-daniel-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Daniel Wolpert 丹尼爾·沃爾珀特"><br>
+        <b>Prof. Daniel Wolpert 丹尼爾·沃爾珀特</b>
+      </a>
+      <p>計算神經科學、感覺運動控制、主動感知、決策制定</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-ahmadian-tehrani-yashar/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-ahmadian-tehrani-yashar-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼"><br>
+        <b>Dr. Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼</b>
+      </a>
+      <p>理論神經科學、計算神經科學</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-dudley-john/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-dudley-john-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. John Dudley 約翰·達德利"><br>
+        <b>Dr. John Dudley 約翰·達德利</b>
+      </a>
+      <p>人機交互、虛擬現實、增強現實、文本輸入</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-ge-hong/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-ge-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Hong Ge 葛洪"><br>
+        <b>Dr. Hong Ge 葛洪</b>
+      </a>
+      <p>學習算法、推理算法、決策制定、貝葉斯推理、概率編程</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-ghahramani-zoubin/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-ghahramani-zoubin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zoubin Ghahramani 祖賓·加哈拉馬尼"><br>
+        <b>Prof. Zoubin Ghahramani 祖賓·加哈拉馬尼</b>
+      </a>
+      <p>概率建模、機器學習、貝葉斯統計、非參數方法、大數據</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-hennequin-guillaume/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-hennequin-guillaume-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Guillaume Hennequin 吉約姆·亨內金"><br>
+        <b>Prof. Guillaume Hennequin 吉約姆·亨內金</b>
+      </a>
+      <p>感覺皮層動力學、運動皮層動力學、控制理論、統計物理、動力系統</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-hernandez-lobato-miguel/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-hernandez-lobato-miguel-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Miguel Hernández Lobato 米格爾·埃爾南德斯·洛巴托"><br>
+        <b>Prof. Miguel Hernández Lobato 米格爾·埃爾南德斯·洛巴托</b>
+      </a>
+      <p>模型驅動機器學習、概率學習技術、貝葉斯優化、矩陣分解、Copula、高斯過程、稀疏線性模型</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-lengyel-mate/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-lengyel-mate-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mate Lengyel 馬特·蘭傑爾"><br>
+        <b>Prof. Mate Lengyel 馬特·蘭傑爾</b>
+      </a>
+      <p>學習與記憶、算法與表徵、神經振盪</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-mancini-flavia/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-mancini-flavia-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Flavia Mancini 弗拉維亞·曼奇尼"><br>
+        <b>Dr. Flavia Mancini 弗拉維亞·曼奇尼</b>
+      </a>
+      <p>身體穩態、厭惡狀態、決策制定、計算方法、控制理論、動態系統、神經影像</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-rasmussen-carl/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-rasmussen-carl-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Carl Rasmussen 卡爾·拉斯穆森"><br>
+        <b>Prof. Carl Rasmussen 卡爾·拉斯穆森</b>
+      </a>
+      <p>概率推理、強化學習、近似推理、非參數建模、隨機過程、數據效率學習</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-turner-richard/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-turner-richard-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Richard Turner 理查德·特納"><br>
+        <b>Prof. Richard Turner 理查德·特納</b>
+      </a>
+      <p>概率機器學習、環境預測、時空建模、生成模型、不確定性量化</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-weller-adrian/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-weller-adrian-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Adrian Weller 亞德里安·韋勒"><br>
+        <b>Dr. Adrian Weller 亞德里安·韋勒</b>
+      </a>
+      <p>可解釋性、公平性、健壯性、可擴展性、隱私保護、安全、倫理</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Control Group](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/control-group)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-smith-malcolm/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-smith-malcolm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Malcolm SMITH"><br>
+        <b>Prof. Malcolm Smith 馬爾科姆·史密斯</b>
+      </a>
+      <p>鲁棒控制、无源性控制、电路综合、机械网络、数学系统理论、非线性系统、汽车应用</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-bakshi-somenath/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-bakshi-somenath-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Somenath BAKSHI"><br>
+        <b>Dr. Somenath Bakshi 索梅納斯·巴克希</b>
+      </a>
+      <p>系统生物学、合成生物学、定量微生物学、显微成像、微流体学</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-forni-fulvio/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-forni-fulvio-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Fulvio FORNI"><br>
+        <b>Prof. Fulvio Forni 富爾維奧·福爾尼</b>
+      </a>
+      <p>控制理论、非线性系统</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-letas-ioannis/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-letas-ioannis-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ioannis LESTAS"><br>
+        <b>Prof. Ioannis Lestas 約安尼斯·萊斯塔斯</b>
+      </a>
+      <p>系统与控制理论、电力系统、智能电网、优化、分布式资源分配、分散式控制、通信网络、生物网络</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-oleary-timothy/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-oleary-timothy-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Timothy O'LEARY"><br>
+        <b>Prof. Timothy O'Leary 蒂莫西·奧利里</b>
+      </a>
+      <p>神经生理学、理论神经科学、计算神经科学、系统神经科学</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-sepulchre-rodolphe/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-sepulchre-rodolphe-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Rodolphe SEPULCHRE"><br>
+        <b>Prof. Rodolphe Sepulchre 羅道夫·塞珀爾克</b>
+      </a>
+      <p>非线性系统、控制、优化</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-vinnicombe-glenn/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-vinnicombe-glenn-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Glenn VINNICOMBE"><br>
+        <b>Prof. Glenn Vinnicombe 格倫·維尼科姆</b>
+      </a>
+      <p>控制工程</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 - **Field**: [Machine Intelligence Laboratory](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/machine-intelligence-laboratory)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-bill-byrne/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-bill-byrne-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Bill Byrne 比爾·拜恩"><br>
+        <b>Bill Byrne 比爾·拜恩</b>
+      </a>
+      <p>语音和语言处理、统计机器翻译、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-roberto-cipolla/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-roberto-cipolla-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Roberto Cipolla 羅伯托·奇波拉"><br>
+        <b>Roberto Cipolla 羅伯托·奇波拉</b>
+      </a>
+      <p>计算机视觉、机器学习、机器人技术</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-mark-gales/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-mark-gales-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mark Gales 馬克·蓋爾斯"><br>
+        <b>Mark Gales 馬克·蓋爾斯</b>
+      </a>
+      <p>口语处理、低资源语音处理、语音合成、二语学习与评估</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-andrew-gee/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-andrew-gee-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Andrew Gee 安德魯·基"><br>
+        <b>Andrew Gee 安德魯·基</b>
+      </a>
+      <p>医学影像、超声、CT、弹性成像、骨质疏松</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-russell-hunter/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-russell-hunter-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Russell Hunter 羅素·亨特"><br>
+        <b>Russell Hunter 羅素·亨特</b>
+      </a>
+      <p>软件工程、图像处理、教育技术</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-fumiya-iida/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-fumiya-iida-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Fumiya Iida 飯田史彌"><br>
+        <b>Fumiya Iida 飯田史彌</b>
+      </a>
+      <p>机器人、机电一体化、机器智能</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-kate-knill/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-kate-knill-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Kate Knill 凱特·諾伊爾"><br>
+        <b>Kate Knill 凱特·諾伊爾</b>
+      </a>
+      <p>语音识别、语音合成</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-richard-prager/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-richard-prager-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Richard Prager 理查德·普拉格"><br>
+        <b>Richard Prager 理查德·普拉格</b>
+      </a>
+      <p>医学超声成像、超声波束形成、三维超声成像、反褶积</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-graham-treece/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-graham-treece-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Graham Treece 格雷厄姆·特里斯"><br>
+        <b>Graham Treece 格雷厄姆·特里斯</b>
+      </a>
+      <p>医学图像分析、可视化、骨皮质映射、CT伪影消除</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-phil-woodland/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-phil-woodland-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Phil Woodland 菲爾·伍德蘭"><br>
+        <b>Phil Woodland 菲爾·伍德蘭</b>
+      </a>
+      <p>语音语言技术、大词汇量语音识别、音频索引、语言建模、机器学习</p>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 - **Field**: [Signal Processing and Communications Laboratory](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/signal-processing-and)
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-godsill-simon/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-godsill-simon-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Simon GODSILL 西蒙·戈德西爾"><br>
+        <b>Simon GODSILL 西蒙·戈德西爾</b>
+      </a>
+      <p>统计信号处理、贝叶斯计算、粒子滤波、音频与音乐处理、稀疏建模、传感器融合、多目标跟踪</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-guillen-fabregas-albert/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-guillen-fabregas-albert-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Albert GUILLÉN I FÀBREGAS 阿爾貝特·吉倫·法布雷加斯"><br>
+        <b>Albert GUILLÉN I FÀBREGAS 阿爾貝特·吉倫·法布雷加斯</b>
+      </a>
+      <p>信息理论、编码理论、通信理论、数据压缩、数字调制、信号处理</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-lasenby-joan/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-lasenby-joan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Joan LASENBY 瓊·拉森比"><br>
+        <b>Joan LASENBY 瓊·拉森比</b>
+      </a>
+      <p>动作捕捉、几何代数、结构光体积描记、惯性导航、步态与康复、三维重建</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/dr-sayir-jossy/research-overview.md">
+        <img src="UK/Cambridge/profiles/dr-sayir-jossy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Jossy SAYIR 喬西·賽亞爾"><br>
+        <b>Jossy SAYIR 喬西·賽亞爾</b>
+      </a>
+      <p>信息论、信道编码、数据压缩、通信系统、存储系统、DNA数据存储</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-van-der-schaar-mihaela/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-van-der-schaar-mihaela-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mihaela VAN DER SCHAAR 米海拉·範德沙爾"><br>
+        <b>Mihaela VAN DER SCHAAR 米海拉·範德沙爾</b>
+      </a>
+      <p>机器学习、医疗应用、金融应用、教育应用、数据科学、网络科学、博弈论、信号处理、通信、多媒体</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-venkataramanan-ramji/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-venkataramanan-ramji-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ramji VENKATARAMANAN 拉姆吉·文卡塔拉馬南"><br>
+        <b>Ramji VENKATARAMANAN 拉姆吉·文卡塔拉馬南</b>
+      </a>
+      <p>信息理论、高维统计、统计机器学习、信号处理</p>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+</details>
+
+
+### [Electrical Engineering(https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering-0)
+
+<details>
+<summary>Click to expand Professors</summary>
+
+- **Field**: [Electrical Power and Energy Conversion Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/electrical-power-and-energy)
+
+- **Field**: [Photonics Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/photonics-group)
+
+- **Field**: [Solid State Electronics and Nanoscale Science Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/solid-state-electronics-and)
 
 </details>
