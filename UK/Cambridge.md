@@ -723,15 +723,74 @@
 </details>
 
 
-### [Electrical Engineering(https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering-0)
+### [Electrical Engineering](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering-0)
 
 <details>
 <summary>Click to expand Professors</summary>
 
 - **Field**: [Electrical Power and Energy Conversion Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/electrical-power-and-energy)
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-coombs-tim/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-coombs-tim-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tim Coombs 提姆·庫姆斯"><br>
+        <b>Prof. Tim Coombs 提姆·庫姆斯</b>
+      </a>
+      <p>超导技术、飞轮磁悬浮、H-流形方法、全超导电机、行波磁通泵、故障电流限流、磁悬浮轴承、部分放电、功率因数校正、变压器设计 :contentReference[oaicite:0]{index=0}</p>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 - **Field**: [Photonics Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/photonics-group)
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-chu-daping/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-chu-daping-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Daping CHU 初大平"><br>
+        <b>Prof. Daping CHU 初大平</b>
+      </a>
+      <p>全息与3D显示、AR/VR头戴式显示与抬头显示、高带宽空间光调制、新型光子器件与模块、光纤开关、建筑环境辐射控制、GHz/太赫兹可调介电材料、可打印电子学 :contentReference[oaicite:0]{index=0}</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-penty-richard/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-penty-richard-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Richard PENTY 理查德·潘蒂"><br>
+        <b>Prof. Richard PENTY 理查德·潘蒂</b>
+      </a>
+      <p>光子学、光子交换、光子集成电路、光纤射频传输、光数据通信、RFID :contentReference[oaicite:1]{index=1}</p>
+    </td>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-savory-seb/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-savory-seb-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Seb SAVORY 賽布·薩沃里"><br>
+        <b>Prof. Seb SAVORY 賽布·薩沃里</b>
+      </a>
+      <p>光纤通信、数字信号处理、数字相干收发算法、相干无源光网络、统计光通信系统设计、认知光网络 :contentReference[oaicite:2]{index=2}</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 - **Field**: [Solid State Electronics and Nanoscale Science Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/solid-state-electronics-and)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="UK/Cambridge/Engineering/prof-durkan-colm/research-overview.md">
+        <img src="UK/Cambridge/profiles/prof-durkan-colm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Colm DURKAN"><br>
+        <b>Prof. Colm DURKAN 科爾姆·杜爾坎</b>
+      </a>
+      <p>纳米结构材料行为、几何与尺寸调控、扫描探针显微、原子尺度成像与探测、有机分子电输运、纳米电子器件架构 :contentReference[oaicite:0]{index=0}</p>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 </details>
