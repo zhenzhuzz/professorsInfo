@@ -11,6 +11,14 @@
 
 ### [Mechanical Engineering](https://cde.nus.edu.sg/me/)
 
+**[Research Thrusts / Area](https://cde.nus.edu.sg/me/research/research-thrusts-area/)**:
+- [Additive Manufacturing: 3DP-enabled Medical Technologies](https://cde.nus.edu.sg/me/research/research-thrusts-area/additive-manufacturing-3dp-enabled-medical-technologies/)
+- [Advanced Manufacturing](https://cde.nus.edu.sg/me/research/research-thrusts-area/advanced-manufacturing/)
+- [Computational Mechanics](https://cde.nus.edu.sg/me/research/research-thrusts-area/computational-mechanics/)
+- [Computational Fluid Dynamics](https://cde.nus.edu.sg/me/research/research-thrusts-area/computational-fluid-dynamics/)
+- [Energy efficient thermal and storage system](https://cde.nus.edu.sg/me/research/research-thrusts-area/energy-efficient-thermal-and-storage-system/)
+- [Robotics](https://cde.nus.edu.sg/me/research/research-thrusts-area/robotics/)
+
 <details>
 <summary>Click to expand Professors</summary>
 
