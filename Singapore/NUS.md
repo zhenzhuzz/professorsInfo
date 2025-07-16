@@ -815,28 +815,28 @@
         <img src="Singapore/NUS/profiles/mansoor-bin-abdul-jalil.jpg" width="150" style="border-radius:8px;" alt="Mansoor bin Abdul Jalil 曼苏尔·宾·阿卜杜勒·贾利勒"><br>
         <b>Mansoor bin Abdul Jalil 曼苏尔·宾·阿卜杜勒·贾利勒</b>
       </a>
-      <p>纳米电子器件理论、自旋电子学（自旋霍尔效应、斯格米子动力学）、拓扑材料（Weyl半金属、二维材料）、石墨烯输运特性、自旋轨道效应 :contentReference[oaicite:0]{index=0}</p>
+      <p>纳米电子器件理论、自旋电子学（自旋霍尔效应、斯格米子动力学）、拓扑材料（Weyl半金属、二维材料）、石墨烯输运特性、自旋轨道效应</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/armin-gerhard-aberle">
         <img src="Singapore/NUS/profiles/armin-gerhard-aberle.jpg" width="150" style="border-radius:8px;" alt="Armin Gerhard Aberle 阿尔敏·格哈德·阿贝尔"><br>
         <b>Armin Gerhard Aberle 阿尔敏·格哈德·阿贝尔</b>
       </a>
-      <p>光伏能量转换、硅太阳能电池（晶片与薄膜）、电池制造与表征技术、器件物理、光捕获结构 :contentReference[oaicite:1]{index=1}</p>
+      <p>光伏能量转换、硅太阳能电池（晶片与薄膜）、电池制造与表征技术、器件物理、光捕获结构</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/antonio-helio-castro-neto">
         <img src="Singapore/NUS/profiles/antonio-helio-castro-neto.jpg" width="150" style="border-radius:8px;" alt="Antonio Helio Castro Neto 安东尼奥·埃利奥·卡斯特罗·内托"><br>
         <b>Antonio Helio Castro Neto 安东尼奥·埃利奥·卡斯特罗·内托</b>
       </a>
-      <p>凝聚态理论、石墨烯与二维材料、拓扑绝缘体、自旋电子学、Berry相研究 :contentReference[oaicite:2]{index=2}</p>
+      <p>凝聚态理论、石墨烯与二维材料、拓扑绝缘体、自旋电子学、Berry相研究</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/tee-chee-keong-benjamin">
         <img src="Singapore/NUS/profiles/tee-chee-keong-benjamin.jpg" width="150" style="border-radius:8px;" alt="Tee Chee Keong 郑志强"><br>
         <b>Tee Chee Keong 郑志强</b>
       </a>
-      <p>有机半导体、印刷电子、纳米结构、薄膜材料、市场分析 :contentReference[oaicite:3]{index=3}</p>
+      <p>有机半导体、印刷电子、纳米结构、薄膜材料、市场分析</p>
     </td>
   </tr>
   <tr>
@@ -845,28 +845,28 @@
         <img src="Singapore/NUS/profiles/chim-wai-kin.jpg" width="150" style="border-radius:8px;" alt="Chim Wai Kin 岑伟健"><br>
         <b>Chim Wai Kin 岑伟健</b>
       </a>
-      <p>纳米晶体存储（SONOS、RRAM）、纳米结构表征、扫描探针显微技术、存储器可靠性、纳米晶体记忆 :contentReference[oaicite:4]{index=4}</p>
+      <p>纳米晶体存储（SONOS、RRAM）、纳米结构表征、扫描探针显微技术、存储器可靠性、纳米晶体记忆</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/chor-eng-fong">
         <img src="Singapore/NUS/profiles/chor-eng-fong.jpg" width="150" style="border-radius:8px;" alt="Chor Eng Fong 卓英芳"><br>
         <b>Chor Eng Fong 卓英芳</b>
       </a>
-      <p>金属-半导体接触、碳纳米管、器件设计、器件制造与表征 :contentReference[oaicite:5]{index=5}</p>
+      <p>金属-半导体接触、碳纳米管、器件设计、器件制造与表征</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/aaron-danner">
         <img src="Singapore/NUS/profiles/aaron-danner.jpg" width="150" style="border-radius:8px;" alt="Aaron Danner 艾伦·丹纳"><br>
         <b>Aaron Danner 艾伦·丹纳</b>
       </a>
-      <p>锂铌酸盐集成光学器件、钛酸钡光子器件、芯片光学集成、光学通信器件、量子信息处理、全息成像 :contentReference[oaicite:6]{index=6}</p>
+      <p>锂铌酸盐集成光学器件、钛酸钡光子器件、芯片光学集成、光学通信器件、量子信息处理、全息成像</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/fong-xuanyao-kelvin">
         <img src="Singapore/NUS/profiles/fong-xuanyao-kelvin.jpg" width="150" style="border-radius:8px;" alt="Kelvin Fong Xuanyao 冯玄耀"><br>
         <b>Kelvin Fong Xuanyao 冯玄耀</b>
       </a>
-      <p>器件-系统协同设计、硅及非硅纳米电子、超低功耗逻辑电路、存储系统设计、模拟与非布尔计算 :contentReference[oaicite:7]{index=7}</p>
+      <p>器件-系统协同设计、硅及非硅纳米电子、超低功耗逻辑电路、存储系统设计、模拟与非布尔计算</p>
     </td>
   </tr>
   <tr>
@@ -875,28 +875,28 @@
         <img src="Singapore/NUS/profiles/gong-xiao.jpg" width="150" style="border-radius:8px;" alt="Gong Xiao 龚潇"><br>
         <b>Gong Xiao 龚潇</b>
       </a>
-      <p>先进晶体管、异构存储器、单片3D集成、光电子集成电路、嵌入式计算 :contentReference[oaicite:8]{index=8}</p>
+      <p>先进晶体管、异构存储器、单片3D集成、光电子集成电路、嵌入式计算</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/ho-ghim-wei">
         <img src="Singapore/NUS/profiles/ho-ghim-wei.jpg" width="150" style="border-radius:8px;" alt="Ho Ghim Wei 何锦威"><br>
         <b>Ho Ghim Wei 何锦威</b>
       </a>
-      <p>功能性纳米结构材料合成、光热能源转换、太阳能海水淡化、光催化CO₂还原、多功能纳米复合材料 :contentReference[oaicite:9]{index=9}</p>
+      <p>功能性纳米结构材料合成、光热能源转换、太阳能海水淡化、光催化CO₂还原、多功能纳米复合材料</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/hong-minghui">
         <img src="Singapore/NUS/profiles/hong-minghui.jpg" width="150" style="border-radius:8px;" alt="Hong Minghui 洪明辉"><br>
         <b>Hong Minghui 洪明辉</b>
       </a>
-      <p>激光微纳加工、太赫兹超材料、等离子体研究与应用、杂化Fano共振、光学工程 :contentReference[oaicite:10]{index=10}</p>
+      <p>激光微纳加工、太赫兹超材料、等离子体研究与应用、杂化Fano共振、光学工程</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ECE/staff/anjam-khursheed">
         <img src="Singapore/NUS/profiles/anjam-khursheed.jpg" width="150" style="border-radius:8px;" alt="Anjam Khursheed 安贾姆·库尔希德"><br>
         <b>Anjam Khursheed 安贾姆·库尔希德</b>
       </a>
-      <p>扫描电子显微与能量谱仪设计、纳米级电子光学仪器、电子散射仿真、材料电子性能映射 :contentReference[oaicite:11]{index=11}</p>
+      <p>扫描电子显微与能量谱仪设计、纳米级电子光学仪器、电子散射仿真、材料电子性能映射</p>
     </td>
   </tr>
 
@@ -1030,8 +1030,234 @@
 
 
 - **Field**: [Microwave & Radio Frequency](https://cde.nus.edu.sg/ece/research/research-areas/microwave-radio-frequency/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/chen-xudong/research-overview.md">
+        <img src="Singapore/NUS/profiles/chen-xudong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. CHEN Xudong 陈旭东"><br>
+        <b>CHEN Xudong 陈旭东</b>
+      </a>
+      <p>电磁波理论与应用、逆问题与优化方法、计算电磁学、微波光声成像、无损检测、超材料应用、表面等离子体显微</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/chen-zhi-ning/research-overview.md">
+        <img src="Singapore/NUS/profiles/chen-zhi-ning-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. CHEN Zhi Ning 陈智宁"><br>
+        <b>CHEN Zhi Ning 陈智宁</b>
+      </a>
+      <p>应用电磁学、超材料、微波天线、毫米波系统、太赫兹器件</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/guo-yong-xin/research-overview.md">
+        <img src="Singapore/NUS/profiles/guo-yong-xin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. GUO Yong Xin 郭永新"><br>
+        <b>GUO Yong Xin 郭永新</b>
+      </a>
+      <p>新兴无线通信天线、植入式可穿戴天线、MMIC建模与设计、射频能量收集、卫星SAR与雷达射频</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/ho-john-sy/research-overview.md">
+        <img src="Singapore/NUS/profiles/ho-john-sy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. John S. Y. Ho 何世扬"><br>
+        <b>John S. Y. Ho 何世扬</b>
+      </a>
+      <p>生物组织无线功率传输、生物电子系统集成</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/low-kay-soon/research-overview.md">
+        <img src="Singapore/NUS/profiles/low-kay-soon-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kay-Soon Low 刘佳顺"><br>
+        <b>Kay-Soon Low 刘佳顺</b>
+      </a>
+      <p>卫星通信、太阳能、功率电子、实时控制、传感网络</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/mouthaan-koen/research-overview.md">
+        <img src="Singapore/NUS/profiles/mouthaan-koen-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof. Koen Mouthaan 科恩·穆塔安"><br>
+        <b>Koen Mouthaan 科恩·穆塔安</b>
+      </a>
+      <p>微波与毫米波电路与系统、相控阵天线、数字波束形成、射频前端设计、技术创新</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/qiu-cheng-wei/research-overview.md">
+        <img src="Singapore/NUS/profiles/qiu-cheng-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof. Qiu Cheng Wei 丘承伟"><br>
+        <b>Qiu Cheng Wei 丘承伟</b>
+      </a>
+      <p>结构光超表面、超材料、纳米光学、光学微操纵、电磁散射与衍射</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/yeo-swee-ping/research-overview.md">
+        <img src="Singapore/NUS/profiles/yeo-swee-ping-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yeo Swee Ping 杨瑞平"><br>
+        <b>Yeo Swee Ping 杨瑞平</b>
+      </a>
+      <p>六端口微波测量、波导结构电磁建模、微带器件分析、微带组件设计、微带测试</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/yeo-tat-soon/research-overview.md">
+        <img src="Singapore/NUS/profiles/yeo-tat-soon-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yeo Tat Soon 杨达顺"><br>
+        <b>Yeo Tat Soon 杨达顺</b>
+      </a>
+      <p>微波集成电路、微带天线、无线电波传播、合成孔径雷达、雷达散射截面预测与优化、楔形衍射、计算机断层成像</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/wang-chao-fu/research-overview.md">
+        <img src="Singapore/NUS/profiles/wang-chao-fu-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof. Wang Chao-Fu 王朝富"><br>
+        <b>Wang Chao-Fu 王朝富</b>
+      </a>
+      <p>计算电磁算法、特征模态分析、自适应积分方法、快速散射仿真、天线特征模式</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/gao-xianke/research-overview.md">
+        <img src="Singapore/NUS/profiles/gao-xianke-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Richard Gao Xianke 高显科"><br>
+        <b>Richard Gao Xianke 高显科</b>
+      </a>
+      <p>电磁干扰与兼容、超材料与先进材料、天线与RFID、无线能量收集、太赫兹技术、量子计算、鲁棒设计与优化</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 - **Field**: [Power and Energy Systems](https://cde.nus.edu.sg/ece/research/research-areas/power-and-energy-group/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/ashwin-m-khambadkone/research-overview.md">
+        <img src="Singapore/NUS/profiles/ashwin-m-khambadkone-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ashwin M Khambadkone 阿施文"><br>
+        <b>Ashwin M Khambadkone 阿施文</b>
+      </a>
+      <p>分布式能源资源网络、燃料电池系统、电力电子能量系统控制、PFC数字控制、VRM数字控制、多级逆变器技术</p> :contentReference[oaicite:0]{index=0}
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/sahoo-sanjib-kumar/research-overview.md">
+        <img src="Singapore/NUS/profiles/sahoo-sanjib-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Sahoo Sanjib Kumar 孙吉木"><br>
+        <b>Sahoo Sanjib Kumar 孙吉木</b>
+      </a>
+      <p>暂无公开资料</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/liang-yung-chii/research-overview.md">
+        <img src="Singapore/NUS/profiles/liang-yung-chii-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yung C. Liang 梁英志"><br>
+        <b>Yung C. Liang 梁英志</b>
+      </a>
+      <p>宽禁带器件与集成电路、光电传感器、磁传感器、MEMS器件、铁电器件</p> :contentReference[oaicite:1]{index=1}
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/low-teck-seng/research-overview.md">
+        <img src="Singapore/NUS/profiles/low-teck-seng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Low Teck Seng 刘德生"><br>
+        <b>Low Teck Seng 刘德生</b>
+      </a>
+      <p>闪电及防护、高压技术、电能质量、输电系统、电力系统谐波</p> :contentReference[oaicite:2]{index=2}
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/sanjib-kumar-panda/research-overview.md">
+        <img src="Singapore/NUS/profiles/sanjib-kumar-panda-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Sanjib Kumar Panda 潘森吉"><br>
+        <b>Sanjib Kumar Panda 潘森吉</b>
+      </a>
+      <p>能量收集（高功率与低功率）、电动机驱动与电力电子变换器控制、可再生能源系统集成、预测与预防性维护、建筑能源可持续技术、室内空气质量监测与控制</p> :contentReference[oaicite:3]{index=3}
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/jimmy-chih-hsien-peng/research-overview.md">
+        <img src="Singapore/NUS/profiles/jimmy-chih-hsien-peng-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Jimmy Chih-Hsien Peng 彭志贤"><br>
+        <b>Jimmy Chih-Hsien Peng 彭志贤</b>
+      </a>
+      <p>电力系统识别与控制、微电网稳定、电网网络安全、虚假信息攻击、电力系统韧性</p> :contentReference[oaicite:4]{index=4}
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/dipti-srinivasan/research-overview.md">
+        <img src="Singapore/NUS/profiles/dipti-srinivasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Dipti Srinivasan 狄璞婷"><br>
+        <b>Dipti Srinivasan 狄璞婷</b>
+      </a>
+      <p>智能电网、计算智能、可再生能源系统、多目标优化、需求侧管理</p> :contentReference[oaicite:5]{index=5}
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/sangit-sasidhar/research-overview.md">
+        <img src="Singapore/NUS/profiles/sangit-sasidhar-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Sangit Sasidhar 桑吉特"><br>
+        <b>Sangit Sasidhar 桑吉特</b>
+      </a>
+      <p>医疗嵌入式系统、信号处理、电力系统、模式识别</p> :contentReference[oaicite:6]{index=6}
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/power-and-energy-systems/liew-ah-choy/research-overview.md">
+        <img src="Singapore/NUS/profiles/liew-ah-choy-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Liew Ah Choy 刘雅祥"><br>
+        <b>Liew Ah Choy 刘雅祥</b>
+      </a>
+      <p>闪电及防护、高压技术、电能质量、输电系统、谐波分析</p> :contentReference[oaicite:7]{index=7}
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 - **Field**: [Signal Analysis & Machine Intelligence](https://cde.nus.edu.sg/ece/research/research-areas/sami/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/robby-tantowi-tan">
+        <img src="Singapore/NUS/profiles/robby-tantowi-tan-profile.jpg" width="150" style="border-radius:8px;" alt="Robby Tantowi Tan 陶比·丹托威"><br>
+        <b>Robby Tantowi Tan 陶比·丹托威</b>
+      </a>
+      <p>计算机视觉、深度学习、生成式AI、机器学习、人工智能</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/yeo-boon-thye-thomas">
+        <img src="Singapore/NUS/profiles/yeo-boon-thye-thomas-profile.jpg" width="150" style="border-radius:8px;" alt="Yeo Boon Thye Thomas 杨文智·托马斯"><br>
+        <b>Yeo Boon Thye Thomas 杨文智·托马斯</b>
+      </a>
+      <p>机器学习、人工智能、大规模脑成像数据分析、统计模型、多维数据分析</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/zhou-zhiying-steven">
+        <img src="Singapore/NUS/profiles/zhou-zhiying-steven-profile.jpg" width="150" style="border-radius:8px;" alt="Steven Zhou Zhiying 周智英·史蒂文"><br>
+        <b>Steven Zhou Zhiying 周智英·史蒂文</b>
+      </a>
+      <p>机器视觉、混合现实、增强现实、多模态人机交互、数字媒体</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/chen-tsuhan">
+        <img src="Singapore/NUS/profiles/chen-tsuhan-profile.jpg" width="150" style="border-radius:8px;" alt="Tsuhan Chen 陈楚涵"><br>
+        <b>Tsuhan Chen 陈楚涵</b>
+      </a>
+      <p>计算机视觉与模式识别、多媒体编码与检索、生物特征认证</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/wang-xinchao">
+        <img src="Singapore/NUS/profiles/wang-xinchao-profile.jpg" width="150" style="border-radius:8px;" alt="Wang Xinchao 王新超"><br>
+        <b>Wang Xinchao 王新超</b>
+      </a>
+      <p>人工智能、计算机视觉、机器学习、医学图像分析、多媒体</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/shou-zheng-mike">
+        <img src="Singapore/NUS/profiles/shou-zheng-mike-profile.jpg" width="150" style="border-radius:8px;" alt="Mike Z. Shou 舒正铭"><br>
+        <b>Mike Z. Shou 舒正铭</b>
+      </a>
+      <p>计算机视觉与模式识别、多媒体分析、自然语言处理、视频理解、深度学习</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/zhou-juan-helen">
+        <img src="Singapore/NUS/profiles/zhou-juan-helen-profile.jpg" width="150" style="border-radius:8px;" alt="Zhou Juan Helen 周娟·海伦"><br>
+        <b>Zhou Juan Helen 周娟·海伦</b>
+      </a>
+      <p>多模态神经影像学、网络基础脆弱性假设、认知功能评估、神经退行性疾病研究、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ECE/staff/jin-yueming">
+        <img src="Singapore/NUS/profiles/jin-yueming-profile.jpg" width="150" style="border-radius:8px;" alt="Yueming Jin 金月明"><br>
+        <b>Yueming Jin 金月明</b>
+      </a>
+      <p>手术人工智能、医学图像分析、机器学习</p>
+    </td>
+  </tr>
+</table>
 
 
 </details>
