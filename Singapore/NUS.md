@@ -376,28 +376,28 @@
         <img src="Singapore/NUS/profiles/chng-tat-loon-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chng Tat Loon 張達倫"><br>
         <b>Prof. Chng Tat Loon 張達倫</b>
       </a>
-      <p>非平衡等离子体、光学诊断、清洁能源、空气动力学、高速可压缩流动</p>:contentReference[oaicite:0]{index=0}
+      <p>非平衡等离子体、光学诊断、清洁能源、空气动力学、高速可压缩流动</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/prof-chua-kian-jon/research-overview.md">
         <img src="Singapore/NUS/profiles/chua-kian-jon-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chua Kian Jon 蔡建仁"><br>
         <b>Prof. Chua Kian Jon 蔡建仁</b>
       </a>
-      <p>可再生/清洁能源、太阳能热能系统、膜脱湿、露点调节、热质传递</p>:contentReference[oaicite:1]{index=1}
+      <p>可再生/清洁能源、太阳能热能系统、膜脱湿、露点调节、热质传递</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/dr-tan-danielle-s/research-overview.md">
         <img src="Singapore/NUS/profiles/tan-danielle-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Danielle Tan 谭丹妮"><br>
         <b>Dr. Danielle Tan 谭丹妮</b>
       </a>
-      <p>颗粒混合物流变学、微观属性（粒度分布、粒子形状、含水量、静电）影响、离散元素法建模</p>:contentReference[oaicite:2]{index=2}
+      <p>颗粒混合物流变学、微观属性（粒度分布、粒子形状、含水量、静电）影响、离散元素法建模</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/prof-mengaldo-gianmarco/research-overview.md">
         <img src="Singapore/NUS/profiles/mengaldo-gianmarco-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Gianmarco Mengaldo 孟安多"><br>
         <b>Prof. Gianmarco Mengaldo 孟安多</b>
       </a>
-      <p>高保真多物理仿真工具开发、数据挖掘技术、模式识别、机器学习预测复杂系统行为、多学科计算科学</p>:contentReference[oaicite:3]{index=3}
+      <p>高保真多物理仿真工具开发、数据挖掘技术、模式识别、机器学习预测复杂系统行为、多学科计算科学</p>
     </td>
   </tr>
   <tr>
@@ -406,28 +406,28 @@
         <img src="Singapore/NUS/profiles/birgersson-erik-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof. Erik Birgersson 白嘉遜"><br>
         <b>Assoc Prof. Erik Birgersson 白嘉遜</b>
       </a>
-      <p>数学建模、传输现象（流体力学、传热传质）、阻抗、光伏与燃料电池、流电池与水凝胶、多种设备与系统</p>:contentReference[oaicite:4]{index=4}
+      <p>数学建模、传输现象（流体力学、传热传质）、阻抗、光伏与燃料电池、流电池与水凝胶、多种设备与系统</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/prof-khoo-boo-cheong/research-overview.md">
         <img src="Singapore/NUS/profiles/khoo-boo-cheong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Khoo Boo Cheong 邱武昌"><br>
         <b>Prof. Khoo Boo Cheong 邱武昌</b>
       </a>
-      <p>流体力学、气泡与冲击动力学、多介质流、计算流体动力学、数值建模</p>:contentReference[oaicite:5]{index=5}
+      <p>流体力学、气泡与冲击动力学、多介质流、计算流体动力学、数值建模</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/prof-koh-yee-kan/research-overview.md">
         <img src="Singapore/NUS/profiles/koh-yee-kan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Koh Yee Kan 許宜勤"><br>
         <b>Prof. Koh Yee Kan 許宜勤</b>
       </a>
-      <p>超快光谱学、热传输性质、传输性质、热电性能、二维材料异质结构</p>:contentReference[oaicite:6]{index=6}
+      <p>超快光谱学、热传输性质、传输性质、热电性能、二维材料异质结构</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/prof-lee-poh-seng/research-overview.md">
         <img src="Singapore/NUS/profiles/lee-poh-seng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lee Poh Seng 李寶成"><br>
         <b>Prof. Lee Poh Seng 李寶成</b>
       </a>
-      <p>微流体学、微尺度传热、先进热管理技术（单/两相微/迷你通道冷却）、清洁/可再生能源、混合光伏-热系统、生物燃料发动机</p>:contentReference[oaicite:7]{index=7}
+      <p>微流体学、微尺度传热、先进热管理技术（单/两相微/迷你通道冷却）、清洁/可再生能源、混合光伏-热系统、生物燃料发动机</p>
     </td>
   </tr>
   <tr>
@@ -436,28 +436,89 @@
         <img src="Singapore/NUS/profiles/liu-chang-will-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Will Chang Liu 劉暢"><br>
         <b>Dr. Will Chang Liu 劉暢</b>
       </a>
-      <p>水凝胶精密工程、大气水收集、低品位能量收集、智能空间热控</p>:contentReference[oaicite:8]{index=8}
+      <p>水凝胶精密工程、大气水收集、低品位能量收集、智能空间热控</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/assoc-prof-loh-wai-lam/research-overview.md">
         <img src="Singapore/NUS/profiles/loh-wai-lam-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof. Loh Wai Lam 羅慧琳"><br>
         <b>Assoc Prof. Loh Wai Lam 羅慧琳</b>
       </a>
-      <p>海底加工、油水气分离</p>:contentReference[oaicite:9]{index=9}
+      <p>海底加工、油水气分离</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/a-prof-raisul-islam/research-overview.md">
         <img src="Singapore/NUS/profiles/raisul-islam-profile.jpg" width="150" style="border-radius: 8px;" alt="A/Prof. Md Raisul Islam 伊斯蘭·賴蘇爾"><br>
         <b>A/Prof. Md Raisul Islam 伊斯蘭·賴蘇爾</b>
       </a>
-      <p>吸收式冷却系统、节能空调系统、除湿与蒸发式冷却、生物热系统</p>:contentReference[oaicite:10]{index=10}
+      <p>吸收式冷却系统、节能空调系统、除湿与蒸发式冷却、生物热系统</p>
     </td>
     <td align="center">
       <a href="Singapore/NUS/ME/assist-prof-shin-sunmi/research-overview.md">
         <img src="Singapore/NUS/profiles/shin-sunmi-profile.jpg" width="150" style="border-radius: 8px;" alt="Asst Prof. Shin Sunmi 申善美"><br>
         <b>Asst Prof. Shin Sunmi 申善美</b>
       </a>
-      <p>纳米尺度热传输（辐射与导热）、等离子光学、红外光学、太阳能热能、热电器件</p>:contentReference[oaicite:11]{index=11}
+      <p>纳米尺度热传输（辐射与导热）、等离子光学、红外光学、太阳能热能、热电器件</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ME/chng-tat-loon.html">
+        <img src="Singapore/NUS/profiles/chng-tat-loon.jpg" width="150" style="border-radius: 8px;" alt="Dr. Chng Tat Loon"><br>
+        <b>Dr. Chng Tat Loon 張達倫</b>
+      </a>
+      <p>非平衡等离子體、光學診斷、清潔能源、氣動力學</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/tan-danielle-s.html">
+        <img src="Singapore/NUS/profiles/tan-danielle-s.jpg" width="150" style="border-radius: 8px;" alt="Dr. Danielle Tan"><br>
+        <b>Dr. Danielle Tan 譚丹妮</b>
+      </a>
+      <p>顆粒混合物流變學、微觀屬性建模、離散元法模擬</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/sng-wei-meng-daniel.html">
+        <img src="Singapore/NUS/profiles/sng-wei-meng-daniel.jpg" width="150" style="border-radius: 8px;" alt="Dr. Sng Wei Meng Daniel"><br>
+        <b>Dr. Sng Wei Meng Daniel 沈偉明·丹尼爾</b>
+      </a>
+      <p>位移通風熱帶環境應用、建築暖通節能、人體熱舒適、室內空氣質量建模、空氣流動仿真</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/teo-chiang-juay.html">
+        <img src="Singapore/NUS/profiles/teo-chiang-juay.jpg" width="150" style="border-radius: 8px;" alt="Dr. Teo Chiang Juay"><br>
+        <b>Dr. Teo Chiang Juay  張江志</b>
+      </a>
+      <p>流體力學、氣動力學、航太推進、流體動力學、微流體、MEMS設計與製造</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NUS/ME/yang-wenming.html">
+        <img src="Singapore/NUS/profiles/yang-wenming.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yang Wenming"><br>
+        <b>Prof. Yang Wenming 楊文明</b>
+      </a>
+      <p>生物燃料內燃機、高效低排放鍋爐平台、焚燒爐、微型發電機、燃燒優化與排放控制</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/zhang-huangwei.html">
+        <img src="Singapore/NUS/profiles/zhang-huangwei.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhang Huangwei"><br>
+        <b>Dr. Zhang Huangwei 張黃偉</b>
+      </a>
+      <p>燃燒與反應流動、湍流燃燒建模、多相燃燒、極限火焰動力學、高性能計算與並行算法</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/zhang-mengqi.html">
+        <img src="Singapore/NUS/profiles/zhang-mengqi.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhang Mengqi"><br>
+        <b>Dr. Zhang Mengqi 張夢琪</b>
+      </a>
+      <p>流體力學穩定性、數值模擬</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/zhu-lailai.html">
+        <img src="Singapore/NUS/profiles/zhu-lailai.jpg" width="150" style="border-radius: 8px;" alt="Dr. Zhu Lailai"><br>
+        <b>Dr. Zhu Lailai 朱徠徠</b>
+      </a>
+      <p>低雷諾數流體結構相互作用、生物仿生主動自適應系統、海冰相互作用</p>
     </td>
   </tr>
 </table>
