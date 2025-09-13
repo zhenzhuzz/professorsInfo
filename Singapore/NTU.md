@@ -69,8 +69,6 @@
       </a>
       <p>工业机器人视觉、运动规划、控制理论、微操纵、建筑施工机器人、人形／类人行走、机器人感知</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Singapore/NTU/MAE/assoc-prof-zhong-zhaowei/research-overview.md">
         <img src="Singapore/NTU/MAE/profiles/assoc-prof-zhong-zhaowei-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Zhong Zhaowei"><br>
@@ -78,9 +76,5 @@
       </a>
       <p>机电一体化、精密与超精密制造、微电子封装、建模分析、空域管理、交通流仿真</p>
     </td>
-    <!-- 可以加占位符以保证每行4个<td>，如果没有更多老师可以添加空<td> -->
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
