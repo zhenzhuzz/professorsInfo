@@ -12,7 +12,7 @@
 ### [Mechanical and Aerospace Engineering](https://www.ntu.edu.sg/engineering/admissions/graduate-programmes/detail/mae-phd#admission)
 
 <details>
-<summary>Click to expand Professors</summary>
+<summary>Click to expand NTU Professors</summary>
 
 - **Field**: [Aerospace](https://www.ntu.edu.sg/mae/research/research-focus/aerospace#Content_C004_Col00)
 
@@ -654,3 +654,221 @@
     </td>
   </tr>
 </table>
+
+</details>
+
+### [Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee/faculty#Content_C085_Col00)
+<details>
+<summary>Click to expand NTU Professors</summary>
+** Professors **
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/chang-chip-hong/research-overview.md">
+        <img src="SG/NTU/profiles/chang-chip-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chang Chip Hong"><br>
+        <b>Prof. Chang Chip Hong 张集宏</b>
+      </a>
+      <p>硬件安全、AI安全、生物特征安全、可信感知、剩余数系统、低功耗算术电路、低电压算术电路、容错计算、VLSI数字电路设计自动化、数字滤波、后量子密码加速器</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/chang-joseph-sylvester/research-overview.md">
+        <img src="SG/NTU/profiles/chang-joseph-sylvester-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Joseph Sylvester Chang"><br>
+        <b>Prof. Joseph Sylvester CHANG 张约瑟夫·西尔维斯特</b>
+      </a>
+      <p>生物工程、仪器仪表、耳鼻喉科学、听力学、心理声学与声学、模拟与混合信号电路与系统、电源管理、射频系统一体化转换器、数字电路与系统、异步逻辑、高可靠电子、激光与重离子测试、航天级电子、自动驾驶电子、柔性电子</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/cheng-tee-hiang/research-overview.md">
+        <img src="SG/NTU/profiles/cheng-tee-hiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Cheng Tee Hiang"><br>
+        <b>Prof. Cheng Tee Hiang 郑迪亨</b>
+      </a>
+      <p>光通信与网络、移动自组网、复杂网络、网络安全</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/demir-hilmi-volkan/research-overview.md">
+        <img src="SG/NTU/profiles/demir-hilmi-volkan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Hilmi Volkan Demir"><br>
+        <b>Prof. Hilmi Volkan DEMIR 赫尔米·沃尔坎·德米尔</b>
+      </a>
+      <p>半导体、纳米晶体、纳米光子学、发光二极管、照明、传感、等离激元、射频传感器</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/gan-woon-seng/research-overview.md">
+        <img src="SG/NTU/profiles/gan-woon-seng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Gan Woon Seng"><br>
+        <b>Prof. GAN Woon Seng 颜文成</b>
+      </a>
+      <p>主动降噪、可听设备降噪、开窗降噪、空间音频处理、声音AI、音频信号处理、嵌入式DSP</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/gao-weibo/research-overview.md">
+        <img src="SG/NTU/profiles/gao-weibo-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Gao Weibo"><br>
+        <b>Prof. GAO Weibo 高维博</b>
+      </a>
+      <p>量子信息科学与工程、量子光子学、量子材料、宽禁带材料、二维材料光子学与输运、量子传感、量子通信</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/goel-lalit-kumar/research-overview.md">
+        <img src="SG/NTU/profiles/goel-lalit-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lalit Kumar Goel"><br>
+        <b>Prof. Lalit Kumar GOEL 拉利特·库马尔·戈尔</b>
+      </a>
+      <p>电力系统可靠性、成本效益分析、电力市场去监管、可再生能源、电力系统分析、负荷预测</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/guan-yong-liang/research-overview.md">
+        <img src="SG/NTU/profiles/guan-yong-liang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Guan Yong Liang"><br>
+        <b>Prof. GUAN Yong Liang 关永良</b>
+      </a>
+      <p>通信与存储编码、信号处理、车联万物通信、任意时延编码、LDPC编码与译码、Turbo编码与技术、多输入多输出技术、信道建模、车载通信信道、电力线通信</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/hu-guoqiang/research-overview.md">
+        <img src="SG/NTU/profiles/hu-guoqiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Hu Guoqiang"><br>
+        <b>Prof. HU Guoqiang 胡国强</b>
+      </a>
+      <p>优化、博弈论、控制、学习算法、数据科学、机器人、智慧城市应用、分布式智能系统</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/lansard-erick/research-overview.md">
+        <img src="SG/NTU/profiles/lansard-erick-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Erick Lansard"><br>
+        <b>Prof. Erick LANSARD 埃里克·朗萨尔</b>
+      </a>
+      <p>先进航天系统、卫星系统设计、卫星应用、星座编队、环境变化与社会影响、创新管理、全球导航卫星系统</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/lee-yee-hui/research-overview.md">
+        <img src="SG/NTU/profiles/lee-yee-hui-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lee Yee Hui"><br>
+        <b>Prof. LEE Yee Hui 李义慧</b>
+      </a>
+      <p>天线设计、计算电磁学、电磁兼容与抗扰、信道表征、降雨传播、GNSS气象、降雨预测、微波遥感、深度学习气象</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/ng-geok-ing/research-overview.md">
+        <img src="SG/NTU/profiles/ng-geok-ing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ng Geok Ing"><br>
+        <b>Prof. NG Geok Ing 黄玉英</b>
+      </a>
+      <p>氮化镓高电子迁移率晶体管、硅基外延、Ⅲ–Ⅴ化合物半导体器件、高频器件、微波单片集成电路应用、先进封装与传热、传感器</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/su-rong/research-overview.md">
+        <img src="SG/NTU/profiles/su-rong-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Su Rong"><br>
+        <b>Prof. SU Rong 苏荣</b>
+      </a>
+      <p>监督控制、离散事件系统、模型诊断、网络安全分析、仿真、编队控制、输出调节、滑模控制、智能制造、智慧城市、智能交通、智慧楼宇</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/tan-chuan-seng/research-overview.md">
+        <img src="SG/NTU/profiles/tan-chuan-seng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tan Chuan Seng"><br>
+        <b>Prof. TAN Chuan Seng 陈川成</b>
+      </a>
+      <p>三维封装与集成、硅锗锡族异质外延、半导体工艺技术、器件物理、硅通孔、晶圆键合、光电器件</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/tan-ooi-kiang/research-overview.md">
+        <img src="SG/NTU/profiles/tan-ooi-kiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tan Ooi Kiang"><br>
+        <b>Prof. TAN Ooi Kiang 陈伟强</b>
+      </a>
+      <p>传感器、致动器、智能材料、纳米电子学、功能材料与器件、电子设计、生物医学传感、功能致动器</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/tan-yap-peng/research-overview.md">
+        <img src="SG/NTU/profiles/tan-yap-peng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tan Yap Peng"><br>
+        <b>Prof. TAN Yap Peng 陈业鹏</b>
+      </a>
+      <p>图像处理、视频处理、多媒体计算、计算机视觉、模式识别、机器学习、数据分析、人类行为分析</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/tay-beng-kang/research-overview.md">
+        <img src="SG/NTU/profiles/tay-beng-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tay Beng Kang"><br>
+        <b>Prof. TAY Beng Kang 郑明康</b>
+      </a>
+      <p>二维材料、碳基材料、薄膜、碳纳米管、异质结构、隧穿二极管、三值逻辑、热电器件、FCVA技术、化学气相沉积、类金刚石涂层、微波与高频应用</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/tay-wee-peng/research-overview.md">
+        <img src="SG/NTU/profiles/tay-wee-peng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tay Wee Peng"><br>
+        <b>Prof. TAY Wee Peng 郑伟平</b>
+      </a>
+      <p>网络信号与信息处理、分布式推断与学习、统计隐私、机器学习、检测与估计、优化、社交学习、图信号处理、定位与射频技术、通信与网络系统</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/teo-hang-tong-edwin/research-overview.md">
+        <img src="SG/NTU/profiles/teo-hang-tong-edwin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Teo Hang Tong Edwin"><br>
+        <b>Prof. TEO Hang Tong Edwin 张恒东</b>
+      </a>
+      <p>纳米复合材料、氮化硼纳米结构、六方氮化硼、薄膜、相变材料、热界面材料、热管理、空间材料、生物材料、微波各向异性、碳纳米管阵列</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/tjin-swee-chuan/research-overview.md">
+        <img src="SG/NTU/profiles/tjin-swee-chuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tjin Swee Chuan"><br>
+        <b>Prof. TJIN Swee Chuan 陈瑞全</b>
+      </a>
+      <p>光纤传感、生物医学工程、生物光子学、光子器件、光纤布拉格光栅、结构健康监测、光学测量</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/wang-dan-wei/research-overview.md">
+        <img src="SG/NTU/profiles/wang-dan-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang Dan Wei"><br>
+        <b>Prof. Wang Dan Wei 王丹维</b>
+      </a>
+      <p>迭代学习控制、重复控制、机器人动力学、移动机器人、路径规划、模型诊断、故障识别、健康预测、卫星编队飞行</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/wang-qijie/research-overview.md">
+        <img src="SG/NTU/profiles/wang-qijie-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wang Qijie"><br>
+        <b>Prof. Wang Qijie 王琦捷</b>
+      </a>
+      <p>光子学、纳米光子学、半导体光电子学、激光科学、激光工程、中红外光子学、太赫兹光电子学</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/wei-lei/research-overview.md">
+        <img src="SG/NTU/profiles/wei-lei-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wei Lei"><br>
+        <b>Prof. Wei Lei 魏磊</b>
+      </a>
+      <p>光纤传感、光纤光电器件、纤维可穿戴电子、多功能光纤、生物纤维界面、光纤能量生成、光纤能量存储</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/wen-changyun/research-overview.md">
+        <img src="SG/NTU/profiles/wen-changyun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Wen Changyun"><br>
+        <b>Prof. Wen Changyun 温长云</b>
+      </a>
+      <p>自适应控制、切换系统、脉冲系统、迭代学习控制、信息物理系统、可再生能源、智能电网、智能系统、复杂系统、复杂网络</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="SG/NTU/EEE/xie-lihua/research-overview.md">
+        <img src="SG/NTU/profiles/xie-lihua-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Xie Lihua"><br>
+        <b>Prof. Xie Lihua 谢立华</b>
+      </a>
+      <p>鲁棒控制、估计算法、网络化控制、协同控制、传感器网络、节能建筑、无人系统</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/zhang-qing/research-overview.md">
+        <img src="SG/NTU/profiles/zhang-qing-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zhang Qing"><br>
+        <b>Prof. Zhang Qing 张青</b>
+      </a>
+      <p>碳纳米管、物性研究、电子器件、光电器件、类金刚石薄膜、化学气相沉积金刚石、石墨烯、纳米结构</p>
+    </td>
+    <td align="center">
+      <a href="SG/NTU/EEE/zheng-yuanjin/research-overview.md">
+        <img src="SG/NTU/profiles/zheng-yuanjin-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Zheng Yuanjin"><br>
+        <b>Prof. Zheng Yuanjin 郑元进</b>
+      </a>
+      <p>射频集成电路、系统级芯片、声表面波、微机电、声学传感、生物芯片系统、生物医学成像、雷达、超宽带通信、自适应信号处理、图像处理、专用集成电路</p>
+    </td>
+    <td align="center"><!-- 占位以保持每行4列 --></td>
+  </tr>
+</table>
+
+** Associate Professors **
+</details>
