@@ -12,7 +12,7 @@
 ### [Mechanical Engineering](https://mech.hku.hk/research)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKU Professors</summary>
 
 - **Field**: [Biomedical Engineering](https://mech.hku.hk/research)
 
@@ -401,7 +401,7 @@
  ### [Electrical and Electronics Engineering](https://www.eee.hku.hk/)
 
 <details>
-<summary>Click to expand CUHK Professors</summary>
+<summary>Click to expand HKU Professors</summary>
 
 - **Field**: [Biomedical Engineering](https://www.eee.hku.hk/research/research-interests/#BiomedicalEngineering)
 
