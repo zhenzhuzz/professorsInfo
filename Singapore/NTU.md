@@ -169,8 +169,200 @@
 </table>
 
 - **Field**: [Industrial Engineering & Design](https://www.ntu.edu.sg/mae/research/research-focus/industrial-engineering-design)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-chen-chun-hsien/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-chen-chun-hsien-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chun-Hsien CHEN"><br>
+        <b>Prof. Chun-Hsien CHEN 陳俊賢</b>
+      </a>
+      <p>产品设计、设计科学、工程信息学、人因工程、情感化设计、客户需求管理、设计决策支持、协同设计、知识工程、智能制造</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-rajesh-piplani/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-rajesh-piplani-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Rajesh PIPLANI"><br>
+        <b>Assoc Prof Rajesh PIPLANI 拉傑什·皮普拉尼</b>
+      </a>
+      <p>供应链规划、供应链库存优化、生产规划机器学习、空管运行规划、空管运行优化、运营协调</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-tai-kang/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-tai-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Kang TAI"><br>
+        <b>Assoc Prof Kang TAI 戴康</b>
+      </a>
+      <p>关键基础设施网络、极端风险、网络弹性、拓扑优化、形状优化、计算几何、图论建模、可展结构、柔顺机构</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-sameer-alam/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-sameer-alam-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Sameer ALAM"><br>
+        <b>Assoc Prof Sameer ALAM 薩米爾·阿拉姆</b>
+      </a>
+      <p>空中交通管理、机器学习、强化学习、轨迹预测、流量优化、人机协作、可解释人工智能、多智能体系统</p>
+    </td>
+  </tr>
+</table>
+
+
 - **Field**: [Manufacturing](https://www.ntu.edu.sg/mae/research/research-focus/manufacturing)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-chou-siaw-meng/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-chou-siaw-meng-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Siaw Meng CHOU"><br>
+        <b>Assoc Prof Siaw Meng CHOU 周紹明</b>
+      </a>
+      <p>骨科生物力学、肌腱修复、脊柱固定、步态与运动评估、薄壁结构屈曲、医学影像力学分析</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/dr-chen-songlin/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/dr-chen-songlin-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr Songlin CHEN"><br>
+        <b>Dr Songlin CHEN 陳松林</b>
+      </a>
+      <p>先进制造系统、服务系统运营、个性化定制、系统可靠性、风险管理、决策优化</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-leong-kai-choong/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-leong-kai-choong-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Kai Choong LEONG"><br>
+        <b>Assoc Prof Kai Choong LEONG 梁啟聰</b>
+      </a>
+      <p>电子封装散热、两相换热、纳米流体传热、热管理系统、沸腾强化、微结构传热</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-pang-hock-lye-john/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-pang-hock-lye-john-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof John H. L. PANG"><br>
+        <b>Prof John H. L. PANG 彭福來</b>
+      </a>
+      <p>激光熔覆、再制造评估、材料—工艺—性能关联、增材制造修复、连接与焊接可靠性、结构完整性</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-tor-shu-beng/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-tor-shu-beng-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Shu Beng TOR"><br>
+        <b>Assoc Prof Shu Beng TOR 杜樹本</b>
+      </a>
+      <p>聚合物微制造、模具与工具设计、成形工艺信息学、电子束熔融、粉床熔融、工艺—结构建模</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-tran-anh-tuan/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-tran-anh-tuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Tuan TRAN"><br>
+        <b>Assoc Prof Tuan TRAN 陳英俊</b>
+      </a>
+      <p>薄膜流动、相变传热、液滴撞击、表界面工程、微尺度流体、电子冷却</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-zhou-kun/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-zhou-kun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof KUN ZHOU"><br>
+        <b>Prof KUN ZHOU 周坤</b>
+      </a>
+      <p>增材制造材料、粉床熔融建模、材料力学、多物理场模拟、聚合物复合、过程参数优化</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-liu-erjia/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-liu-erjia-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Erjia LIU"><br>
+        <b>Assoc Prof Erjia LIU 劉爾佳</b>
+      </a>
+      <p>薄膜与涂层、类金刚石碳材料、纳米复合、冷喷涂修复、增材制造金属、摩擦学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-yeong-wai-yee/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-yeong-wai-yee-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Wai Yee YEONG"><br>
+        <b>Prof Wai Yee YEONG 楊薇儀</b>
+      </a>
+      <p>增材制造、生物打印、组织工程、金属3D打印、蜂窝结构设计、建筑打印</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-tan-ming-jen/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-tan-ming-jen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Ming Jen TAN"><br>
+        <b>Prof Ming Jen TAN 陳明仁</b>
+      </a>
+      <p>摩擦搅拌加工、轻质合金成形、热处理修复、建筑3D打印、加工工艺优化、材料成形机理</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-moon-seung-ki/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-moon-seung-ki-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Seung Ki MOON"><br>
+        <b>Assoc Prof Seung Ki MOON 文勝基</b>
+      </a>
+      <p>激光增材制造、资源配置建模、可持续设计、薄壁结构打印、过程规划、质量评估</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-yeo-swee-hock/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-yeo-swee-hock-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Swee Hock YEO"><br>
+      <b>Assoc Prof Swee Hock YEO 楊瑞福</b>
+      </a>
+      <p>涂附磨料加工、带式研磨、超声表面精饰、振动研磨、去除机理建模、刀具轨迹规划</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Materials](https://www.ntu.edu.sg/mae/research/research-focus/materials)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-huang-wei-min/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-huang-wei-min-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Weimin HUANG"><br>
+        <b>Assoc Prof Weimin HUANG 黃維民</b>
+      </a>
+      <p>形状记忆材料、智能致动器、薄膜、MEMS、微纳图案、先进材料</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-zhou-kun/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-zhou-kun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof KUN ZHOU"><br>
+        <b>Prof KUN ZHOU 周坤</b>
+      </a>
+      <p>增材制造、粉床熔融、材料力学、建模与仿真、多物理场、聚合物材料</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-hirotaka-sato/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-hirotaka-sato-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Hirotaka SATO"><br>
+        <b>Prof Hirotaka SATO 佐藤宏孝</b>
+      </a>
+      <p>昆虫—机器混合系统、生物燃料电池、电镀、化学镀、电化学抛光、电催化、微纳制造</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-yeong-wai-yee/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-yeong-wai-yee-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Wai Yee YEONG"><br>
+        <b>Prof Wai Yee YEONG 楊薇儀</b>
+      </a>
+      <p>三维打印、生物打印、金属植入物、电子打印、增材制造、机器学习</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-sridhar-idapalapati/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-sridhar-idapalapati-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Sridhar IDAPALAPATI"><br>
+        <b>Assoc Prof Sridhar IDAPALAPATI 斯里達爾·伊達帕拉帕蒂</b>
+      </a>
+      <p>复合材料、双轴加载测试、陶瓷装甲、弹道极限、增材复合、结构失效机理</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-tan-ming-jen/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-tan-ming-jen-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Ming Jen TAN"><br>
+        <b>Prof Ming Jen TAN 陳明仁</b>
+      </a>
+      <p>摩擦搅拌加工、轻质合金成形、热处理修复、三维混凝土打印、材料成形</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-hortense-le-ferrand/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-hortense-le-ferrand-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Hortense LE FERRAND"><br>
+        <b>Assoc Prof Hortense LE FERRAND 歐滕絲·勒費朗</b>
+      </a>
+      <p>仿生复合材料、陶瓷增材制造、水基打印、磁辅助组装、层级结构、可持续制造</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-liu-erjia/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-liu-erjia-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Erjia LIU"><br>
+        <b>Assoc Prof Erjia LIU 劉爾佳</b>
+      </a>
+      <p>薄膜与涂层、类金刚石碳、纳米复合、纳米摩擦学、冷喷涂、金属增材制造</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Mechanics](https://www.ntu.edu.sg/mae/research/research-focus/mechanics)
 - **Field**: [Micro-Systems & Optics](https://www.ntu.edu.sg/mae/research/research-focus/micro-systems-optics)
 - **Field**: [Robotics & Automation](https://www.ntu.edu.sg/mae/research/research-focus/robotics-automation)
