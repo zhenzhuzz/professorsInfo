@@ -364,6 +364,293 @@
 </table>
 
 - **Field**: [Mechanics](https://www.ntu.edu.sg/mae/research/research-focus/mechanics)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-fan-hui/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-fan-hui-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Hui FAN"><br>
+        <b>Assoc Prof Hui FAN 范輝</b>
+      </a>
+      <p>微观力学、界面力学、应用数学、多物理场、积分方程、固体力学</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-ang-whye-teong/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-ang-whye-teong-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Whye-Teong ANG"><br>
+        <b>Assoc Prof Whye-Teong ANG 昂偉忠</b>
+      </a>
+      <p>边界元法、热传导、裂纹动力学、压电材料、应用与计算数学、传热与传质</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-seah-leong-keey/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-seah-leong-keey-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Leong Keey SEAH"><br>
+        <b>Assoc Prof Leong Keey SEAH 佘良基</b>
+      </a>
+      <p>薄壁结构、复合材料、实验应力分析、光纤传感、光学成像、智能结构</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-pang-hock-lye-john/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-pang-hock-lye-john-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof John H. L. PANG"><br>
+        <b>Prof John H. L. PANG 彭福來</b>
+      </a>
+      <p>激光熔覆、增材制造修复、材料—工艺—性能评估、无铅焊料可靠性、电子封装、微纳力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-li-hua/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-li-hua-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof LI Hua"><br>
+        <b>Prof LI Hua 李華</b>
+      </a>
+      <p>多物理场建模、智能水凝胶、BioMEMS、细胞力学、机器学习、无网格多尺度算法</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-xiao-zhongmin/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-xiao-zhongmin-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Zhongmin XIAO"><br>
+        <b>Assoc Prof Zhongmin XIAO 蕭仲民</b>
+      </a>
+      <p>增材制造技术、复合材料微纳力学、弹塑性断裂、结构完整性评估、失效分析、焊接力学</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-wu-mao-see/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-wu-mao-see-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Mao See WU"><br>
+        <b>Assoc Prof Mao See WU 吳茂西</b>
+      </a>
+      <p>纳米材料缺陷力学、位错与位角缺陷、断裂力学、计算模拟、非线性生物材料力学、纳米复合</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-yap-fook-fah/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-yap-fook-fah-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Fook Fah YAP"><br>
+        <b>Assoc Prof Fook Fah YAP 葉福華</b>
+      </a>
+      <p>微系统力学、虚拟样机、阻尼结构动力学、振动控制、磁流变阻尼、飞轮储能</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-zhou-kun/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-zhou-kun-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof KUN ZHOU"><br>
+        <b>Prof KUN ZHOU 周坤</b>
+      </a>
+      <p>材料力学、增材制造、计算材料科学、计算力学、材料建模、分子物理交叉</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-sridhar-idapalapati/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-sridhar-idapalapati-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Sridhar IDAPALAPATI"><br>
+        <b>Assoc Prof Sridhar IDAPALAPATI 斯里達爾·伊達帕拉帕蒂</b>
+      </a>
+      <p>材料力学、夹层结构、失效分析、粉末致密化、复合材料、接触力学</p>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 - **Field**: [Micro-Systems & Optics](https://www.ntu.edu.sg/mae/research/research-focus/micro-systems-optics)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-du-hejun/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-du-hejun-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Hejun DU"><br>
+        <b>Assoc Prof Hejun DU 杜和軍</b>
+      </a>
+      <p>MEMS谐振器、微传感器、微致动器、压电薄膜、ZnO薄膜、微纳加工、硅微加工、时钟振荡器</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-li-king-ho-holden/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-li-king-ho-holden-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Holden LI King Ho"><br>
+        <b>Assoc Prof Holden LI King Ho 李敬豪</b>
+      </a>
+      <p>微系统集成、MEMS封装、BioMEMS、微机电器件、微镜阵列、微传感网络、微流控平台、异构集成</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-wong-teck-neng/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-wong-teck-neng-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Teck Neng WONG"><br>
+        <b>Assoc Prof Teck Neng WONG 黃德能</b>
+      </a>
+      <p>微流控、静电流体学、光流体学、液滴生成、T形结流动、传热强化、流动不稳定性、多相流</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-hirotaka-sato/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-hirotaka-sato-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Hirotaka SATO"><br>
+        <b>Prof Hirotaka SATO 佐藤宏孝</b>
+      </a>
+      <p>赛博格昆虫、仿生机器人、神经接口、微型生物电子、无线能量供给、群体控制、搜救应用</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-murukeshan-vadakke-matham/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-murukeshan-vadakke-matham-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Murukeshan VADAKKE MATHAM"><br>
+        <b>Assoc Prof Murukeshan VADAKKE MATHAM 穆魯凱尚</b>
+      </a>
+      <p>光学成像、光学计量、近场光学、纳米光学、等离激元、超光谱成像、光声成像、光纤探针</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-seah-leong-keey/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-seah-leong-keey-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Leong Keey SEAH"><br>
+        <b>Assoc Prof Leong Keey SEAH 佘良基</b>
+      </a>
+      <p>光纤传感、光学成像、薄壁结构、实验应力分析、光学相干断层成像、荧光技术、智能结构</p>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 - **Field**: [Robotics & Automation](https://www.ntu.edu.sg/mae/research/research-focus/robotics-automation)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-ang-wei-tech/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-ang-wei-tech-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Wei Tech ANG"><br>
+        <b>Assoc Prof Wei Tech ANG 洪偉德</b>
+      </a>
+      <p>生物医学机器人、显微操作、手部震颤补偿、可变刚度执行器、康复工程、辅具技术、图像引导、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-louis-phee/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-louis-phee-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Louis PHEE"><br>
+        <b>Prof Louis PHEE 路易斯·費</b>
+      </a>
+      <p>医疗机器人、医用机电一体化、内镜手术系统、微创介入、软体机械、临床转化</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-yeo-song-huat/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-yeo-song-huat-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Song Huat YEO"><br>
+        <b>Assoc Prof Song Huat YEO 楊松發</b>
+      </a>
+      <p>缆驱动机构、柔顺机构综合、可重构机器人、可穿戴触觉设备、机构运动学、康复评估</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-domenico-campolo/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-domenico-campolo-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Domenico CAMPOLO"><br>
+        <b>Prof Domenico CAMPOLO 多梅尼科·坎波洛</b>
+      </a>
+      <p>人机物理交互、传感运动控制、神经工程、仿生机器人、致动与传感、康复机电系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-chen-i-ming/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-chen-i-ming-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof I-Ming CHEN"><br>
+        <b>Prof I-Ming CHEN 陳一鳴</b>
+      </a>
+      <p>建筑机器人、物流机器人、可穿戴传感、人与机器人交互、可重构自动化、并联机构</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-pham-quang-cuong/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-pham-quang-cuong-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Pham Quang CUONG"><br>
+        <b>Assoc Prof Pham Quang CUONG 潘光強</b>
+      </a>
+      <p>运动规划、多机器人协同、工业机器人视觉、实时轨迹参数化、建筑机器人、类人行走</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-hirotaka-sato/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-hirotaka-sato-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Hirotaka SATO"><br>
+        <b>Prof Hirotaka SATO 佐藤宏孝</b>
+      </a>
+      <p>生物混合机器人、赛博格昆虫、群体控制、微型电子背包、计算机视觉、搜索与救援应用</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-lyu-chen/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-lyu-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Chen LYU"><br>
+        <b>Assoc Prof Chen LYU 呂辰</b>
+      </a>
+      <p>自动驾驶、人机协同、智能电动汽车、具身智能、多模态机器人、混合智能、网络物理系统</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Thermo-Fluid & Energy](https://www.ntu.edu.sg/mae/research/research-focus/thermo-fluid-energy)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-chan-siew-hwa/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-chan-siew-hwa-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Chan Siew Hwa"><br>
+        <b>Prof Chan Siew Hwa 陳紹華</b>
+      </a>
+      <p>氢能、燃料电池、燃料重整、贵金属催化剂、氯耐受催化、氢能系统集成</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-anutosh-chakraborty/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-anutosh-chakraborty-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Anutosh Chakraborty"><br>
+        <b>Assoc Prof Anutosh Chakraborty 阿努托什·查克拉博蒂</b>
+      </a>
+      <p>吸附制冷、膜除湿、低品位余热、金属有机骨架、海水淡化、冷热联供</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-ng-yin-kwee-e/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-ng-yin-kwee-e-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Eddie NG Yin Kwee"><br>
+        <b>Assoc Prof Eddie NG Yin Kwee 黃仁貴</b>
+      </a>
+      <p>热成像、人体生理、风能气动、叶素动量法、计算流体力学、大涡模拟</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-li-hua/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-li-hua-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Li Hua"><br>
+        <b>Prof Li Hua 李華</b>
+      </a>
+      <p>多物理场建模、燃料电池仿真、可持续能源仿真、无网格算法、BioMEMS</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-tai-kang/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-tai-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Tai Kang"><br>
+        <b>Assoc Prof Tai Kang 戴康</b>
+      </a>
+      <p>结构优化、进化算法、计算几何、风电支撑结构、参数化建模</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-alessandro-romagnoli/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-alessandro-romagnoli-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Alessandro Romagnoli"><br>
+        <b>Prof Alessandro Romagnoli 亞歷山德羅·羅馬尼奧利</b>
+      </a>
+      <p>液化天然气冷能、液态空气储能、热能回收、热能储存、能源系统集成、微电网</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-ooi-kim-tiow/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-ooi-kim-tiow-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Ooi Kim Tiow"><br>
+        <b>Prof Ooi Kim Tiow 黃竟朝</b>
+      </a>
+      <p>膨胀压缩一体机、制冷系统、喷雾冷却、微通道传热、热管理系统</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-tran-anh-tuan/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-tran-anh-tuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Tuan TRAN"><br>
+        <b>Assoc Prof Tuan TRAN 陳英俊</b>
+      </a>
+      <p>液滴撞击、相变传热、喷雾冷却、微柱阵列致动、微流体混合、电子冷却</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-wong-teck-neng/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-wong-teck-neng-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Wong Teck Neng"><br>
+        <b>Assoc Prof Wong Teck Neng 黃德能</b>
+      </a>
+      <p>两相流、喷雾冷却、微通道换热、传热强化、数据中心冷却、热管理</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-wan-man-pun/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-wan-man-pun-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Wan Man Pun"><br>
+        <b>Assoc Prof Wan Man Pun 溫文彬</b>
+      </a>
+      <p>气溶胶科学、建筑环境品质、冷屋面涂层、被动冷却、室内空气质量、催化燃烧</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/prof-yang-chun-charles/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/prof-yang-chun-charles-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof Charles YANG Chun"><br>
+        <b>Prof Charles YANG Chun 楊春</b>
+      </a>
+      <p>电动驱动微流控、介电泳分选、电动渗流、热泳效应、热等离激元、微流体能量转换</p>
+    </td>
+    <td align="center">
+      <a href="Singapore/NTU/MAE/assoc-prof-chan-weng-kong/research-overview.md">
+        <img src="Singapore/NTU/MAE/profiles/assoc-prof-chan-weng-kong-profile.jpg" width="150" style="border-radius: 8px;" alt="Assoc Prof Chan Weng Kong"><br>
+        <b>Assoc Prof Chan Weng Kong 陳永光</b>
+      </a>
+      <p>微尺度滑移流、温度跃迁、微器件流动建模、微型泵风机、分析与实验流体力学</p>
+    </td>
+  </tr>
+</table>
