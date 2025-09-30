@@ -206,178 +206,165 @@
 <table>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/ee/yaser-abu-mostafa/research-overview.md">
-        <img src="research-quickview/caltech/profiles/yaser-abu-mostafa-profile.jpg" width="150" style="border-radius: 8px;" alt="Yaser Abu-Mostafa"><br>
-        <b>Yaser Abu-Mostafa</b>
+      <a href="USA/Caltech/EE/prof-abu-mostafa-ys/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-abu-mostafa-ys-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yaser S. ABU-MOSTAFA"><br>
+        <b>Prof. Yaser S. ABU-MOSTAFA 亚瑟·阿布-穆斯塔法</b>
       </a>
-      <p>机器学习、计算智能、金融工程</p>
+      <p>机器学习、人工智能、医疗应用、计算金融</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/katherine-bouman/research-overview.md">
-        <img src="research-quickview/caltech/profiles/katherine-bouman-profile.jpg" width="150" style="border-radius: 8px;" alt="Katherine L. (Katie) Bouman"><br>
-        <b>Katherine L. (Katie) Bouman</b>
+      <a href="USA/Caltech/EE/prof-bouman-kl/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-bouman-kl-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Katherine L. (Katie) BOUMAN"><br>
+        <b>Prof. Katherine L. (Katie) BOUMAN 凯瑟琳·鲍曼</b>
       </a>
-      <p>计算成像、计算摄影、机器学习</p>
+      <p>计算成像、计算机视觉、信号处理、黑洞成像、算法设计</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/jehoshua-bruck/research-overview.md">
-        <img src="research-quickview/caltech/profiles/jehoshua-bruck-profile.jpg" width="150" style="border-radius: 8px;" alt="Jehoshua (Shuki) Bruck"><br>
-        <b>Jehoshua (Shuki) Bruck</b>
+      <a href="USA/Caltech/EE/prof-chandrasekaran-v/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-chandrasekaran-v-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Venkat CHANDRASEKARAN"><br>
+        <b>Prof. Venkat CHANDRASEKARAN 文卡特·钱德拉塞卡兰</b>
       </a>
-      <p>信息理论、数据存储、计算生物学</p>
+      <p>凸优化、统计推断、逆问题、组合优化、应用代数几何</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/venkat-chandrasekaran/research-overview.md">
-        <img src="research-quickview/caltech/profiles/venkat-chandrasekaran-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkat Chandrasekaran"><br>
-        <b>Venkat Chandrasekaran</b>
+      <a href="USA/Caltech/EE/prof-effros-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-effros-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Michelle EFFROS"><br>
+        <b>Prof. Michelle EFFROS 米歇尔·埃弗罗斯</b>
       </a>
-      <p>优化、统计推断、计算复杂性</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/john-doyle/research-overview.md">
-        <img src="research-quickview/caltech/profiles/john-doyle-profile.jpg" width="150" style="border-radius: 8px;" alt="John Doyle"><br>
-        <b>John Doyle</b>
-      </a>
-      <p>控制理论、复杂系统、系统生物学</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/michelle-effros/research-overview.md">
-        <img src="research-quickview/caltech/profiles/michelle-effros-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle Effros"><br>
-        <b>Michelle Effros</b>
-      </a>
-      <p>信息理论、数据压缩、网络编码</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/azita-emami/research-overview.md">
-        <img src="research-quickview/caltech/profiles/azita-emami-profile.jpg" width="150" style="border-radius: 8px;" alt="Azita Emami"><br>
-        <b>Azita Emami</b>
-      </a>
-      <p>集成电路设计、生物医学器件、光电系统</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/andrei-faraon/research-overview.md">
-        <img src="research-quickview/caltech/profiles/andrei-faraon-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrei Faraon"><br>
-        <b>Andrei Faraon</b>
-      </a>
-      <p>纳米光子学、量子光学、光学材料</p>
+      <p>信息论、数据压缩、网络通信、网络编码、理论神经科学</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/ee/glen-george/research-overview.md">
-        <img src="research-quickview/caltech/profiles/glen-george-profile.jpg" width="150" style="border-radius: 8px;" alt="Glen George"><br>
-        <b>Glen George</b>
+      <a href="USA/Caltech/EE/prof-emami-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-emami-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Azita EMAMI"><br>
+        <b>Prof. Azita EMAMI 阿齐塔·埃马米</b>
       </a>
-      <p>电路设计、嵌入式系统、工程教育</p>
+      <p>混合信号电路、光电互连、硅光子学、生物医学植入、超高速通信</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/georgia-gkioxari/research-overview.md">
-        <img src="research-quickview/caltech/profiles/georgia-gkioxari-profile.jpg" width="150" style="border-radius: 8px;" alt="Georgia Gkioxari"><br>
-        <b>Georgia Gkioxari</b>
+      <a href="USA/Caltech/EE/prof-faraon-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-faraon-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Andrei FARAON"><br>
+        <b>Prof. Andrei FARAON 安德烈·法拉翁</b>
       </a>
-      <p>计算机视觉、机器学习、人工智能</p>
+      <p>固态量子光学、纳米光子学、量子信息、光频梳、光子器件</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/ali-hajimiri/research-overview.md">
-        <img src="research-quickview/caltech/profiles/ali-hajimiri-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Hajimiri"><br>
-        <b>Ali Hajimiri</b>
+      <a href="USA/Caltech/EE/prof-george-g/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-george-g-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Glen GEORGE"><br>
+        <b>Prof. Glen GEORGE 格伦·乔治</b>
       </a>
-      <p>电路与系统、微波光子学、无线电力传输</p>
+      <p>嵌入式系统、数字电路、电子系统、计算机体系结构、工程教育</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/babak-hassibi/research-overview.md">
-        <img src="research-quickview/caltech/profiles/babak-hassibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Babak Hassibi"><br>
-        <b>Babak Hassibi</b>
+      <a href="USA/Caltech/EE/prof-gkioxari-g/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-gkioxari-g-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Georgia GKIOXARI"><br>
+        <b>Prof. Georgia GKIOXARI 乔治娅·格基奥克萨里</b>
       </a>
-      <p>通信、信号处理、控制理论</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/victoria-kostina/research-overview.md">
-        <img src="research-quickview/caltech/profiles/victoria-kostina-profile.jpg" width="150" style="border-radius: 8px;" alt="Victoria Kostina"><br>
-        <b>Victoria Kostina</b>
-      </a>
-      <p>信息理论、编码理论、统计学习</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/steven-low/research-overview.md">
-        <img src="research-quickview/caltech/profiles/steven-low-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Low"><br>
-        <b>Steven Low</b>
-      </a>
-      <p>网络控制、优化、智能电网</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/alireza-marandi/research-overview.md">
-        <img src="research-quickview/caltech/profiles/alireza-marandi-profile.jpg" width="150" style="border-radius: 8px;" alt="Alireza Marandi"><br>
-        <b>Alireza Marandi</b>
-      </a>
-      <p>非线性光学、量子光子学、激光科学</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/ee/mohammad-mirhosseini/research-overview.md">
-        <img src="research-quickview/caltech/profiles/mohammad-mirhosseini-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad Mirhosseini"><br>
-        <b>Mohammad Mirhosseini</b>
-      </a>
-      <p>量子信息、光子学、超导量子电路</p>
+      <p>计算机视觉、机器学习、三维视觉、目标检测、场景理解</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/ee/pietro-perona/research-overview.md">
-        <img src="research-quickview/caltech/profiles/pietro-perona-profile.jpg" width="150" style="border-radius: 8px;" alt="Pietro Perona"><br>
-        <b>Pietro Perona</b>
+      <a href="USA/Caltech/EE/prof-hajimiri-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-hajimiri-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ali HAJIMIRI"><br>
+        <b>Prof. Ali HAJIMIRI 阿里·哈吉米里</b>
       </a>
-      <p>计算机视觉、机器学习、神经科学</p>
+      <p>集成电路、射频电路、毫米波、硅基光子学、无线能量传输、传感系统</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/axel-scherer/research-overview.md">
-        <img src="research-quickview/caltech/profiles/axel-scherer-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Scherer"><br>
-        <b>Axel Scherer</b>
+      <a href="USA/Caltech/EE/prof-hassibi-b/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-hassibi-b-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Babak HASSIBI"><br>
+        <b>Prof. Babak HASSIBI 巴巴克·哈西比</b>
       </a>
-      <p>纳米技术、微机电系统、光子学</p>
+      <p>通信理论、信息论、信号处理、控制理论、无线网络、基因组信号处理</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/yu-chong-tai/research-overview.md">
-        <img src="research-quickview/caltech/profiles/yu-chong-tai-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Chong Tai"><br>
-        <b>Yu-Chong Tai</b>
+      <a href="USA/Caltech/EE/prof-kostina-v/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-kostina-v-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Victoria KOSTINA"><br>
+        <b>Prof. Victoria KOSTINA 维多利亚·科斯蒂娜</b>
       </a>
-      <p>微机电系统、生物传感器、微流体</p>
+      <p>信息论、随机过程、编码理论、无线通信、非渐近理论、延迟受限系统</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/p-p-vaidyanathan/research-overview.md">
-        <img src="research-quickview/caltech/profiles/p-p-vaidyanathan-profile.jpg" width="150" style="border-radius: 8px;" alt="P. P. Vaidyanathan"><br>
-        <b>P. P. Vaidyanathan</b>
+      <a href="USA/Caltech/EE/prof-low-s/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-low-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Steven LOW"><br>
+        <b>Prof. Steven LOW 史蒂文·娄</b>
       </a>
-      <p>信号处理、滤波器设计、通信系统</p>
+      <p>计算机网络、拥塞控制、智能电网、最优化、网络架构、分布式能源</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/ee/lihong-wang/research-overview.md">
-        <img src="research-quickview/caltech/profiles/lihong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihong Wang"><br>
-        <b>Lihong Wang</b>
+      <a href="USA/Caltech/EE/prof-marandi-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-marandi-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Alireza MARANDI"><br>
+        <b>Prof. Alireza MARANDI 阿里雷扎·马兰迪</b>
       </a>
-      <p>光声成像、生物医学成像、光学成像</p>
+      <p>非线性光子学、超快光学、光频梳、量子光学、中红外光子学、激光光谱</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/changhuei-yang/research-overview.md">
-        <img src="research-quickview/caltech/profiles/changhuei-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Changhuei Yang"><br>
-        <b>Changhuei Yang</b>
+      <a href="USA/Caltech/EE/prof-mirhosseini-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-mirhosseini-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mohammad MIRHOSSEINI"><br>
+        <b>Prof. Mohammad MIRHOSSEINI 穆罕默德·米尔侯塞尼</b>
       </a>
-      <p>生物医学光学、成像技术、微流体</p>
+      <p>量子信息、量子光学、超导量子比特、波导QED、混合量子器件</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/ee/amnon-yariv/research-overview.md">
-        <img src="research-quickview/caltech/profiles/amnon-yariv-profile.jpg" width="150" style="border-radius: 8px;" alt="Amnon Yariv"><br>
-        <b>Amnon Yariv</b>
+      <a href="USA/Caltech/EE/prof-perona-p/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-perona-p-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Pietro PERONA"><br>
+        <b>Prof. Pietro PERONA 彼得罗·佩罗纳</b>
       </a>
-      <p>光子学、量子电子学、光通信</p>
+      <p>计算机视觉、机器学习、视觉识别、心理物理、信号处理</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-scherer-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-scherer-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Axel SCHERER"><br>
+        <b>Prof. Axel SCHERER 阿克塞尔·谢勒</b>
+      </a>
+      <p>纳米制造、硅光子学、微流控、等离激元传感、光学器件</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-tai-yc/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-tai-yc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Yu-Chong TAI"><br>
+        <b>Prof. Yu-Chong TAI 戴裕崇</b>
+      </a>
+      <p>微机电系统、微流控、生物医学器件、植入式传感、半导体微加工</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-vaidyanathan-pp/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-vaidyanathan-pp-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. P. P. VAIDYANATHAN"><br>
+        <b>Prof. P. P. VAIDYANATHAN 维迪亚纳森</b>
+      </a>
+      <p>数字信号处理、多速率系统、滤波器组、稀疏采样、阵列信号处理、数论信号处理</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-wang-l/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-wang-l-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Lihong WANG"><br>
+        <b>Prof. Lihong WANG 王立宏</b>
+      </a>
+      <p>光声成像、热声成像、生物医学光学、超快摄影、量子成像</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-yang-c/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-yang-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Changhuei YANG"><br>
+        <b>Prof. Changhuei YANG 杨昌辉</b>
+      </a>
+      <p>生物光子学、显微成像、光学相位共轭、波前整形、芯片级成像</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="USA/Caltech/EE/prof-yariv-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-yariv-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Amnon YARIV"><br>
+        <b>Prof. Amnon YARIV 阿姆农·亚里夫</b>
+      </a>
+      <p>光通信、半导体激光、相干光子学、集成光电子、慢光器件</p>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -388,163 +375,171 @@
 <table>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/harry-atwater/research-overview.md">
-        <img src="research-quickview/caltech/profiles/harry-atwater-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry A. Atwater, Jr."><br>
-        <b>Harry A. Atwater, Jr.</b>
+      <a href="USA/Caltech/AP/prof-atwater-ha/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-atwater-ha-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Harry A. ATWATER, Jr."><br>
+        <b>Prof. Harry A. ATWATER, Jr. 哈里·阿特沃特</b>
       </a>
-      <p>量子与纳米光子学、超材料与超表面、人造光合作用、二维材料、纳米和微结构光伏、空间太阳能和等离子体学</p>
+      <p>量子纳米光子学、超材料与超表面、人工光合作用、二维材料、光伏、等离激元</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/paul-bellan/research-overview.md">
-        <img src="research-quickview/caltech/profiles/paul-bellan-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul M. Bellan"><br>
-        <b>Paul M. Bellan</b>
+      <a href="USA/Caltech/AP/prof-bellan-pm/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-bellan-pm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Paul M. BELLAN"><br>
+        <b>Prof. Paul M. BELLAN 保罗·贝兰</b>
       </a>
-      <p>等离子体物理，应用于聚变能、太阳物理、天体物理学、高空大气现象和土星环</p>
+      <p>等离子体物理、聚变能、太阳物理、天体物理、高空大气、土星环</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/marco-bernardi/research-overview.md">
-        <img src="research-quickview/caltech/profiles/marco-bernardi-profile.jpg" width="150" style="border-radius: 8px;" alt="Marco Bernardi"><br>
-        <b>Marco Bernardi</b>
+      <a href="USA/Caltech/AP/prof-bernardi-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-bernardi-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Marco BERNARDI"><br>
+        <b>Prof. Marco BERNARDI 马可·贝尔纳尔迪</b>
       </a>
-      <p>理论与计算材料物理，开发新的第一性原理方法，研究材料中的电子传输、超快动力学和光-物质相互作用</p>
+      <p>第一性原理、电子输运、超快动力学、光物质相互作用、光电子学、量子技术</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/chiara-daraio/research-overview.md">
-        <img src="research-quickview/caltech/profiles/chiara-daraio-profile.jpg" width="150" style="border-radius: 8px;" alt="Chiara Daraio"><br>
-        <b>Chiara Daraio</b>
+      <a href="USA/Caltech/AP/prof-daraio-c/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-daraio-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chiara DARAIO"><br>
+        <b>Prof. Chiara DARAIO 基亚拉·达拉约</b>
       </a>
-      <p>工程新材料，具有先进的机械和传感特性，应用于机器人技术、医疗设备和振动吸收</p>
+      <p>功能材料、固体力学、声学成像、热传感、柔性机器人、生物基复合材料</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/paul-dimotakis/research-overview.md">
-        <img src="research-quickview/caltech/profiles/paul-dimotakis-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul E. Dimotakis"><br>
-        <b>Paul E. Dimotakis</b>
+      <a href="USA/Caltech/AP/prof-dimotakis-pe/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-dimotakis-pe-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Paul E. DIMOTAKIS"><br>
+        <b>Prof. Paul E. DIMOTAKIS 保罗·迪莫塔基斯</b>
       </a>
-      <p>实验和计算研究，关注亚音速和超音速自由剪切流中的湍流混合和化学反应；高超音速推进；湍流中的混合和表面几何</p>
+      <p>湍流混合、化学反应流、超声速推进、自由剪切流、标量弥散、气动光学</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/michael-elowitz/research-overview.md">
-        <img src="research-quickview/caltech/profiles/michael-elowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Elowitz"><br>
-        <b>Michael Elowitz</b>
+      <a href="USA/Caltech/AP/prof-elowitz-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-elowitz-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Michael B. ELOWITZ"><br>
+        <b>Prof. Michael B. ELOWITZ 迈克尔·埃洛维茨</b>
       </a>
-      <p>创建和分析生物“电路”，通过编程活细胞中的新功能，揭示电路设计的基本原理，开发下一代细胞和基因疗法</p>
+      <p>合成生物学、基因电路、细胞计算、细胞通信、细胞记忆、基因治疗</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/andrei-faraon/research-overview.md">
-        <img src="research-quickview/caltech/profiles/andrei-faraon-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrei Faraon"><br>
-        <b>Andrei Faraon</b>
+      <a href="USA/Caltech/AP/prof-faraon-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-faraon-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Andrei FARAON"><br>
+        <b>Prof. Andrei FARAON 安德烈·法拉翁</b>
       </a>
-      <p>固态量子光学和纳米光子学，应用于量子信息处理、片上光信号处理、节能传感器和生物光子学</p>
+      <p>固态量子光学、纳米光子学、量子信息、芯片光子、能效传感、生物光子</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/brent-fultz/research-overview.md">
-        <img src="research-quickview/caltech/profiles/brent-fultz-profile.jpg" width="150" style="border-radius: 8px;" alt="Brent Fultz"><br>
-        <b>Brent Fultz</b>
+      <a href="USA/Caltech/AP/prof-fultz-b/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-fultz-b-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Brent FULTZ"><br>
+        <b>Prof. Brent FULTZ 布伦特·富尔茨</b>
       </a>
-      <p>材料物理和材料化学，研究熵的起源，使用中子散射和计算；新型能源存储材料，特别是氢存储材料</p>
+      <p>材料物理、材料化学、熵起源、中子散射、热物性、储能材料</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/william-goddard/research-overview.md">
-        <img src="research-quickview/caltech/profiles/william-goddard-profile.jpg" width="150" style="border-radius: 8px;" alt="William A. Goddard, III"><br>
-        <b>William A. Goddard, III</b>
+      <a href="USA/Caltech/AP/prof-goddard-wa/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-goddard-wa-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. William A. GODDARD III"><br>
+        <b>Prof. William A. GODDARD III 威廉·戈达德</b>
       </a>
-      <p>开发量子力学、力场、反应动力学、电子动力学、分子动力学和蒙特卡罗预测化学、催化和生化材料系统的方法</p>
+      <p>计算化学、反应力场、分子动力学、电子结构、催化、材料设计</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/alireza-marandi/research-overview.md">
-        <img src="research-quickview/caltech/profiles/alireza-marandi-profile.jpg" width="150" style="border-radius: 8px;" alt="Alireza Marandi"><br>
-        <b>Alireza Marandi</b>
+      <a href="USA/Caltech/AP/prof-greer-jr/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-greer-jr-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Julia R. GREER"><br>
+        <b>Prof. Julia R. GREER 茱莉娅·格里尔</b>
       </a>
-      <p>非线性光子学的基础技术发展，探索超快光学、光频梳、量子光学、光信息处理、中红外光子学和激光光谱学的前沿</p>
+      <p>纳米力学、微纳制造、原位变形、结构材料、多尺度结构</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/austin-minnich/research-overview.md">
-        <img src="research-quickview/caltech/profiles/austin-minnich-profile.jpg" width="150
-        "border-radius: 8px;" alt="Austin Minnich"><br>
-        <b>Austin Minnich</b>
+      <a href="USA/Caltech/AP/prof-marandi-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-marandi-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Alireza MARANDI"><br>
+        <b>Prof. Alireza MARANDI 阿里雷扎·马兰迪</b>
       </a>
-      <p>先进的微波和毫米波技术在无线电天文学、量子信息科学等应用中的研究</p>
+      <p>非线性光子学、超快光学、光频梳、量子光学、信息处理、中红外光子学</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/mohammad-mirhosseini/research-overview.md">
-        <img src="research-quickview/caltech/profiles/mohammad-mirhosseini-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad Mirhosseini"><br>
-        <b>Mohammad Mirhosseini</b>
+      <a href="USA/Caltech/AP/prof-minnich-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-minnich-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Austin J. MINNICH"><br>
+        <b>Prof. Austin J. MINNICH 奥斯汀·米尼奇</b>
       </a>
-      <p>量子工程的实验研究，开发和结合超导电路与基于芯片的声子和光子设备</p>
+      <p>微波技术、毫米波器件、低噪声放大器、量子材料薄膜、纳米加工、量子模拟</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/stevan-nadj-perge/research-overview.md">
-        <img src="research-quickview/caltech/profiles/stevan-nadj-perge-profile.jpg" width="150" style="border-radius: 8px;" alt="Stevan Nadj-Perge"><br>
-        <b>Stevan Nadj-Perge</b>
+      <a href="USA/Caltech/AP/prof-mirhosseini-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-mirhosseini-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Mohammad MIRHOSSEINI"><br>
+        <b>Prof. Mohammad MIRHOSSEINI 穆罕默德·米尔侯塞尼</b>
       </a>
-      <p>开发用于量子信息处理的介观设备，探索在纳米尺度的异域电子状态</p>
+      <p>量子信息、超导量子比特、波导量子电动力学、光子声子器件、量子网络</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/oskar-painter/research-overview.md">
-        <img src="research-quickview/caltech/profiles/oskar-painter-profile.jpg" width="150" style="border-radius: 8px;" alt="Oskar J. Painter"><br>
-        <b>Oskar J. Painter</b>
+      <a href="USA/Caltech/AP/prof-nadj-perge-s/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-nadj-perge-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Stevan NADJ-PERGE"><br>
+        <b>Prof. Stevan NADJ-PERGE 斯特万·纳吉-佩尔格</b>
       </a>
-      <p>纳米光子学、量子光学和光机械学在精密测量和量子信息科学中的应用</p>
+      <p>扫描隧道显微、二维材料、拓扑材料、自旋轨道相互作用、强关联电子、量子信息器件</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/rob-phillips/research-overview.md">
-        <img src="research-quickview/caltech/profiles/rob-phillips-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Phillips"><br>
-        <b>Rob Phillips</b>
+      <a href="USA/Caltech/AP/prof-painter-o/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-painter-o-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Oskar J. PAINTER"><br>
+        <b>Prof. Oskar J. PAINTER 奥斯卡·佩因特</b>
       </a>
-      <p>细胞的物理生物学：转录和活性物质模型、物理基因组学和进化的生物物理方法</p>
+      <p>纳米光子学、量子光学、光机耦合、超导量子电路、精密测量、量子信息</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/michael-roukes/research-overview.md">
-        <img src="research-quickview/caltech/profiles/michael-roukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael L. Roukes"><br>
-        <b>Michael L. Roukes</b>
+      <a href="USA/Caltech/AP/prof-phillips-r/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-phillips-r-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Rob PHILLIPS"><br>
+        <b>Prof. Rob PHILLIPS 罗布·菲利普斯</b>
       </a>
-      <p>纳米生物技术、纳米技术、纳米尺度物理、纳米和分子力学</p>
+      <p>物理生物学、转录调控、活性物质、物理基因组、进化生物物理</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/axel-scherer/research-overview.md">
-        <img src="research-quickview/caltech/profiles/axel-scherer-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Scherer"><br>
-        <b>Axel Scherer</b>
+      <a href="USA/Caltech/AP/prof-roukes-ml/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-roukes-ml-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Michael L. ROUKES"><br>
+        <b>Prof. Michael L. ROUKES 迈克尔·鲁克斯</b>
       </a>
-      <p>微制造应用于集成微系统，专注于低成本疾病检测和精确健康监测的传感器和诊断工具开发</p>
+      <p>纳米生物技术、纳米技术、纳米尺度物理、分子力学、量子测量、单分子质谱</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/keith-schwab/research-overview.md">
-        <img src="research-quickview/caltech/profiles/keith-schwab-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith C. Schwab"><br>
-        <b>Keith C. Schwab</b>
+      <a href="USA/Caltech/AP/prof-scherer-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-scherer-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Axel SCHERER"><br>
+        <b>Prof. Axel SCHERER 阿克塞尔·谢勒</b>
       </a>
-      <p>开发用于超流氦-4的约瑟夫森结，旨在构建量子设备，如干涉仪和量子比特</p>
+      <p>微纳加工、硅光子学、微流控、集成传感、等离激元传感、医疗诊断</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/sandra-troian/research-overview.md">
-        <img src="research-quickview/caltech/profiles/sandra-troian-profile.jpg" width="150" style="border-radius: 8px;" alt="Sandra M. Troian"><br>
-        <b>Sandra M. Troian</b>
+      <a href="USA/Caltech/AP/prof-schwab-kc/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-schwab-kc-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Keith C. SCHWAB"><br>
+        <b>Prof. Keith C. SCHWAB 基思·施瓦布</b>
       </a>
-      <p>通过调节表面力的时空调制来控制微纳米尺度系统中的液体、热量或光的流动</p>
+      <p>量子极限测量、超低温物理、超流氦、约瑟夫森结、量子器件、微波测量</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/AP/prof-troian-sm/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-troian-sm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Sandra M. TROIAN"><br>
+        <b>Prof. Sandra M. TROIAN 桑德拉·特罗扬</b>
+      </a>
+      <p>微纳尺度流动、界面科学、热毛细效应、马兰戈尼效应、微流控、空间微推进</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/aph/kerry-vahala/research-overview.md">
-        <img src="research-quickview/caltech/profiles/kerry-vahala-profile.jpg" width="150" style="border-radius: 8px;" alt="Kerry J. Vahala"><br>
-        <b>Kerry J. Vahala</b>
+      <a href="USA/Caltech/AP/prof-vahala-kj/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-vahala-kj-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kerry J. VAHALA"><br>
+        <b>Prof. Kerry J. VAHALA 克里·瓦哈拉</b>
       </a>
-      <p>高Q光微腔中的非线性光学，应用于精密计量系统和微型光学陀螺仪</p>
+      <p>高Q微腔、微谐振器、非线性光学、频率微梳、精密计量、光学陀螺</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/aph/amnon-yariv/research-overview.md">
-        <img src="research-quickview/caltech/profiles/amnon-yariv-profile.jpg" width="150" style="border-radius: 8px;" alt="Amnon Yariv"><br>
-        <b>Amnon Yariv</b>
+      <a href="USA/Caltech/AP/prof-yariv-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-yariv-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Amnon YARIV"><br>
+        <b>Prof. Amnon YARIV 阿姆农·亚里夫</b>
       </a>
-      <p>光通信的理论和技术基础，包括新型半导体激光器和光相位锁系统</p>
+      <p>光通信、半导体激光、相干光子学、硅III-V异质集成、慢光、光子器件</p>
     </td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
   </tr>
 </table>
-</details>
+
