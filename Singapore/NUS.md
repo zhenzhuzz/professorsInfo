@@ -370,6 +370,14 @@
       <p>应用力学、结构动力学、声学、振动控制、机械系统仿真</p>
     </td>
     <td></td>
+    <td align="center">
+      <a href="Singapore/NUS/ME/chew-cheemeng/research-overview.md">
+        <img src="Singapore/NUS/profiles/chew-cheemeng-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. ZHOU Guangya 周廣雅"><br>
+        <b>Chew Chee Meng</b>
+      </a>
+      <p>机器人焊接、人形机器人、仿蝠鲼机器人、无人系统</p>
+    </td>
+    <td></td>
   </tr>
 </table>
 
