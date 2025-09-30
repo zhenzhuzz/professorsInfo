@@ -12,195 +12,185 @@
 
 - [**Faculty**](https://mce.caltech.edu/people)
 
-
 <table>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/mce/aaron-ames/research-overview.md">
-        <img src="research-quickview/caltech/profiles/aaron-ames-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Ames"><br>
-        <b>Aaron Ames</b>
+      <a href="USA/Caltech/ME/prof-ames-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-ames-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Aaron AMES"><br>
+        <b>Prof. Aaron AMES 艾伦·艾姆斯</b>
       </a>
-      <p>机器人学、控制理论、动态系统</p>
+      <p>机器人、非线性控制、混杂系统、网络物理系统、仿人行走</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/jose-andrade/research-overview.md">
-        <img src="research-quickview/caltech/profiles/jose-andrade-profile.jpg" width="150" style="border-radius: 8px;" alt="José E. Andrade"><br>
-        <b>José E. Andrade</b>
+      <a href="USA/Caltech/ME/prof-andrade-j/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-andrade-j-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. José E. ANDRADE"><br>
+        <b>Prof. José E. ANDRADE 何塞·安德拉德</b>
       </a>
-      <p>固体力学、材料科学、地震工程</p>
+      <p>颗粒材料、岩土力学、多尺度建模、多孔介质、碳封存</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/domniki-asimaki/research-overview.md">
-        <img src="research-quickview/caltech/profiles/domniki-asimaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Domniki Asimaki"><br>
-        <b>Domniki Asimaki</b>
+      <a href="USA/Caltech/ME/prof-asimaki-d/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-asimaki-d-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Domniki ASIMAKI"><br>
+        <b>Prof. Domniki ASIMAKI 多姆尼基·阿西马基</b>
       </a>
-      <p>地震工程、结构健康监测、材料力学</p>
+      <p>岩土系统、土动力学、场地响应、土—结构相互作用、地震工程</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/jean-philippe-avouac/research-overview.md">
-        <img src="research-quickview/caltech/profiles/jean-philippe-avouac-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Philippe Avouac"><br>
-        <b>Jean-Philippe Avouac</b>
+      <a href="USA/Caltech/ME/prof-avouac-jp/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-avouac-jp-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Jean-Philippe AVOUAC"><br>
+        <b>Prof. Jean-Philippe AVOUAC 让-菲利普·阿沃瓦克</b>
       </a>
-      <p>地质学、地震学、地球动力学</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/kaushik-bhattacharya/research-overview.md">
-        <img src="research-quickview/caltech/profiles/kaushik-bhattacharya-profile.jpg" width="150" style="border-radius: 8px;" alt="Kaushik Bhattacharya"><br>
-        <b>Kaushik Bhattacharya</b>
-      </a>
-      <p>材料科学、力学、微观结构</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/guillaume-blanquart/research-overview.md">
-        <img src="research-quickview/caltech/profiles/guillaume-blanquart-profile.jpg" width="150" style="border-radius: 8px;" alt="Guillaume Blanquart"><br>
-        <b>Guillaume Blanquart</b>
-      </a>
-      <p>计算流体力学、燃烧、传热</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/john-brady/research-overview.md">
-        <img src="research-quickview/caltech/profiles/john-brady-profile.jpg" width="150" style="border-radius: 8px;" alt="John F. Brady"><br>
-        <b>John F. Brady</b>
-      </a>
-      <p>流体力学、颗粒流、软物质</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/joel-burdick/research-overview.md">
-        <img src="research-quickview/caltech/profiles/joel-burdick-profile.jpg" width="150" style="border-radius: 8px;" alt="Joel W. Burdick"><br>
-        <b>Joel W. Burdick</b>
-      </a>
-      <p>机器人学、生物力学、控制系统</p>
+      <p>地震学、地壳形变、地貌过程、大地测量、遥感</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/mce/tim-colonius/research-overview.md">
-        <img src="research-quickview/caltech/profiles/tim-colonius-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Colonius"><br>
-        <b>Tim Colonius</b>
+      <a href="USA/Caltech/ME/prof-bhattacharya-k/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-bhattacharya-k-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Kaushik BHATTACHARYA"><br>
+        <b>Prof. Kaushik BHATTACHARYA 考希克·巴塔查里亚</b>
       </a>
-      <p>声学、流体力学、计算科学</p>
+      <p>材料力学、连续介质力学、活性材料、形状记忆合金、异质材料</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/john-dabiri/research-overview.md">
-        <img src="research-quickview/caltech/profiles/john-dabiri-profile.jpg" width="150" style="border-radius: 8px;" alt="John O. Dabiri"><br>
-        <b>John O. Dabiri</b>
+      <a href="USA/Caltech/ME/prof-blanquart-g/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-blanquart-g-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Guillaume BLANQUART"><br>
+        <b>Prof. Guillaume BLANQUART 吉约姆·布朗卡尔</b>
       </a>
-      <p>生物力学、流体力学、能源</p>
+      <p>湍流燃烧、污染物生成、纳米粒子动力学、火焰不稳定性、流动不稳定性</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/chiara-daraio/research-overview.md">
-        <img src="research-quickview/caltech/profiles/chiara-daraio-profile.jpg" width="150" style="border-radius: 8px;" alt="Chiara Daraio"><br>
-        <b>Chiara Daraio</b>
+      <a href="USA/Caltech/ME/prof-brady-jf/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-brady-jf-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. John F. BRADY"><br>
+        <b>Prof. John F. BRADY 约翰·F·布雷迪</b>
       </a>
-      <p>材料科学、纳米技术、机器人学</p>
+      <p>流体力学、传输过程、复杂流体、多相流、统计力学</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/ruby-fu/research-overview.md">
-        <img src="research-quickview/caltech/profiles/ruby-fu-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaojing (Ruby) Fu"><br>
-        <b>Xiaojing (Ruby) Fu</b>
+      <a href="USA/Caltech/ME/prof-burdick-jw/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-burdick-jw-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Joel W. BURDICK"><br>
+        <b>Prof. Joel W. BURDICK 乔尔·伯迪克</b>
       </a>
-      <p>机器人学、控制理论、动态系统</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/julia-greer/research-overview.md">
-        <img src="research-quickview/caltech/profiles/julia-greer-profile.jpg" width="150" style="border-radius: 8px;" alt="Julia R. Greer"><br>
-        <b>Julia R. Greer</b>
-      </a>
-      <p>材料科学、机械工程、医学工程</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/melany-hunt/research-overview.md">
-        <img src="research-quickview/caltech/profiles/melany-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="Melany L. Hunt"><br>
-        <b>Melany L. Hunt</b>
-      </a>
-      <p>机械工程、工程教育、流体力学</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/monica-kohler/research-overview.md">
-        <img src="research-quickview/caltech/profiles/monica-kohler-profile.jpg" width="150" style="border-radius: 8px;" alt="Monica Kohler"><br>
-        <b>Monica Kohler</b>
-      </a>
-      <p>结构工程、材料科学、可持续性</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/nadia-lapusta/research-overview.md">
-        <img src="research-quickview/caltech/profiles/nadia-lapusta-profile.jpg" width="150" style="border-radius: 8px;" alt="Nadia Lapusta"><br>
-        <b>Nadia Lapusta</b>
-      </a>
-      <p>地震学、材料力学、地球动力学</p>
+      <p>机器人、运动规划、非线性控制、灵巧操作、神经假体</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/mce/michael-mello/research-overview.md">
-        <img src="research-quickview/caltech/profiles/michael-mello-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Mello"><br>
-        <b>Michael Mello</b>
+      <a href="USA/Caltech/ME/prof-colonius-t/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-colonius-t-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Tim COLONIUS"><br>
+        <b>Prof. Tim COLONIUS 蒂姆·科洛纽斯</b>
       </a>
-      <p>机械与土木工程、教学、工程设计</p>
+      <p>流体力学、气动声学、空化与气泡动力学、流动控制、超声与冲击波、数值方法</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/austin-minnich/research-overview.md">
-        <img src="research-quickview/caltech/profiles/austin-minnich-profile.jpg" width="150" style="border-radius: 8px;" alt="Austin Minnich"><br>
-        <b>Austin Minnich</b>
+      <a href="USA/Caltech/ME/prof-dabiri-jo/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-dabiri-jo-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. John O. DABIRI"><br>
+        <b>Prof. John O. DABIRI 约翰·达比里</b>
       </a>
-      <p>机械工程、应用物理、热科学</p>
+      <p>非定常流动、生物流体、风能、湍流过渡、实验方法</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/richard-murray/research-overview.md">
-        <img src="research-quickview/caltech/profiles/richard-murray-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard M. Murray"><br>
-        <b>Richard M. Murray</b>
+      <a href="USA/Caltech/ME/prof-daraio-c/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-daraio-c-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Chiara DARAIO"><br>
+        <b>Prof. Chiara DARAIO 基亚拉·达拉约</b>
       </a>
-      <p>控制与动态系统、生物工程、复杂系统</p>
+      <p>功能材料、固体力学、结构材料、柔性机器人、可穿戴器件、减振防冲</p>
     </td>
     <td align="center">
-      <a href="research-quickview/caltech/mce/gunter-niemeyer/research-overview.md">
-        <img src="research-quickview/caltech/profiles/gunter-niemeyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Gunter Niemeyer"><br>
-        <b>Gunter Niemeyer</b>
+      <a href="USA/Caltech/ME/prof-fu-x/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-fu-x-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Xiaojing (Ruby) FU"><br>
+        <b>Prof. Xiaojing (Ruby) FU 傅晓静</b>
       </a>
-      <p>教学、机械与土木工程、工程教育</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/sergio-pellegrino/research-overview.md">
-        <img src="research-quickview/caltech/profiles/sergio-pellegrino-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Pellegrino"><br>
-        <b>Sergio Pellegrino</b>
-      </a>
-      <p>航空航天与土木工程、空间科学、材料设计</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/guruswami-ravichandran/research-overview.md">
-        <img src="research-quickview/caltech/profiles/guruswami-ravichandran-profile.jpg" width="150" style="border-radius: 8px;" alt="Guruswami (Ravi) Ravichandran"><br>
-        <b>Guruswami (Ravi) Ravichandran</b>
-      </a>
-      <p>航空航天与机械工程、材料科学</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/ares-rosakis/research-overview.md">
-        <img src="research-quickview/caltech/profiles/ares-rosakis-profile.jpg" width="150" style="border-radius: 8px;" alt="Ares J. Rosakis"><br>
-        <b>Ares J. Rosakis</b>
-      </a>
-      <p>气动与机械工程、材料科学、动态行为</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/caltech/mce/joseph-shepherd/research-overview.md">
-        <img src="research-quickview/caltech/profiles/joseph-shepherd-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph E. Shepherd"><br>
-        <b>Joseph E. Shepherd</b>
-      </a>
-      <p>航空航天与机械工程、流体力学、推进技术</p>
+      <p>多相流、多孔介质、相场建模、反应传输、水文、冰冻圈</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="research-quickview/caltech/mce/sandra-troian/research-overview.md">
-        <img src="research-quickview/caltech/profiles/sandra-troian-profile.jpg" width="150" style="border-radius: 8px;" alt="Sandra M. Troian"><br>
-        <b>Sandra M. Troian</b>
+      <a href="USA/Caltech/ME/prof-greer-jr/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-greer-jr-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Julia R. GREER"><br>
+        <b>Prof. Julia R. GREER 茱莉娅·格里尔</b>
       </a>
-      <p>应用物理、航空学、机械工程</p>
+      <p>纳米力学、微纳制造、原位变形、结构材料、多尺度结构</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-hunt-ml/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-hunt-ml-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Melany L. HUNT"><br>
+        <b>Prof. Melany L. HUNT 梅拉妮·亨特</b>
+      </a>
+      <p>颗粒介质、混合与分选、振动效应、波传播、传热传质</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-kohler-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-kohler-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Monica KOHLER"><br>
+        <b>Prof. Monica KOHLER 莫妮卡·科勒</b>
+      </a>
+      <p>地震工程、地震学、结构健康监测、传感网络、地震预警</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-lapusta-n/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-lapusta-n-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Nadia LAPUSTA"><br>
+        <b>Prof. Nadia LAPUSTA 纳迪娅·拉普斯塔</b>
+      </a>
+      <p>计算力学、地震物理、摩擦与断裂、固液耦合、地震源过程</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-mello-m/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-mello-m-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Michael MELLO"><br>
+        <b>Prof. Michael MELLO 迈克尔·梅洛</b>
+      </a>
+      <p>实验力学、固体力学、流体力学、数值仿真、工程设计</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-minnich-a/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-minnich-a-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Austin MINNICH"><br>
+        <b>Prof. Austin MINNICH 奥斯汀·米尼奇</b>
+      </a>
+      <p>薄膜材料、微波毫米波器件、低噪声放大器、量子信息、纳米加工</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-murray-rm/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-murray-rm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Richard M. MURRAY"><br>
+        <b>Prof. Richard M. MURRAY 理查德·默里</b>
+      </a>
+      <p>控制理论、网络系统、自主系统、生物电路设计、合成生物学</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-niemeyer-g/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-niemeyer-g-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Gunter NIEMEYER"><br>
+        <b>Prof. Gunter NIEMEYER 冈特·尼迈耶</b>
+      </a>
+      <p>机器人、远程操控、触觉、人机交互、物理人机协作</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-pellegrino-s/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-pellegrino-s-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Sergio PELLEGRINO"><br>
+        <b>Prof. Sergio PELLEGRINO 塞尔吉奥·佩莱格里诺</b>
+      </a>
+      <p>轻质结构、可展结构、形状控制、稳定性、空间结构</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-ravichandran-gr/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-ravichandran-gr-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Guruswami (Ravi) RAVICHANDRAN"><br>
+        <b>Prof. Guruswami (Ravi) RAVICHANDRAN 古鲁斯瓦米·（拉维）·拉维钱德兰</b>
+      </a>
+      <p>材料力学、动态破坏、波传播、复合材料、实验力学、微纳力学</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-rosakis-aj/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-rosakis-aj-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Ares J. ROSAKIS"><br>
+        <b>Prof. Ares J. ROSAKIS 阿雷斯·罗萨基斯</b>
+      </a>
+      <p>断裂力学、动态破坏、地震破裂、红外诊断、超高速撞击</p>
+    </td>
+    <td align="center">
+      <a href="USA/Caltech/ME/prof-troian-sm/research-overview.md">
+        <img src="USA/Caltech/profiles/prof-troian-sm-profile.jpg" width="150" style="border-radius: 8px;" alt="Prof. Sandra M. TROIAN"><br>
+        <b>Prof. Sandra M. TROIAN 桑德拉·特罗扬</b>
+      </a>
+      <p>微纳尺度流动、界面科学、热毛细效应、微流控、薄膜动力学、空间微推进</p>
     </td>
   </tr>
 </table>
