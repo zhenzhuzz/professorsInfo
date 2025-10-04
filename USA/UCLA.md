@@ -19,8 +19,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
-                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+            <a href="USA/UCLA/ME/greg-carman/research-overview.md">
+                <img src="USA/UCLA/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
                 <b>Greg Carman</b>
             </a>
             <p>
@@ -28,8 +28,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tyler-clites/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tyler-clites-profile.jpg" width="150" style="border-radius: 8px;" alt="Tyler Clites"><br>
+            <a href="USA/UCLA/ME/tyler-clites/research-overview.md">
+                <img src="USA/UCLA/profiles/tyler-clites-profile.jpg" width="150" style="border-radius: 8px;" alt="Tyler Clites"><br>
                 <b>Tyler Clites</b>
             </a>
             <p>
@@ -37,8 +37,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/anushri-dixit/research-overview.md">
-                <img src="research-quickview/ucla/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
+            <a href="USA/UCLA/ME/anushri-dixit/research-overview.md">
+                <img src="USA/UCLA/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
                 <b>Anushri Dixit</b>
             </a>
             <p>
@@ -46,8 +46,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/elisa-franco/research-overview.md">
-                <img src="research-quickview/ucla/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
+            <a href="USA/UCLA/ME/elisa-franco/research-overview.md">
+                <img src="USA/UCLA/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
                 <b>Elisa Franco</b>
             </a>
             <p>
@@ -57,8 +57,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/rajit-gadh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/rajit-gadh-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajit Gadh"><br>
+            <a href="USA/UCLA/ME/rajit-gadh/research-overview.md">
+                <img src="USA/UCLA/profiles/rajit-gadh-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajit Gadh"><br>
                 <b>Rajit Gadh</b>
             </a>
             <p>
@@ -66,8 +66,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/dennis-hong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/dennis-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Dennis Hong"><br>
+            <a href="USA/UCLA/ME/dennis-hong/research-overview.md">
+                <img src="USA/UCLA/profiles/dennis-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Dennis Hong"><br>
                 <b>Dennis Hong</b>
             </a>
             <p>
@@ -75,8 +75,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+            <a href="USA/UCLA/ME/jonathan-hopkins/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
                 <b>Jonathan B. Hopkins</b>
             </a>
             <p>
@@ -84,8 +84,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/m-khalid-jawed/research-overview.md">
-                <img src="research-quickview/ucla/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
+            <a href="USA/UCLA/ME/m-khalid-jawed/research-overview.md">
+                <img src="USA/UCLA/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
                 <b>M. Khalid Jawed</b>
             </a>
             <p>
@@ -95,8 +95,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/xiaochun-li/research-overview.md">
-                <img src="research-quickview/ucla/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
+            <a href="USA/UCLA/ME/xiaochun-li/research-overview.md">
+                <img src="USA/UCLA/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
                 <b>Xiaochun Li</b>
             </a>
             <p>
@@ -104,8 +104,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/brett-lopez/research-overview.md">
-                <img src="research-quickview/ucla/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
+            <a href="USA/UCLA/ME/brett-lopez/research-overview.md">
+                <img src="USA/UCLA/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
                 <b>Brett Lopez</b>
             </a>
             <p>
@@ -113,8 +113,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jacob-rosen/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
+            <a href="USA/UCLA/ME/jacob-rosen/research-overview.md">
+                <img src="USA/UCLA/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
                 <b>Jacob Rosen</b>
             </a>
             <p>
@@ -122,8 +122,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/veronica-santos/research-overview.md">
-                <img src="research-quickview/ucla/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
+            <a href="USA/UCLA/ME/veronica-santos/research-overview.md">
+                <img src="USA/UCLA/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
                 <b>Veronica Santos</b>
             </a>
             <p>
@@ -133,8 +133,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tsu-chin-tsao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
+            <a href="USA/UCLA/ME/tsu-chin-tsao/research-overview.md">
+                <img src="USA/UCLA/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
                 <b>Tsu-Chin Tsao</b>
             </a>
             <p>
@@ -148,8 +148,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+            <a href="USA/UCLA/ME/artur-davoyan/research-overview.md">
+                <img src="USA/UCLA/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
                 <b>Artur Davoyan</b>
             </a>
             <p>
@@ -157,8 +157,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jeff-eldredge/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jeff-eldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeff Eldredge"><br>
+            <a href="USA/UCLA/ME/jeff-eldredge/research-overview.md">
+                <img src="USA/UCLA/profiles/jeff-eldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeff Eldredge"><br>
                 <b>Jeff Eldredge</b>
             </a>
             <p>
@@ -166,8 +166,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/ann-karagozian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ann-karagozian-profile.jpg" width="150" style="border-radius: 8px;" alt="Ann Karagozian"><br>
+            <a href="USA/UCLA/ME/ann-karagozian/research-overview.md">
+                <img src="USA/UCLA/profiles/ann-karagozian-profile.jpg" width="150" style="border-radius: 8px;" alt="Ann Karagozian"><br>
                 <b>Ann Karagozian</b>
             </a>
             <p>
@@ -175,8 +175,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
-                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+            <a href="USA/UCLA/ME/pirouz-kavehpour/research-overview.md">
+                <img src="USA/UCLA/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
                 <b>Pirouz Kavehpour</b>
             </a>
             <p>
@@ -186,8 +186,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/mitchell-spearrin/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
+            <a href="USA/UCLA/ME/mitchell-spearrin/research-overview.md">
+                <img src="USA/UCLA/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
                 <b>Mitchell Spearrin</b>
             </a>
             <p>
@@ -195,8 +195,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/kunihiko-taira/research-overview.md">
-                <img src="research-quickview/ucla/profiles/kunihiko-taira-profile.jpg" width="150" style="border-radius: 8px;" alt="Kunihiko Taira"><br>
+            <a href="USA/UCLA/ME/kunihiko-taira/research-overview.md">
+                <img src="USA/UCLA/profiles/kunihiko-taira-profile.jpg" width="150" style="border-radius: 8px;" alt="Kunihiko Taira"><br>
                 <b>Kunihiko Taira</b>
             </a>
             <p>
@@ -204,8 +204,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/xiaolin-zhong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/xiaolin-zhong-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolin Zhong"><br>
+            <a href="USA/UCLA/ME/xiaolin-zhong/research-overview.md">
+                <img src="USA/UCLA/profiles/xiaolin-zhong-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolin Zhong"><br>
                 <b>Xiaolin Zhong</b>
             </a>
             <p>
@@ -219,8 +219,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
-                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+            <a href="USA/UCLA/ME/greg-carman/research-overview.md">
+                <img src="USA/UCLA/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
                 <b>Greg Carman</b>
             </a>
             <p>
@@ -228,8 +228,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/yong-chen/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+            <a href="USA/UCLA/ME/yong-chen/research-overview.md">
+                <img src="USA/UCLA/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
                 <b>Yong Chen</b>
             </a>
             <p>
@@ -237,8 +237,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/pei-yu-chiou/research-overview.md">
-                <img src="research-quickview/ucla/profiles/pei-yu-chiou-profile.jpg" width="150" style="border-radius: 8px;" alt="Pei-Yu Chiou"><br>
+            <a href="USA/UCLA/ME/pei-yu-chiou/research-overview.md">
+                <img src="USA/UCLA/profiles/pei-yu-chiou-profile.jpg" width="150" style="border-radius: 8px;" alt="Pei-Yu Chiou"><br>
                 <b>Pei-Yu Chiou</b>
             </a>
             <p>
@@ -246,8 +246,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+            <a href="USA/UCLA/ME/artur-davoyan/research-overview.md">
+                <img src="USA/UCLA/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
                 <b>Artur Davoyan</b>
             </a>
             <p>
@@ -257,8 +257,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tim-fisher/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
+            <a href="USA/UCLA/ME/tim-fisher/research-overview.md">
+                <img src="USA/UCLA/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
                 <b>Tim Fisher</b>
             </a>
             <p>
@@ -266,8 +266,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/vijay-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
+            <a href="USA/UCLA/ME/vijay-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
                 <b>Vijay Gupta</b>
             </a>
             <p>
@@ -275,8 +275,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/yongjie-hu/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
+            <a href="USA/UCLA/ME/yongjie-hu/research-overview.md">
+                <img src="USA/UCLA/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
                 <b>Yongjie Hu</b>
             </a>
             <p>
@@ -284,8 +284,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/lihua-jin/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
+            <a href="USA/UCLA/ME/lihua-jin/research-overview.md">
+                <img src="USA/UCLA/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
                 <b>Lihua Jin</b>
             </a>
             <p>
@@ -295,8 +295,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/sungtaek-ju/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
+            <a href="USA/UCLA/ME/sungtaek-ju/research-overview.md">
+                <img src="USA/UCLA/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
                 <b>Y. Sungtaek Ju</b>
             </a>
             <p>
@@ -304,8 +304,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
-                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+            <a href="USA/UCLA/ME/pirouz-kavehpour/research-overview.md">
+                <img src="USA/UCLA/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
                 <b>Pirouz Kavehpour</b>
             </a>
             <p>
@@ -313,8 +313,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/chang-jin-kim/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chang-jin-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Chang-Jin Kim"><br>
+            <a href="USA/UCLA/ME/chang-jin-kim/research-overview.md">
+                <img src="USA/UCLA/profiles/chang-jin-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Chang-Jin Kim"><br>
                 <b>Chang-Jin Kim</b>
             </a>
             <p>
@@ -322,8 +322,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/xiaochun-li/research-overview.md">
-                <img src="research-quickview/ucla/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
+            <a href="USA/UCLA/ME/xiaochun-li/research-overview.md">
+                <img src="USA/UCLA/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
                 <b>Xiaochun Li</b>
             </a>
             <p>
@@ -333,8 +333,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/neil-lin/research-overview.md">
-                <img src="research-quickview/ucla/profiles/neil-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Neil Lin"><br>
+            <a href="USA/UCLA/ME/neil-lin/research-overview.md">
+                <img src="USA/UCLA/profiles/neil-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Neil Lin"><br>
                 <b>Neil Lin</b>
             </a>
             <p>
@@ -342,8 +342,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/laurent-pilon/research-overview.md">
-                <img src="research-quickview/ucla/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
+            <a href="USA/UCLA/ME/laurent-pilon/research-overview.md">
+                <img src="USA/UCLA/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
                 <b>Laurent Pilon</b>
             </a>
             <p>
@@ -357,8 +357,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
-                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+            <a href="USA/UCLA/ME/greg-carman/research-overview.md">
+                <img src="USA/UCLA/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
                 <b>Greg Carman</b>
             </a>
             <p>
@@ -366,8 +366,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+            <a href="USA/UCLA/ME/artur-davoyan/research-overview.md">
+                <img src="USA/UCLA/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
                 <b>Artur Davoyan</b>
             </a>
             <p>
@@ -375,8 +375,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/vijay-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
+            <a href="USA/UCLA/ME/vijay-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
                 <b>Vijay Gupta</b>
             </a>
             <p>
@@ -384,8 +384,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+            <a href="USA/UCLA/ME/jonathan-hopkins/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
                 <b>Jonathan B. Hopkins</b>
             </a>
             <p>
@@ -395,8 +395,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/m-khalid-jawed/research-overview.md">
-                <img src="research-quickview/ucla/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
+            <a href="USA/UCLA/ME/m-khalid-jawed/research-overview.md">
+                <img src="USA/UCLA/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
                 <b>M. Khalid Jawed</b>
             </a>
             <p>
@@ -404,8 +404,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/lihua-jin/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
+            <a href="USA/UCLA/ME/lihua-jin/research-overview.md">
+                <img src="USA/UCLA/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
                 <b>Lihua Jin</b>
             </a>
             <p>
@@ -419,8 +419,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/anushri-dixit/research-overview.md">
-                <img src="research-quickview/ucla/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
+            <a href="USA/UCLA/ME/anushri-dixit/research-overview.md">
+                <img src="USA/UCLA/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
                 <b>Anushri Dixit</b>
             </a>
             <p>
@@ -428,8 +428,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/elisa-franco/research-overview.md">
-                <img src="research-quickview/ucla/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
+            <a href="USA/UCLA/ME/elisa-franco/research-overview.md">
+                <img src="USA/UCLA/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
                 <b>Elisa Franco</b>
             </a>
             <p>
@@ -437,8 +437,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+            <a href="USA/UCLA/ME/jonathan-hopkins/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
                 <b>Jonathan B. Hopkins</b>
             </a>
             <p>
@@ -446,8 +446,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tetsuya-iwasaki/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tetsuya-iwasaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Tetsuya Iwasaki"><br>
+            <a href="USA/UCLA/ME/tetsuya-iwasaki/research-overview.md">
+                <img src="USA/UCLA/profiles/tetsuya-iwasaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Tetsuya Iwasaki"><br>
                 <b>Tetsuya Iwasaki</b>
             </a>
             <p>
@@ -457,8 +457,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/brett-lopez/research-overview.md">
-                <img src="research-quickview/ucla/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
+            <a href="USA/UCLA/ME/brett-lopez/research-overview.md">
+                <img src="USA/UCLA/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
                 <b>Brett Lopez</b>
             </a>
             <p>
@@ -466,8 +466,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/robert-mcloskey/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-mcloskey-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert M’Closkey"><br>
+            <a href="USA/UCLA/ME/robert-mcloskey/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-mcloskey-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert M’Closkey"><br>
                 <b>Robert M’Closkey</b>
             </a>
             <p>
@@ -475,8 +475,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jacob-rosen/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
+            <a href="USA/UCLA/ME/jacob-rosen/research-overview.md">
+                <img src="USA/UCLA/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
                 <b>Jacob Rosen</b>
             </a>
             <p>
@@ -484,8 +484,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/veronica-santos/research-overview.md">
-                <img src="research-quickview/ucla/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
+            <a href="USA/UCLA/ME/veronica-santos/research-overview.md">
+                <img src="USA/UCLA/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
                 <b>Veronica Santos</b>
             </a>
             <p>
@@ -495,8 +495,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/jason-speyer/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jason-speyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason L. Speyer"><br>
+            <a href="USA/UCLA/ME/jason-speyer/research-overview.md">
+                <img src="USA/UCLA/profiles/jason-speyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason L. Speyer"><br>
                 <b>Jason L. Speyer</b>
             </a>
             <p>
@@ -504,8 +504,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tsu-chin-tsao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
+            <a href="USA/UCLA/ME/tsu-chin-tsao/research-overview.md">
+                <img src="USA/UCLA/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
                 <b>Tsu-Chin Tsao</b>
             </a>
             <p>
@@ -519,8 +519,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/vijay-dhir/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vijay-dhir-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Dhir"><br>
+            <a href="USA/UCLA/ME/vijay-dhir/research-overview.md">
+                <img src="USA/UCLA/profiles/vijay-dhir-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Dhir"><br>
                 <b>Vijay Dhir</b>
             </a>
             <p>
@@ -528,8 +528,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/tim-fisher/research-overview.md">
-                <img src="research-quickview/ucla/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
+            <a href="USA/UCLA/ME/tim-fisher/research-overview.md">
+                <img src="USA/UCLA/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
                 <b>Tim Fisher</b>
             </a>
             <p>
@@ -537,8 +537,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/yongjie-hu/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
+            <a href="USA/UCLA/ME/yongjie-hu/research-overview.md">
+                <img src="USA/UCLA/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
                 <b>Yongjie Hu</b>
             </a>
             <p>
@@ -546,8 +546,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/sungtaek-ju/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
+            <a href="USA/UCLA/ME/sungtaek-ju/research-overview.md">
+                <img src="USA/UCLA/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
                 <b>Y. Sungtaek Ju</b>
             </a>
             <p>
@@ -557,8 +557,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
-                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+            <a href="USA/UCLA/ME/pirouz-kavehpour/research-overview.md">
+                <img src="USA/UCLA/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
                 <b>Pirouz Kavehpour</b>
             </a>
             <p>
@@ -566,8 +566,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/adrienne-lavine/research-overview.md">
-                <img src="research-quickview/ucla/profiles/adrienne-lavine-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrienne Lavine"><br>
+            <a href="USA/UCLA/ME/adrienne-lavine/research-overview.md">
+                <img src="USA/UCLA/profiles/adrienne-lavine-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrienne Lavine"><br>
                 <b>Adrienne Lavine</b>
             </a>
             <p>
@@ -575,8 +575,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/laurent-pilon/research-overview.md">
-                <img src="research-quickview/ucla/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
+            <a href="USA/UCLA/ME/laurent-pilon/research-overview.md">
+                <img src="USA/UCLA/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
                 <b>Laurent Pilon</b>
             </a>
             <p>
@@ -584,8 +584,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/mae/mitchell-spearrin/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
+            <a href="USA/UCLA/ME/mitchell-spearrin/research-overview.md">
+                <img src="USA/UCLA/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
                 <b>Mitchell Spearrin</b>
             </a>
             <p>
@@ -603,8 +603,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/abeer-alwan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
+            <a href="USA/UCLA/ece/abeer-alwan/research-overview.md">
+                <img src="USA/UCLA/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
                 <b>Abeer Alwan</b>
             </a>
             <p>
@@ -612,8 +612,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/anthony-chen/research-overview.md">
-                <img src="research-quickview/ucla/profiles/anthony-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Chen"><br>
+            <a href="USA/UCLA/ece/anthony-chen/research-overview.md">
+                <img src="USA/UCLA/profiles/anthony-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Chen"><br>
                 <b>Anthony Chen</b>
             </a>
             <p>
@@ -621,8 +621,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -630,8 +630,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lara-dolecek/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
+            <a href="USA/UCLA/ece/lara-dolecek/research-overview.md">
+                <img src="USA/UCLA/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
                 <b>Lara Dolecek</b>
             </a>
             <p>
@@ -641,8 +641,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -650,8 +650,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -659,8 +659,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/puneet-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
+            <a href="USA/UCLA/ece/puneet-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
                 <b>Puneet Gupta</b>
             </a>
             <p>
@@ -668,8 +668,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lei-he/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
+            <a href="USA/UCLA/ece/lei-he/research-overview.md">
+                <img src="USA/UCLA/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
                 <b>Lei He</b>
             </a>
             <p>
@@ -679,8 +679,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -688,8 +688,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jonathan-kao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
+            <a href="USA/UCLA/ece/jonathan-kao/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
                 <b>Jonathan Kao</b>
             </a>
             <p>
@@ -697,8 +697,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -706,8 +706,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -717,8 +717,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
+            <a href="USA/UCLA/ece/sudhakar-pamarti/research-overview.md">
+                <img src="USA/UCLA/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
                 <b>Sudhakar Pamarti</b>
             </a>
             <p>
@@ -726,8 +726,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -735,8 +735,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/nader-sehatbakhsh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
+            <a href="USA/UCLA/ece/nader-sehatbakhsh/research-overview.md">
+                <img src="USA/UCLA/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
                 <b>Nader Sehatbakhsh</b>
             </a>
             <p>
@@ -744,8 +744,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -755,8 +755,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -764,8 +764,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuan-tian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
+            <a href="USA/UCLA/ece/yuan-tian/research-overview.md">
+                <img src="USA/UCLA/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
                 <b>Yuan Tian</b>
             </a>
             <p>
@@ -773,8 +773,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lieven-vandenberghe/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
+            <a href="USA/UCLA/ece/lieven-vandenberghe/research-overview.md">
+                <img src="USA/UCLA/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
                 <b>Lieven Vandenberghe</b>
             </a>
             <p>
@@ -782,8 +782,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -793,8 +793,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -802,8 +802,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lin-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
+            <a href="USA/UCLA/ece/lin-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
                 <b>Lin Yang</b>
             </a>
             <p>
@@ -811,8 +811,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yang-zhang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yang-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhang"><br>
+            <a href="USA/UCLA/ece/yang-zhang/research-overview.md">
+                <img src="USA/UCLA/profiles/yang-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhang"><br>
                 <b>Yang Zhang</b>
             </a>
             <p>
@@ -820,8 +820,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/leo-zhou/research-overview.md">
-                <img src="research-quickview/ucla/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
+            <a href="USA/UCLA/ece/leo-zhou/research-overview.md">
+                <img src="USA/UCLA/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
                 <b>Leo Zhou</b>
             </a>
             <p>
@@ -835,8 +835,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/abeer-alwan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
+            <a href="USA/UCLA/ece/abeer-alwan/research-overview.md">
+                <img src="USA/UCLA/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
                 <b>Abeer Alwan</b>
             </a>
             <p>
@@ -844,8 +844,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/anthony-chen/research-overview.md">
-                <img src="research-quickview/ucla/profiles/anthony-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Chen"><br>
+            <a href="USA/UCLA/ece/anthony-chen/research-overview.md">
+                <img src="USA/UCLA/profiles/anthony-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Chen"><br>
                 <b>Anthony Chen</b>
             </a>
             <p>
@@ -853,8 +853,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -862,8 +862,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lara-dolecek/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
+            <a href="USA/UCLA/ece/lara-dolecek/research-overview.md">
+                <img src="USA/UCLA/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
                 <b>Lara Dolecek</b>
             </a>
             <p>
@@ -873,8 +873,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -882,8 +882,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -891,8 +891,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/puneet-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
+            <a href="USA/UCLA/ece/puneet-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
                 <b>Puneet Gupta</b>
             </a>
             <p>
@@ -900,8 +900,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lei-he/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
+            <a href="USA/UCLA/ece/lei-he/research-overview.md">
+                <img src="USA/UCLA/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
                 <b>Lei He</b>
             </a>
             <p>
@@ -911,8 +911,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -920,8 +920,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jonathan-kao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
+            <a href="USA/UCLA/ece/jonathan-kao/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
                 <b>Jonathan Kao</b>
             </a>
             <p>
@@ -929,8 +929,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -938,8 +938,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -949,8 +949,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
+            <a href="USA/UCLA/ece/sudhakar-pamarti/research-overview.md">
+                <img src="USA/UCLA/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
                 <b>Sudhakar Pamarti</b>
             </a>
             <p>
@@ -958,8 +958,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -967,8 +967,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/nader-sehatbakhsh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
+            <a href="USA/UCLA/ece/nader-sehatbakhsh/research-overview.md">
+                <img src="USA/UCLA/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
                 <b>Nader Sehatbakhsh</b>
             </a>
             <p>
@@ -976,8 +976,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -987,8 +987,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -996,8 +996,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuan-tian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
+            <a href="USA/UCLA/ece/yuan-tian/research-overview.md">
+                <img src="USA/UCLA/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
                 <b>Yuan Tian</b>
             </a>
             <p>
@@ -1005,8 +1005,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lieven-vandenberghe/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
+            <a href="USA/UCLA/ece/lieven-vandenberghe/research-overview.md">
+                <img src="USA/UCLA/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
                 <b>Lieven Vandenberghe</b>
             </a>
             <p>
@@ -1014,8 +1014,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1025,8 +1025,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -1034,8 +1034,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lin-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
+            <a href="USA/UCLA/ece/lin-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
                 <b>Lin Yang</b>
             </a>
             <p>
@@ -1043,8 +1043,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yang-zhang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yang-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhang"><br>
+            <a href="USA/UCLA/ece/yang-zhang/research-overview.md">
+                <img src="USA/UCLA/profiles/yang-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhang"><br>
                 <b>Yang Zhang</b>
             </a>
             <p>
@@ -1052,8 +1052,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/leo-zhou/research-overview.md">
-                <img src="research-quickview/ucla/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
+            <a href="USA/UCLA/ece/leo-zhou/research-overview.md">
+                <img src="USA/UCLA/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
                 <b>Leo Zhou</b>
             </a>
             <p>
@@ -1067,8 +1067,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+            <a href="USA/UCLA/ece/frank-chang/research-overview.md">
+                <img src="USA/UCLA/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
                 <b>Frank Chang</b>
             </a>
             <p>
@@ -1076,8 +1076,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/puneet-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
+            <a href="USA/UCLA/ece/puneet-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
                 <b>Puneet Gupta</b>
             </a>
             <p>
@@ -1085,8 +1085,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lei-he/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
+            <a href="USA/UCLA/ece/lei-he/research-overview.md">
+                <img src="USA/UCLA/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
                 <b>Lei He</b>
             </a>
             <p>
@@ -1094,8 +1094,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -1105,8 +1105,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/dejan-markovic/research-overview.md">
-                <img src="research-quickview/ucla/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
+            <a href="USA/UCLA/ece/dejan-markovic/research-overview.md">
+                <img src="USA/UCLA/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
                 <b>Dejan Markovic</b>
             </a>
             <p>
@@ -1114,8 +1114,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/nader-sehatbakhsh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
+            <a href="USA/UCLA/ece/nader-sehatbakhsh/research-overview.md">
+                <img src="USA/UCLA/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
                 <b>Nader Sehatbakhsh</b>
             </a>
             <p>
@@ -1123,8 +1123,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1138,8 +1138,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -1147,8 +1147,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -1156,8 +1156,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/liz-izhikevich/research-overview.md">
-                <img src="research-quickview/ucla/profiles/liz-izhikevich-profile.jpg" width="150" style="border-radius: 8px;" alt="Liz Izhikevich"><br>
+            <a href="USA/UCLA/ece/liz-izhikevich/research-overview.md">
+                <img src="USA/UCLA/profiles/liz-izhikevich-profile.jpg" width="150" style="border-radius: 8px;" alt="Liz Izhikevich"><br>
                 <b>Liz Izhikevich</b>
             </a>
             <p>
@@ -1165,8 +1165,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -1176,8 +1176,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/nader-sehatbakhsh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
+            <a href="USA/UCLA/ece/nader-sehatbakhsh/research-overview.md">
+                <img src="USA/UCLA/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
                 <b>Nader Sehatbakhsh</b>
             </a>
             <p>
@@ -1185,8 +1185,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -1194,8 +1194,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -1203,8 +1203,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuan-tian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
+            <a href="USA/UCLA/ece/yuan-tian/research-overview.md">
+                <img src="USA/UCLA/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
                 <b>Yuan Tian</b>
             </a>
             <p>
@@ -1214,8 +1214,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1229,8 +1229,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/xiaofan-cui/research-overview.md">
-                <img src="research-quickview/ucla/profiles/xiaofan-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan Cui"><br>
+            <a href="USA/UCLA/ece/xiaofan-cui/research-overview.md">
+                <img src="USA/UCLA/profiles/xiaofan-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan Cui"><br>
                 <b>Xiaofan Cui</b>
             </a>
             <p>
@@ -1238,8 +1238,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -1247,8 +1247,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
-                <img src="research-quickview/ucla/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
+            <a href="USA/UCLA/ece/subramanian-iyer/research-overview.md">
+                <img src="USA/UCLA/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
                 <b>Subramanian Iyer</b>
             </a>
             <p>
@@ -1256,8 +1256,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chandrashekhar-joshi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
+            <a href="USA/UCLA/ece/chandrashekhar-joshi/research-overview.md">
+                <img src="USA/UCLA/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
                 <b>Chandrashekhar Joshi</b>
             </a>
             <p>
@@ -1267,8 +1267,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -1276,8 +1276,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
+            <a href="USA/UCLA/ece/kang-wang/research-overview.md">
+                <img src="USA/UCLA/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
                 <b>Kang L. Wang</b>
             </a>
             <p>
@@ -1285,8 +1285,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jason-woo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
+            <a href="USA/UCLA/ece/jason-woo/research-overview.md">
+                <img src="USA/UCLA/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
                 <b>Jason Woo</b>
             </a>
             <p>
@@ -1294,8 +1294,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -1309,8 +1309,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/asad-abidi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/asad-abidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Asad Abidi"><br>
+            <a href="USA/UCLA/ece/asad-abidi/research-overview.md">
+                <img src="USA/UCLA/profiles/asad-abidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Asad Abidi"><br>
                 <b>Asad Abidi</b>
             </a>
             <p>
@@ -1318,8 +1318,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydin-babakhani/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
+            <a href="USA/UCLA/ece/aydin-babakhani/research-overview.md">
+                <img src="USA/UCLA/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
                 <b>Aydin Babakhani</b>
             </a>
             <p>
@@ -1327,8 +1327,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+            <a href="USA/UCLA/ece/frank-chang/research-overview.md">
+                <img src="USA/UCLA/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
                 <b>Frank Chang</b>
             </a>
             <p>
@@ -1336,8 +1336,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -1347,8 +1347,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/puneet-gupta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
+            <a href="USA/UCLA/ece/puneet-gupta/research-overview.md">
+                <img src="USA/UCLA/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
                 <b>Puneet Gupta</b>
             </a>
             <p>
@@ -1356,8 +1356,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lei-he/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
+            <a href="USA/UCLA/ece/lei-he/research-overview.md">
+                <img src="USA/UCLA/profiles/lei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei He"><br>
                 <b>Lei He</b>
             </a>
             <p>
@@ -1365,8 +1365,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
-                <img src="research-quickview/ucla/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
+            <a href="USA/UCLA/ece/subramanian-iyer/research-overview.md">
+                <img src="USA/UCLA/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
                 <b>Subramanian Iyer</b>
             </a>
             <p>
@@ -1374,8 +1374,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/dejan-markovic/research-overview.md">
-                <img src="research-quickview/ucla/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
+            <a href="USA/UCLA/ece/dejan-markovic/research-overview.md">
+                <img src="USA/UCLA/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
                 <b>Dejan Markovic</b>
             </a>
             <p>
@@ -1385,8 +1385,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
+            <a href="USA/UCLA/ece/sudhakar-pamarti/research-overview.md">
+                <img src="USA/UCLA/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
                 <b>Sudhakar Pamarti</b>
             </a>
             <p>
@@ -1394,8 +1394,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/behad-razavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/behad-razavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Behad Razavi"><br>
+            <a href="USA/UCLA/ece/behad-razavi/research-overview.md">
+                <img src="USA/UCLA/profiles/behad-razavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Behad Razavi"><br>
                 <b>Behad Razavi</b>
             </a>
             <p>
@@ -1403,8 +1403,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1412,8 +1412,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+            <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+                <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
                 <b>Chee Wei Wong</b>
             </a>
             <p>
@@ -1423,8 +1423,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jason-woo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
+            <a href="USA/UCLA/ece/jason-woo/research-overview.md">
+                <img src="USA/UCLA/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
                 <b>Jason Woo</b>
             </a>
             <p>
@@ -1432,8 +1432,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -1447,8 +1447,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -1456,8 +1456,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lara-dolecek/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
+            <a href="USA/UCLA/ece/lara-dolecek/research-overview.md">
+                <img src="USA/UCLA/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
                 <b>Lara Dolecek</b>
             </a>
             <p>
@@ -1465,8 +1465,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -1474,8 +1474,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -1485,8 +1485,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jonathan-kao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
+            <a href="USA/UCLA/ece/jonathan-kao/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
                 <b>Jonathan Kao</b>
             </a>
             <p>
@@ -1494,8 +1494,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -1503,8 +1503,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yahya-rahmat-samii/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
+            <a href="USA/UCLA/ece/yahya-rahmat-samii/research-overview.md">
+                <img src="USA/UCLA/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
                 <b>Yahya Rahmat-Samii</b>
             </a>
             <p>
@@ -1512,8 +1512,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -1523,8 +1523,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -1532,8 +1532,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lieven-vandenberghe/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
+            <a href="USA/UCLA/ece/lieven-vandenberghe/research-overview.md">
+                <img src="USA/UCLA/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
                 <b>Lieven Vandenberghe</b>
             </a>
             <p>
@@ -1541,8 +1541,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/richard-wesel/research-overview.md">
-                <img src="research-quickview/ucla/profiles/richard-wesel-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Wesel"><br>
+            <a href="USA/UCLA/ece/richard-wesel/research-overview.md">
+                <img src="USA/UCLA/profiles/richard-wesel-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Wesel"><br>
                 <b>Richard Wesel</b>
             </a>
             <p>
@@ -1550,8 +1550,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lin-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
+            <a href="USA/UCLA/ece/lin-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/lin-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lin Yang"><br>
                 <b>Lin Yang</b>
             </a>
             <p>
@@ -1565,8 +1565,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/abeer-alwan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
+            <a href="USA/UCLA/ece/abeer-alwan/research-overview.md">
+                <img src="USA/UCLA/profiles/abeer-alwan-profile.jpg" width="150" style="border-radius: 8px;" alt="Abeer Alwan"><br>
                 <b>Abeer Alwan</b>
             </a>
             <p>
@@ -1574,8 +1574,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -1583,8 +1583,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -1592,8 +1592,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -1603,8 +1603,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1618,8 +1618,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+            <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
                 <b>Robert Candler</b>
             </a>
             <p>
@@ -1627,8 +1627,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/xiaofan-cui/research-overview.md">
-                <img src="research-quickview/ucla/profiles/xiaofan-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan Cui"><br>
+            <a href="USA/UCLA/ece/xiaofan-cui/research-overview.md">
+                <img src="USA/UCLA/profiles/xiaofan-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan Cui"><br>
                 <b>Xiaofan Cui</b>
             </a>
             <p>
@@ -1636,8 +1636,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -1645,8 +1645,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -1656,8 +1656,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -1665,8 +1665,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -1674,8 +1674,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jonathan-kao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
+            <a href="USA/UCLA/ece/jonathan-kao/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
                 <b>Jonathan Kao</b>
             </a>
             <p>
@@ -1683,8 +1683,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ankur-mehta/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ankur-mehta-profile.jpg" width="150" style="border-radius: 8px;" alt="Ankur Mehta"><br>
+            <a href="USA/UCLA/ece/ankur-mehta/research-overview.md">
+                <img src="USA/UCLA/profiles/ankur-mehta-profile.jpg" width="150" style="border-radius: 8px;" alt="Ankur Mehta"><br>
                 <b>Ankur Mehta</b>
             </a>
             <p>
@@ -1694,8 +1694,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -1703,8 +1703,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/nader-sehatbakhsh/research-overview.md">
-                <img src="research-quickview/ucla/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
+            <a href="USA/UCLA/ece/nader-sehatbakhsh/research-overview.md">
+                <img src="USA/UCLA/profiles/nader-sehatbakhsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Sehatbakhsh"><br>
                 <b>Nader Sehatbakhsh</b>
             </a>
             <p>
@@ -1712,8 +1712,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -1721,8 +1721,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/paulo-tabuada/research-overview.md">
-                <img src="research-quickview/ucla/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
+            <a href="USA/UCLA/ece/paulo-tabuada/research-overview.md">
+                <img src="USA/UCLA/profiles/paulo-tabuada-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Tabuada"><br>
                 <b>Paulo Tabuada</b>
             </a>
             <p>
@@ -1732,8 +1732,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuan-tian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
+            <a href="USA/UCLA/ece/yuan-tian/research-overview.md">
+                <img src="USA/UCLA/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
                 <b>Yuan Tian</b>
             </a>
             <p>
@@ -1741,8 +1741,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lieven-vandenberghe/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
+            <a href="USA/UCLA/ece/lieven-vandenberghe/research-overview.md">
+                <img src="USA/UCLA/profiles/lieven-vandenberghe-profile.jpg" width="150" style="border-radius: 8px;" alt="Lieven Vandenberghe"><br>
                 <b>Lieven Vandenberghe</b>
             </a>
             <p>
@@ -1750,8 +1750,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1759,8 +1759,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -1774,8 +1774,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/danijela-cabric/research-overview.md">
-                <img src="research-quickview/ucla/profiles/danijela-cabric-profile.jpg" width="150" style="border-radius: 8px;" alt="Danijela Cabric"><br>
+            <a href="USA/UCLA/ece/danijela-cabric/research-overview.md">
+                <img src="USA/UCLA/profiles/danijela-cabric-profile.jpg" width="150" style="border-radius: 8px;" alt="Danijela Cabric"><br>
                 <b>Danijela Cabric</b>
             </a>
             <p>
@@ -1783,8 +1783,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -1792,8 +1792,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lara-dolecek/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
+            <a href="USA/UCLA/ece/lara-dolecek/research-overview.md">
+                <img src="USA/UCLA/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
                 <b>Lara Dolecek</b>
             </a>
             <p>
@@ -1801,8 +1801,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/christina-fragouli/research-overview.md">
-                <img src="research-quickview/ucla/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
+            <a href="USA/UCLA/ece/christina-fragouli/research-overview.md">
+                <img src="USA/UCLA/profiles/christina-fragouli-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Fragouli"><br>
                 <b>Christina Fragouli</b>
             </a>
             <p>
@@ -1812,8 +1812,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/liz-izhikevich/research-overview.md">
-                <img src="research-quickview/ucla/profiles/liz-izhikevich-profile.jpg" width="150" style="border-radius: 8px;" alt="Liz Izhikevich"><br>
+            <a href="USA/UCLA/ece/liz-izhikevich/research-overview.md">
+                <img src="USA/UCLA/profiles/liz-izhikevich-profile.jpg" width="150" style="border-radius: 8px;" alt="Liz Izhikevich"><br>
                 <b>Liz Izhikevich</b>
             </a>
             <p>
@@ -1821,8 +1821,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
+            <a href="USA/UCLA/ece/sudhakar-pamarti/research-overview.md">
+                <img src="USA/UCLA/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
                 <b>Sudhakar Pamarti</b>
             </a>
             <p>
@@ -1830,8 +1830,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ian-roberts/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ian-roberts-profile.jpg" width="150" style="border-radius: 8px;" alt="Ian Roberts"><br>
+            <a href="USA/UCLA/ece/ian-roberts/research-overview.md">
+                <img src="USA/UCLA/profiles/ian-roberts-profile.jpg" width="150" style="border-radius: 8px;" alt="Ian Roberts"><br>
                 <b>Ian Roberts</b>
             </a>
             <p>
@@ -1839,8 +1839,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -1850,8 +1850,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/john-villasenor/research-overview.md">
-                <img src="research-quickview/ucla/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
+            <a href="USA/UCLA/ece/john-villasenor/research-overview.md">
+                <img src="USA/UCLA/profiles/john-villasenor-profile.jpg" width="150" style="border-radius: 8px;" alt="John Villasenor"><br>
                 <b>John Villasenor</b>
             </a>
             <p>
@@ -1859,8 +1859,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/richard-wesel/research-overview.md">
-                <img src="research-quickview/ucla/profiles/richard-wesel-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Wesel"><br>
+            <a href="USA/UCLA/ece/richard-wesel/research-overview.md">
+                <img src="USA/UCLA/profiles/richard-wesel-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Wesel"><br>
                 <b>Richard Wesel</b>
             </a>
             <p>
@@ -1868,8 +1868,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+            <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+                <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
                 <b>Chee Wei Wong</b>
             </a>
             <p>
@@ -1877,8 +1877,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/ck-yang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+            <a href="USA/UCLA/ece/ck-yang/research-overview.md">
+                <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
                 <b>C. K. 'Ken' Yang</b>
             </a>
             <p>
@@ -1892,8 +1892,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+            <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
                 <b>Robert Candler</b>
             </a>
             <p>
@@ -1901,8 +1901,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sergio-carbajo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sergio-carbajo-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Carbajo"><br>
+            <a href="USA/UCLA/ece/sergio-carbajo/research-overview.md">
+                <img src="USA/UCLA/profiles/sergio-carbajo-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Carbajo"><br>
                 <b>Sergio Carbajo</b>
             </a>
             <p>
@@ -1910,8 +1910,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+            <a href="USA/UCLA/ece/frank-chang/research-overview.md">
+                <img src="USA/UCLA/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
                 <b>Frank Chang</b>
             </a>
             <p>
@@ -1919,8 +1919,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mona-jarrahi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
+            <a href="USA/UCLA/ece/mona-jarrahi/research-overview.md">
+                <img src="USA/UCLA/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
                 <b>Mona Jarrahi</b>
             </a>
             <p>
@@ -1930,8 +1930,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chandrashekhar-joshi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
+            <a href="USA/UCLA/ece/chandrashekhar-joshi/research-overview.md">
+                <img src="USA/UCLA/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
                 <b>Chandrashekhar Joshi</b>
             </a>
             <p>
@@ -1939,8 +1939,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jia-ming-liu/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jia-ming-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia-Ming Liu"><br>
+            <a href="USA/UCLA/ece/jia-ming-liu/research-overview.md">
+                <img src="USA/UCLA/profiles/jia-ming-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia-Ming Liu"><br>
                 <b>Jia-Ming Liu</b>
             </a>
             <p>
@@ -1948,8 +1948,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -1957,8 +1957,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -1968,8 +1968,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
+            <a href="USA/UCLA/ece/kang-wang/research-overview.md">
+                <img src="USA/UCLA/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
                 <b>Kang L. Wang</b>
             </a>
             <p>
@@ -1977,8 +1977,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/benjamin-williams/research-overview.md">
-                <img src="research-quickview/ucla/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
+            <a href="USA/UCLA/ece/benjamin-williams/research-overview.md">
+                <img src="USA/UCLA/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
                 <b>Benjamin Williams</b>
             </a>
             <p>
@@ -1986,8 +1986,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+            <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+                <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
                 <b>Chee Wei Wong</b>
             </a>
             <p>
@@ -2001,8 +2001,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/elaheh-ahmadi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
+            <a href="USA/UCLA/ece/elaheh-ahmadi/research-overview.md">
+                <img src="USA/UCLA/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
                 <b>Elaheh Ahmadi</b>
             </a>
             <p>
@@ -2010,8 +2010,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+            <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
                 <b>Robert Candler</b>
             </a>
             <p>
@@ -2019,8 +2019,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sergio-carbajo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sergio-carbajo-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Carbajo"><br>
+            <a href="USA/UCLA/ece/sergio-carbajo/research-overview.md">
+                <img src="USA/UCLA/profiles/sergio-carbajo-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Carbajo"><br>
                 <b>Sergio Carbajo</b>
             </a>
             <p>
@@ -2028,8 +2028,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/lara-dolecek/research-overview.md">
-                <img src="research-quickview/ucla/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
+            <a href="USA/UCLA/ece/lara-dolecek/research-overview.md">
+                <img src="USA/UCLA/profiles/lara-dolecek-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Dolecek"><br>
                 <b>Lara Dolecek</b>
             </a>
             <p>
@@ -2039,8 +2039,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chandrashekhar-joshi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
+            <a href="USA/UCLA/ece/chandrashekhar-joshi/research-overview.md">
+                <img src="USA/UCLA/profiles/chandrashekhar-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrashekhar Joshi"><br>
                 <b>Chandrashekhar Joshi</b>
             </a>
             <p>
@@ -2048,8 +2048,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/di-luo/research-overview.md">
-                <img src="research-quickview/ucla/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
+            <a href="USA/UCLA/ece/di-luo/research-overview.md">
+                <img src="USA/UCLA/profiles/di-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Di Luo"><br>
                 <b>Di Luo</b>
             </a>
             <p>
@@ -2057,8 +2057,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -2066,8 +2066,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
+            <a href="USA/UCLA/ece/kang-wang/research-overview.md">
+                <img src="USA/UCLA/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
                 <b>Kang L. Wang</b>
             </a>
             <p>
@@ -2077,8 +2077,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/benjamin-williams/research-overview.md">
-                <img src="research-quickview/ucla/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
+            <a href="USA/UCLA/ece/benjamin-williams/research-overview.md">
+                <img src="USA/UCLA/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
                 <b>Benjamin Williams</b>
             </a>
             <p>
@@ -2086,8 +2086,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+            <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+                <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
                 <b>Chee Wei Wong</b>
             </a>
             <p>
@@ -2095,8 +2095,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/leo-zhou/research-overview.md">
-                <img src="research-quickview/ucla/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
+            <a href="USA/UCLA/ece/leo-zhou/research-overview.md">
+                <img src="USA/UCLA/profiles/leo-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Leo Zhou"><br>
                 <b>Leo Zhou</b>
             </a>
             <p>
@@ -2110,29 +2110,29 @@
   <table>
     <tr>
       <td align="center">
-        <a href="research-quickview/ucla/ece/elaheh-ahmadi/research-overview.md">
-          <img src="research-quickview/ucla/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
+        <a href="USA/UCLA/ece/elaheh-ahmadi/research-overview.md">
+          <img src="USA/UCLA/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
           <b>Elaheh Ahmadi</b>
         </a>
         <p>芯片掺杂，分子束外延，半导体材料, 功率电子, 纳米器件设计, 高性能晶体管, 数据驱动半导体优化</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-          <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+        <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+          <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
           <b>Robert Candler</b>
         </a>
         <p>纳米磁铁材料设计制造，生物医学应用</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
-          <img src="research-quickview/ucla/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+        <a href="USA/UCLA/ece/frank-chang/research-overview.md">
+          <img src="USA/UCLA/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
           <b>Frank Chang</b>
         </a>
         <p>射频芯片设计与集成，高速无线通信, 微波与毫米波系统</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-          <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+        <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+          <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
           <b>Sam Emamjinejad</b>
         </a>
         <p>可穿戴生物电子传感器、健康监测</p>
@@ -2140,29 +2140,29 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="research-quickview/ucla/ece/puneet-gupta/research-overview.md">
-          <img src="research-quickview/ucla/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
+        <a href="USA/UCLA/ece/puneet-gupta/research-overview.md">
+          <img src="USA/UCLA/profiles/puneet-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
           <b>Puneet Gupta</b>
         </a>
         <p>芯片设计、光子计算和存储</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
-          <img src="research-quickview/ucla/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
+        <a href="USA/UCLA/ece/subramanian-iyer/research-overview.md">
+          <img src="USA/UCLA/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
           <b>Subramanian Iyer</b>
         </a>
         <p>芯片封装和光刻</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
-          <img src="research-quickview/ucla/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
+        <a href="USA/UCLA/ece/sudhakar-pamarti/research-overview.md">
+          <img src="USA/UCLA/profiles/sudhakar-pamarti-profile.jpg" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
           <b>Sudhakar Pamarti</b>
         </a>
         <p>低功耗芯片设计，半导体器件开发</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
-          <img src="research-quickview/ucla/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
+        <a href="USA/UCLA/ece/kang-wang/research-overview.md">
+          <img src="USA/UCLA/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
           <b>Kang L. Wang</b>
         </a>
         <p>量子材料，自旋电子器，磁性半导体</p>
@@ -2170,29 +2170,29 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="research-quickview/ucla/ece/benjamin-williams/research-overview.md">
-          <img src="research-quickview/ucla/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
+        <a href="USA/UCLA/ece/benjamin-williams/research-overview.md">
+          <img src="USA/UCLA/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
           <b>Benjamin Williams</b>
         </a>
         <p>太赫兹半导体技术，量子级联激光器，超表面激光器</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-          <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+        <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+          <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
           <b>Chee Wei Wong</b>
         </a>
         <p>频率梳，微腔光子器件，量子通信，光子与半导体集成, 纳米级光电器件</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/jason-woo/research-overview.md">
-          <img src="research-quickview/ucla/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
+        <a href="USA/UCLA/ece/jason-woo/research-overview.md">
+          <img src="USA/UCLA/profiles/jason-woo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
           <b>Jason Woo</b>
         </a>
         <p>疑似退休，半导体制造技术, 集成电路设计, 封装与测试优化, 高效器件开发, 智能封装解决方案</p>
       </td>
       <td align="center">
-        <a href="research-quickview/ucla/ece/ken-yang/research-overview.md">
-          <img src="research-quickview/ucla/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
+        <a href="USA/UCLA/ece/ken-yang/research-overview.md">
+          <img src="USA/UCLA/profiles/ck-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
           <b>C. K. "Ken" Yang</b>
         </a>
         <p>无课题组网站，集成电路设计, 数据驱动封装优化, 高频电子器件, 半导体设备开发, 高效硬件设计</p>
@@ -2200,8 +2200,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="research-quickview/ucla/ece/mona-jarrahi/research-overview.md">
-          <img src="research-quickview/ucla/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
+        <a href="USA/UCLA/ece/mona-jarrahi/research-overview.md">
+          <img src="USA/UCLA/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
           <b>Mona Jarrahi</b>
         </a>
         <p>太赫兹成像，光学处理，光子计算，太赫兹半导体技术, 纳米级光子封装</p>
@@ -2213,8 +2213,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/elaheh-ahmadi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
+            <a href="USA/UCLA/ece/elaheh-ahmadi/research-overview.md">
+                <img src="USA/UCLA/profiles/elaheh-ahmadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
                 <b>Elaheh Ahmadi</b>
             </a>
             <p>
@@ -2222,8 +2222,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydin-babakhani/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
+            <a href="USA/UCLA/ece/aydin-babakhani/research-overview.md">
+                <img src="USA/UCLA/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
                 <b>Aydin Babakhani</b>
             </a>
             <p>
@@ -2231,8 +2231,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+            <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
                 <b>Robert Candler</b>
             </a>
             <p>
@@ -2240,8 +2240,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+            <a href="USA/UCLA/ece/frank-chang/research-overview.md">
+                <img src="USA/UCLA/profiles/frank-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
                 <b>Frank Chang</b>
             </a>
             <p>
@@ -2251,8 +2251,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -2260,8 +2260,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
-                <img src="research-quickview/ucla/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
+            <a href="USA/UCLA/ece/subramanian-iyer/research-overview.md">
+                <img src="USA/UCLA/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
                 <b>Subramanian Iyer</b>
             </a>
             <p>
@@ -2269,8 +2269,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mona-jarrahi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
+            <a href="USA/UCLA/ece/mona-jarrahi/research-overview.md">
+                <img src="USA/UCLA/profiles/mona-jarrahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
                 <b>Mona Jarrahi</b>
             </a>
             <p>
@@ -2278,8 +2278,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -2289,8 +2289,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yahya-rahmat-samii/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
+            <a href="USA/UCLA/ece/yahya-rahmat-samii/research-overview.md">
+                <img src="USA/UCLA/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
                 <b>Yahya Rahmat-Samii</b>
             </a>
             <p>
@@ -2298,8 +2298,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
+            <a href="USA/UCLA/ece/kang-wang/research-overview.md">
+                <img src="USA/UCLA/profiles/kang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
                 <b>Kang L. Wang</b>
             </a>
             <p>
@@ -2307,8 +2307,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuanxun-wang/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuanxun-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuanxun Ethan Wang"><br>
+            <a href="USA/UCLA/ece/yuanxun-wang/research-overview.md">
+                <img src="USA/UCLA/profiles/yuanxun-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuanxun Ethan Wang"><br>
                 <b>Yuanxun Ethan Wang</b>
             </a>
             <p>
@@ -2316,8 +2316,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/benjamin-williams/research-overview.md">
-                <img src="research-quickview/ucla/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
+            <a href="USA/UCLA/ece/benjamin-williams/research-overview.md">
+                <img src="USA/UCLA/profiles/benjamin-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
                 <b>Benjamin Williams</b>
             </a>
             <p>
@@ -2327,8 +2327,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
-                <img src="research-quickview/ucla/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
+            <a href="USA/UCLA/ece/chee-wei-wong/research-overview.md">
+                <img src="USA/UCLA/profiles/chee-wei-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
                 <b>Chee Wei Wong</b>
             </a>
             <p>
@@ -2342,8 +2342,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydin-babakhani/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
+            <a href="USA/UCLA/ece/aydin-babakhani/research-overview.md">
+                <img src="USA/UCLA/profiles/aydin-babakhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydin Babakhani"><br>
                 <b>Aydin Babakhani</b>
             </a>
             <p>
@@ -2351,8 +2351,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
-                <img src="research-quickview/ucla/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+            <a href="USA/UCLA/ece/robert-candler/research-overview.md">
+                <img src="USA/UCLA/profiles/robert-candler-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
                 <b>Robert Candler</b>
             </a>
             <p>
@@ -2360,8 +2360,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/suhas-diggavi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
+            <a href="USA/UCLA/ece/suhas-diggavi/research-overview.md">
+                <img src="USA/UCLA/profiles/suhas-diggavi-profile.jpg" width="150" style="border-radius: 8px;" alt="Suhas Diggavi"><br>
                 <b>Suhas Diggavi</b>
             </a>
             <p>
@@ -2369,8 +2369,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
-                <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+            <a href="USA/UCLA/ece/sam-emamjinejad/research-overview.md">
+                <img src="USA/UCLA/profiles/sam-emamjinejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
                 <b>Sam Emamjinejad</b>
             </a>
             <p>
@@ -2380,8 +2380,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
-                <img src="research-quickview/ucla/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
+            <a href="USA/UCLA/ece/subramanian-iyer/research-overview.md">
+                <img src="USA/UCLA/profiles/subramanian-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
                 <b>Subramanian Iyer</b>
             </a>
             <p>
@@ -2389,8 +2389,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/achuta-kadambi/research-overview.md">
-                <img src="research-quickview/ucla/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
+            <a href="USA/UCLA/ece/achuta-kadambi/research-overview.md">
+                <img src="USA/UCLA/profiles/achuta-kadambi-profile.jpg" width="150" style="border-radius: 8px;" alt="Achuta Kadambi"><br>
                 <b>Achuta Kadambi</b>
             </a>
             <p>
@@ -2398,8 +2398,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/jonathan-kao/research-overview.md">
-                <img src="research-quickview/ucla/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
+            <a href="USA/UCLA/ece/jonathan-kao/research-overview.md">
+                <img src="USA/UCLA/profiles/jonathan-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Kao"><br>
                 <b>Jonathan Kao</b>
             </a>
             <p>
@@ -2407,8 +2407,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/dejan-markovic/research-overview.md">
-                <img src="research-quickview/ucla/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
+            <a href="USA/UCLA/ece/dejan-markovic/research-overview.md">
+                <img src="USA/UCLA/profiles/dejan-markovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Dejan Markovic"><br>
                 <b>Dejan Markovic</b>
             </a>
             <p>
@@ -2418,8 +2418,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/aydogan-ozcan/research-overview.md">
-                <img src="research-quickview/ucla/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
+            <a href="USA/UCLA/ece/aydogan-ozcan/research-overview.md">
+                <img src="USA/UCLA/profiles/aydogan-ozcan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aydogan Ozcan"><br>
                 <b>Aydogan Ozcan</b>
             </a>
             <p>
@@ -2427,8 +2427,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yahya-rahmat-samii/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
+            <a href="USA/UCLA/ece/yahya-rahmat-samii/research-overview.md">
+                <img src="USA/UCLA/profiles/yahya-rahmat-samii-profile.jpg" width="150" style="border-radius: 8px;" alt="Yahya Rahmat-Samii"><br>
                 <b>Yahya Rahmat-Samii</b>
             </a>
             <p>
@@ -2436,8 +2436,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/vwani-roychowdhury/research-overview.md">
-                <img src="research-quickview/ucla/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
+            <a href="USA/UCLA/ece/vwani-roychowdhury/research-overview.md">
+                <img src="USA/UCLA/profiles/vwani-roychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Vwani P. Roychowdhury"><br>
                 <b>Vwani P. Roychowdhury</b>
             </a>
             <p>
@@ -2445,8 +2445,8 @@
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/ucla/ece/mani-srivastava/research-overview.md">
-                <img src="research-quickview/ucla/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
+            <a href="USA/UCLA/ece/mani-srivastava/research-overview.md">
+                <img src="USA/UCLA/profiles/mani-srivastava-profile.jpg" width="150" style="border-radius: 8px;" alt="Mani Srivastava"><br>
                 <b>Mani Srivastava</b>
             </a>
             <p>
@@ -2456,8 +2456,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/ucla/ece/yuan-tian/research-overview.md">
-                <img src="research-quickview/ucla/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
+            <a href="USA/UCLA/ece/yuan-tian/research-overview.md">
+                <img src="USA/UCLA/profiles/yuan-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Tian"><br>
                 <b>Yuan Tian</b>
             </a>
             <p>
