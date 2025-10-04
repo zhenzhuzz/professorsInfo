@@ -792,5 +792,275 @@
   </tr>
 </table>
 
+- **Field**: [All Faculty](https://www.eng.cam.ac.uk/people/division/124?field_user_surname_value_1=&field_user_list_category_tid=216)
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/andrew-flewitt/research-overview.md">
+                <img src="UK/Cambridge/profiles/andrew-flewitt-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Flewitt"><br>
+                <b>Andrew Flewitt 安德鲁·弗勒威特</b>
+            </a>
+            <p>
+                金属氧化物、大面积电子、薄膜晶体管、声波传感器、柔性电子
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/amit-agrawal/research-overview.md">
+                <img src="UK/Cambridge/profiles/amit-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Amit Agrawal"><br>
+                <b>Amit Agrawal 阿米特·阿格拉瓦尔</b>
+            </a>
+            <p>
+                光子学、非线性光学、超快光学、集成光子学、量子信息
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/ozgur-akan/research-overview.md">
+                <img src="UK/Cambridge/profiles/ozgur-akan-profile.jpg" width="150" style="border-radius: 8px;" alt="Ozgur Akan"><br>
+                <b>Ozgur Akan 厄兹居尔·阿坎</b>
+            </a>
+            <p>
+                无线通信、分子通信、物联网、纳米网络、智能网络
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/gemma-bale/research-overview.md">
+                <img src="UK/Cambridge/profiles/gemma-bale-profile.jpg" width="150" style="border-radius: 8px;" alt="Gemma Bale"><br>
+                <b>Gemma Bale 杰玛·贝尔</b>
+            </a>
+            <p>
+                生物医学工程、医学物理、生物医学光学、神经科学、脑成像
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/qixiang-cheng/research-overview.md">
+                <img src="UK/Cambridge/profiles/qixiang-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Qixiang Cheng"><br>
+                <b>Qixiang Cheng 程其祥</b>
+            </a>
+            <p>
+                硅光子学、砷化铟集成电路、异质集成、光子交换、可编程光学处理器
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/daping-chu/research-overview.md">
+                <img src="UK/Cambridge/profiles/daping-chu-profile.jpg" width="150" style="border-radius: 8px;" alt="Daping Chu"><br>
+                <b>Daping Chu 褚大平</b>
+            </a>
+            <p>
+                全息与三维显示、增强现实、空间光调制器、超构表面、光纤开关
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/tim-coombs/research-overview.md">
+                <img src="UK/Cambridge/profiles/tim-coombs-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Coombs"><br>
+                <b>Tim Coombs 蒂姆·库姆斯</b>
+            </a>
+            <p>
+                超导、磁学、可再生电力、故障限流器、电机发电机
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/michael-crisp/research-overview.md">
+                <img src="UK/Cambridge/profiles/michael-crisp-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Crisp"><br>
+                <b>Michael Crisp 迈克尔·克里斯普</b>
+            </a>
+            <p>
+                射频电子、无线系统、射频集成电路、功率放大器、射频前端
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/colm-durkan/research-overview.md">
+                <img src="UK/Cambridge/profiles/colm-durkan-profile.jpg" width="150" style="border-radius: 8px;" alt="Colm Durkan"><br>
+                <b>Colm Durkan 科尔姆·德肯</b>
+            </a>
+            <p>
+                纳米技术、扫描探针显微、纳米电子、纳米材料、表征技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/andrea-ferrari/research-overview.md">
+                <img src="UK/Cambridge/profiles/andrea-ferrari-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrea Ferrari"><br>
+                <b>Andrea Ferrari 安德烈亚·费拉里</b>
+            </a>
+            <p>
+                石墨烯、碳纳米管、类金刚石碳、光谱学、光电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/stephan-goetz/research-overview.md">
+                <img src="UK/Cambridge/profiles/stephan-goetz-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephan Goetz"><br>
+                <b>Stephan Goetz 斯特凡·戈茨</b>
+            </a>
+            <p>
+                电力电子、电能转换、配电系统、可再生能源、驱动控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/harald-haas/research-overview.md">
+                <img src="UK/Cambridge/profiles/harald-haas-profile.jpg" width="150" style="border-radius: 8px;" alt="Harald Haas"><br>
+                <b>Harald Haas 哈拉尔德·哈斯</b>
+            </a>
+            <p>
+                可见光通信、光无线通信、MIMO通信、6G系统、调制解调
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/tawfique-hasan/research-overview.md">
+                <img src="UK/Cambridge/profiles/tawfique-hasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Tawfique Hasan"><br>
+                <b>Tawfique Hasan 托菲克·哈桑</b>
+            </a>
+            <p>
+                纳米工程、智能传感器、微型光电、层状纳米材料、功能墨水
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/stephan-hofmann/research-overview.md">
+                <img src="UK/Cambridge/profiles/stephan-hofmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephan Hofmann"><br>
+                <b>Stephan Hofmann 斯特凡·霍夫曼</b>
+            </a>
+            <p>
+                纳米材料、纳米制造、原位计量、薄膜生长、催化工艺
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/hannah-joyce/research-overview.md">
+                <img src="UK/Cambridge/profiles/hannah-joyce-profile.jpg" width="150" style="border-radius: 8px;" alt="Hannah Joyce"><br>
+                <b>Hannah Joyce 汉娜·乔伊斯</b>
+            </a>
+            <p>
+                纳米线、纳米材料、生长机制、电子显微、太赫兹光谱
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/jong-min-kim/research-overview.md">
+                <img src="UK/Cambridge/profiles/jong-min-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Jong Min Kim"><br>
+                <b>Jong Min Kim 金钟敏</b>
+            </a>
+            <p>
+                半导体器件、显示技术、薄膜晶体管、纳米电子、集成系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/mark-leadbeater/research-overview.md">
+                <img src="UK/Cambridge/profiles/mark-leadbeater-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Leadbeater"><br>
+                <b>Mark Leadbeater 马克·利德贝特</b>
+            </a>
+            <p>
+                技术转移、产业合作、创新管理、知识交流、项目管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/teng-long/research-overview.md">
+                <img src="UK/Cambridge/profiles/teng-long-profile.jpg" width="150" style="border-radius: 8px;" alt="Teng Long"><br>
+                <b>Teng Long 龙腾</b>
+            </a>
+            <p>
+                电力电子、能量转换、交通电气化、可再生能源、电源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/george-malliaras/research-overview.md">
+                <img src="UK/Cambridge/profiles/george-malliaras-profile.jpg" width="150" style="border-radius: 8px;" alt="George Malliaras"><br>
+                <b>George Malliaras 乔治·马利亚拉斯</b>
+            </a>
+            <p>
+                有机电子、神经接口、柔性电子、生物传感、离子电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/luigi-occhipinti/research-overview.md">
+                <img src="UK/Cambridge/profiles/luigi-occhipinti-profile.jpg" width="150" style="border-radius: 8px;" alt="Luigi Occhipinti"><br>
+                <b>Luigi Occhipinti 路易吉·奥基平蒂</b>
+            </a>
+            <p>
+                印刷传感器、智能系统、生物系统、诊断技术、大面积电子制造
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/richard-penty/research-overview.md">
+                <img src="UK/Cambridge/profiles/richard-penty-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Penty"><br>
+                <b>Richard Penty 理查德·潘蒂</b>
+            </a>
+            <p>
+                光子学、光子交换、光子集成电路、光纤射频、光数据通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/luca-sapienza/research-overview.md">
+                <img src="UK/Cambridge/profiles/luca-sapienza-profile.jpg" width="150" style="border-radius: 8px;" alt="Luca Sapienza"><br>
+                <b>Luca Sapienza 卢卡·萨皮恩扎</b>
+            </a>
+            <p>
+                量子光子学、量子光学、纳米光子学、单光子发射体、光学腔体
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/seb-savory/research-overview.md">
+                <img src="UK/Cambridge/profiles/seb-savory-profile.jpg" width="150" style="border-radius: 8px;" alt="Seb Savory"><br>
+                <b>Seb Savory 塞布·萨沃里</b>
+            </a>
+            <p>
+                光纤通信、数字信号处理、相干接收、信道补偿、调制格式
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/matthew-tang/research-overview.md">
+                <img src="UK/Cambridge/profiles/matthew-tang-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Tang"><br>
+                <b>Matthew Tang 唐迈修</b>
+            </a>
+            <p>
+                数字电子、超大规模集成电路、芯片设计、硬件加速、可重构计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/Cambridge/EE/iman-tavakkolnia/research-overview.md">
+                <img src="UK/Cambridge/profiles/iman-tavakkolnia-profile.jpg" width="150" style="border-radius: 8px;" alt="Iman Tavakkolnia"><br>
+                <b>Iman Tavakkolnia 伊曼·塔瓦科尔尼亚</b>
+            </a>
+            <p>
+                无线通信、光无线通信、通信能效、卫星通信、网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/florin-udrea/research-overview.md">
+                <img src="UK/Cambridge/profiles/florin-udrea-profile.jpg" width="150" style="border-radius: 8px;" alt="Florin Udrea"><br>
+                <b>Florin Udrea 弗洛林·乌德雷亚</b>
+            </a>
+            <p>
+                功率半导体器件、功率集成电路、高压技术、传感器、红外发射与探测
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/mark-welland/research-overview.md">
+                <img src="UK/Cambridge/profiles/mark-welland-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Welland"><br>
+                <b>Mark Welland 马克·韦兰德</b>
+            </a>
+            <p>
+                纳米科学、纳米技术、生物传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="UK/Cambridge/EE/tim-wilkinson/research-overview.md">
+                <img src="UK/Cambridge/profiles/tim-wilkinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Wilkinson"><br>
+                <b>Tim Wilkinson 蒂姆·威尔金森</b>
+            </a>
+            <p>
+                光子学、液晶、全息、纳米光子学、超构材料
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 </details>
