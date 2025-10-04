@@ -11,8 +11,6 @@
 
 ### [Manufacturing and Management](https://www.eng.cam.ac.uk/research/academic-divisions/manufacturing-and-management)
 
-<details>
-<summary>Click to expand Professors</summary>
 
 - **Field**: [Manufacturing Systems](https://www.eng.cam.ac.uk/people/research-group/209?field_user_surname_value_1=&field_user_list_category_tid=216)
 
@@ -187,12 +185,10 @@
   </tr>
 </table>
 
-</details>
+
 
 ### [Mechanics, Materials and Design](https://www.eng.cam.ac.uk/people/division/126?field_user_surname_value_1=&field_user_list_category_tid=216)
 
-<details>
-<summary>Click to expand Professors</summary>
 
 - **Field**: [Applied Mechanics](https://www.eng.cam.ac.uk/research/academic-divisions/mechanics-materials-and-design/research-groups/applied-mechanics)
 
@@ -421,12 +417,11 @@
 </table>
 
 
-</details>
+
 
 ### [Information Engineering](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering)
 
-<details>
-<summary>Click to expand Professors</summary>
+
 
 - **Field**: [Computational and Biological Learning Laboratory](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/computational-and-biological)
 <table>
@@ -720,13 +715,10 @@
 
 
 
-</details>
-
 
 ### [Electrical Engineering](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering-0)
 
-<details>
-<summary>Click to expand Professors</summary>
+
 
 - **Field**: [Electrical Power and Energy Conversion Group](https://www.eng.cam.ac.uk/research/academic-divisions/electrical-engineering/research-groups/electrical-power-and-energy)
 
@@ -1063,4 +1055,3 @@
 </table>
 
 
-</details>
