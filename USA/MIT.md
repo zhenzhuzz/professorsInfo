@@ -799,3 +799,244 @@
     </td>
   </tr>
 </table>
+
+
+### [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
+
+- **Field**: Optics + Photonics
+- [**Faculty**](https://www.eecs.mit.edu/people/?fwp_research=optics-and-photonics)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/duane-boning/research-overview.md">
+        <img src="research-quickview/mit/profiles/duane-boning-profile.jpg" width="150" style="border-radius: 8px;" alt="Duane Boning"><br>
+        <b>Duane Boning</b>
+      </a>
+      <p>半导体工艺优化、设备可靠性评估、光子集成制造</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/vladimir-bulovic/research-overview.md">
+        <img src="research-quickview/mit/profiles/vladimir-bulovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Vladimir Bulović"><br>
+        <b>Vladimir Bulović</b>
+      </a>
+      <p>钙钛矿光电材料、透明光伏技术（能源）、纳米尺度传感器</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/dirk-englund/research-overview.md">
+        <img src="research-quickview/mit/profiles/dirk-englund-profile.jpg" width="150" style="border-radius: 8px;" alt="Dirk Englund"><br>
+        <b>Dirk Englund</b>
+      </a>
+      <p>量子光子器件、光学神经计算、高灵敏传感器与成像</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/james-fujimoto/research-overview.md">
+        <img src="research-quickview/mit/profiles/james-fujimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="James Fujimoto"><br>
+        <b>James Fujimoto</b>
+      </a>
+      <p>光学相干断层扫描、高分辨率生物成像、临床诊断应用</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/leslie-kolodziejski/research-overview.md">
+        <img src="research-quickview/mit/profiles/leslie-kolodziejski-profile.jpg" width="150" style="border-radius: 8px;" alt="Leslie Kolodziejski"><br>
+        <b>Leslie Kolodziejski</b>
+      </a>
+      <p>（疑似退休或不在科研一线）</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/wojciech-matusik/research-overview.md">
+        <img src="research-quickview/mit/profiles/wojciech-matusik-profile.jpg" width="150" style="border-radius: 8px;" alt="Wojciech Matusik"><br>
+        <b>Wojciech Matusik</b>
+      </a>
+      <p>视觉反馈制造、AI调节生产过程、自动优化材料、智能制造</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jelena-notaros/research-overview.md">
+        <img src="research-quickview/mit/profiles/jelena-notaros-profile.jpg" width="150" style="border-radius: 8px;" alt="Jelena Notaros"><br>
+        <b>Jelena Notaros</b>
+      </a>
+      <p>集成光子学、光学相控阵、量子信息处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/william-d-oliver/research-overview.md">
+        <img src="research-quickview/mit/profiles/william-d-oliver-profile.jpg" width="150" style="border-radius: 8px;" alt="William D. Oliver"><br>
+        <b>William D. Oliver</b>
+      </a>
+      <p>超导量子计算、远程量子纠缠、量子噪声控制</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/rajeev-ram/research-overview.md">
+        <img src="research-quickview/mit/profiles/rajeev-ram-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajeev Ram"><br>
+        <b>Rajeev Ram</b>
+      </a>
+      <p>光电集成光通信、生物医疗光学传感、CMOS兼容的光学器件</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/sixian-you/research-overview.md">
+        <img src="research-quickview/mit/profiles/sixian-you-profile.jpg" width="150" style="border-radius: 8px;" alt="Sixian You"><br>
+        <b>Sixian You</b>
+      </a>
+      <p>无标记光学显微成像、AI应成像算法、生物医学诊断</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Nanoscale Materials, Devices, and Systems
+- [**Faculty**](https://www.eecs.mit.edu/people/?fwp_research=nanoscale-materials-devices-and-systems)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/akintunde-akinwande/research-overview.md">
+        <img src="research-quickview/mit/profiles/akintunde-akinwande-profile.jpg" width="150" style="border-radius: 8px;" alt="Akintunde Akinwande"><br>
+        <b>Akintunde Akinwande</b>
+      </a>
+      <p>微机电系统（MEMS）、纳米电子器件、传感器技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/dimitri-antoniadis/research-overview.md">
+        <img src="research-quickview/mit/profiles/dimitri-antoniadis-profile.jpg" width="150" style="border-radius: 8px;" alt="Dimitri Antoniadis"><br>
+        <b>Dimitri Antoniadis</b>
+      </a>
+      <p>纳米尺度半导体器件、先进CMOS技术、器件建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/karl-berggren/research-overview.md">
+        <img src="research-quickview/mit/profiles/karl-berggren-profile.jpg" width="150" style="border-radius: 8px;" alt="Karl Berggren"><br>
+        <b>Karl Berggren</b>
+      </a>
+      <p>纳米制造、超导纳米线单光子探测器、电子束光刻</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/sangeeta-bhatia/research-overview.md">
+        <img src="research-quickview/mit/profiles/sangeeta-bhatia-profile.jpg" width="150" style="border-radius: 8px;" alt="Sangeeta Bhatia"><br>
+        <b>Sangeeta Bhatia</b>
+      </a>
+      <p>微型生物技术、纳米医学、组织工程</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/duane-boning/research-overview.md">
+        <img src="research-quickview/mit/profiles/duane-boning-profile.jpg" width="150" style="border-radius: 8px;" alt="Duane Boning"><br>
+        <b>Duane Boning</b>
+      </a>
+      <p>半导体制造、工艺控制、统计建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/vladimir-bulovic/research-overview.md">
+        <img src="research-quickview/mit/profiles/vladimir-bulovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Vladimir Bulović"><br>
+        <b>Vladimir Bulović</b>
+      </a>
+      <p>有机和纳米结构电子学、柔性电子器件、太阳能电池</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/anantha-chandrakasan/research-overview.md">
+        <img src="research-quickview/mit/profiles/anantha-chandrakasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Anantha Chandrakasan"><br>
+        <b>Anantha Chandrakasan</b>
+      </a>
+      <p>超低功耗电路设计、无线传感器网络、嵌入式系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/isaac-chuang/research-overview.md">
+        <img src="research-quickview/mit/profiles/isaac-chuang-profile.jpg" width="150" style="border-radius: 8px;" alt="Isaac Chuang"><br>
+        <b>Isaac Chuang</b>
+      </a>
+      <p>量子计算、量子信息科学、量子电路设计</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/luca-daniel/research-overview.md">
+        <img src="research-quickview/mit/profiles/luca-daniel-profile.jpg" width="150" style="border-radius: 8px;" alt="Luca Daniel"><br>
+        <b>Luca Daniel</b>
+      </a>
+      <p>电磁场计算、电子设计自动化、微机电系统建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jesus-del-alamo/research-overview.md">
+        <img src="research-quickview/mit/profiles/jesus-del-alamo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jesús del Alamo"><br>
+        <b>Jesús del Alamo</b>
+      </a>
+      <p>高电子迁移率晶体管、宽带隙半导体器件、器件可靠性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/dirk-englund/research-overview.md">
+        <img src="research-quickview/mit/profiles/dirk-englund-profile.jpg" width="150" style="border-radius: 8px;" alt="Dirk Englund"><br>
+        <b>Dirk Englund</b>
+      </a>
+      <p>量子光子学、纳米光子器件、量子通信</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jongyoon-han/research-overview.md">
+        <img src="research-quickview/mit/profiles/jongyoon-han-profile.jpg" width="150" style="border-radius: 8px;" alt="Jongyoon Han"><br>
+        <b>Jongyoon Han</b>
+      </a>
+      <p>微流控技术、生物分离、纳米生物技术</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/qing-hu/research-overview.md">
+        <img src="research-quickview/mit/profiles/qing-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Qing Hu"><br>
+        <b>Qing Hu</b>
+      </a>
+      <p>太赫兹科学与技术、宽频带探测、亚波长光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/leslie-kolodziejski/research-overview.md">
+        <img src="research-quickview/mit/profiles/leslie-kolodziejski-profile.jpg" width="150" style="border-radius: 8px;" alt="Leslie Kolodziejski"><br>
+        <b>Leslie Kolodziejski</b>
+      </a>
+      <p>光学材料、光子集成、量子光学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jing-kong/research-overview.md">
+        <img src="research-quickview/mit/profiles/jing-kong-profile.jpg" width="150" style="border-radius: 8px;" alt="Jing Kong"><br>
+        <b>Jing Kong</b>
+      </a>
+      <p>二维材料、纳米碳材料、柔性电子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jeffrey-lang/research-overview.md">
+        <img src="research-quickview/mit/profiles/jeffrey-lang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey Lang"><br>
+        <b>Jeffrey Lang</b>
+      </a>
+      <p>电机设计与建模、电磁学、能量收集</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/luqiao-liu/research-overview.md">
+        <img src="research-quickview/mit/profiles/luqiao-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Luqiao Liu"><br>
+        <b>Luqiao Liu</b>
+      </a>
+      <p>自旋电子学、磁性材料、量子材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/farnaz-niroui/research-overview.md">
+        <img src="research-quickview/mit/profiles/farnaz-niroui-profile.jpg" width="150" style="border-radius: 8px;" alt="Farnaz Niroui"><br>
+        <b>Farnaz Niroui</b>
+      </a>
+      <p>纳米制造、纳米电子学、纳米材料的自组装</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jelena-notaros/research-overview.md">
+        <img src="research-quickview/mit/profiles/jelena-notaros-profile.jpg" width="150" style="border-radius: 8px;" alt="Jelena Notaros"><br>
+        <b>Jelena Notaros</b>
+      </a>
+      <p>集成光子学、光学相控阵、量子信息处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/kevin-obrien/research-overview.md">
+        <img src="research-quickview/mit/profiles/kevin-obrien-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin P. O’Brien"><br>
+        <b>Kevin P. O’Brien</b>
+      </a>
+      <p>量子计算、光学非线性、量子传感</p>
+    </td>
+  </tr>
+</table>
