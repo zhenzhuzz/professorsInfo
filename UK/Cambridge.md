@@ -55,22 +55,22 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-pattinson-simon/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-pattinson-simon-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Simon Pattinson 西蒙·帕廷森"><br>
-        <b>Dr. Simon Pattinson 西蒙·帕廷森</b>
+        <img src="UK/Cambridge/profiles/dr-pattinson-simon-profile.jpg" width="150" style="border-radius: 8px;" alt="Simon Pattinson 西蒙·帕廷森"><br>
+        <b>Simon Pattinson 西蒙·帕廷森</b>
       </a>
       <p>人工智能、资产管理、商业模式创新、计算机辅助制造、新兴技术决策</p> <!-- :contentReference[oaicite:5]{index=5} -->
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-shi-yongjiang/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-shi-yongjiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Yongjiang Shi 史永江"><br>
-        <b>Dr. Yongjiang Shi 史永江</b>
+        <img src="UK/Cambridge/profiles/dr-shi-yongjiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjiang Shi 史永江"><br>
+        <b>Yongjiang Shi 史永江</b>
       </a>
       <p>全球制造、工业系统、商业生态系统、中国制造升级、产业共生与循环经济、跨文化管理</p> <!-- :contentReference[oaicite:6]{index=6} -->
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-srai-jagjit/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-srai-jagjit-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Jagjit Singh Srai 賈格·斯萊"><br>
-        <b>Dr. Jagjit Singh Srai 賈格·斯萊</b>
+        <img src="UK/Cambridge/profiles/dr-srai-jagjit-profile.jpg" width="150" style="border-radius: 8px;" alt="Jagjit Singh Srai 賈格·斯萊"><br>
+        <b>Jagjit Singh Srai 賈格·斯萊</b>
       </a>
       <p>供应链、网络设计、网络配置、价值链分析、映射技术、产业能力</p> <!-- :contentReference[oaicite:7]{index=7} -->
     </td>
@@ -114,8 +114,8 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-sparkes-martin/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-sparkes-martin-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Martin SPARKES 馬丁·斯帕克斯"><br>
-        <b>Dr. Martin SPARKES 馬丁·斯帕克斯</b>
+        <img src="UK/Cambridge/profiles/dr-sparkes-martin-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin SPARKES 馬丁·斯帕克斯"><br>
+        <b>Martin SPARKES 馬丁·斯帕克斯</b>
       </a>
       <p>激光束监测与控制、激光与离子束工艺混合、超快与超精密加工、光学与光学设计</p><!-- :contentReference[oaicite:4]{index=4} -->
     </td>
@@ -139,8 +139,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-mortara-letizia/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-mortara-letizia-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Letizia Mortara"><br>
-        <b>Dr. Letizia Mortara 雷蒂齊亞·莫塔拉</b>
+        <img src="UK/Cambridge/profiles/dr-mortara-letizia-profile.jpg" width="150" style="border-radius: 8px;" alt="Letizia Mortara"><br>
+        <b>Letizia Mortara 雷蒂齊亞·莫塔拉</b>
       </a>
       <p>技术决策、技术情报、开放创新、数字化制造、业务模型创新</p> <!-- :contentReference[oaicite:1]{index=1} -->
     </td>
@@ -153,8 +153,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-osullivan-eoin/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-osullivan-eoin-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Eoin O'Sullivan"><br>
-        <b>Dr. Eoin O'Sullivan 伊恩·奥沙利文</b>
+        <img src="UK/Cambridge/profiles/dr-osullivan-eoin-profile.jpg" width="150" style="border-radius: 8px;" alt="Eoin O'Sullivan"><br>
+        <b>Eoin O'Sullivan 伊恩·奥沙利文</b>
       </a>
       <p>国家创新系统、技术转化、先进材料、合成生物学、制造规模化、增材制造、软件工程、航空航天、生物制药、中间研发机构、技术标准</p> <!-- :contentReference[oaicite:3]{index=3} -->
     </td>
@@ -162,15 +162,15 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-phaal-rob/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-phaal-rob-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Rob Phaal"><br>
-        <b>Dr. Rob Phaal 羅伯特·菲爾</b>
+        <img src="UK/Cambridge/profiles/dr-phaal-rob-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Phaal"><br>
+        <b>Rob Phaal 羅伯特·菲爾</b>
       </a>
       <p>战略技术管理、创新管理、技术路标规划、技术评估、产业兴起动态、可视化战略方法、管理工具包</p> <!-- :contentReference[oaicite:4]{index=4} -->
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-urmetzer-florian/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-urmetzer-florian-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Florian Urmetzer"><br>
-        <b>Dr. Florian Urmetzer 弗洛里安·乌尔梅策尔</b>
+        <img src="UK/Cambridge/profiles/dr-urmetzer-florian-profile.jpg" width="150" style="border-radius: 8px;" alt="Florian Urmetzer"><br>
+        <b>Florian Urmetzer 弗洛里安·乌尔梅策尔</b>
       </a>
       <p>战略制定工具、商业生态系统、平台研究、制造与服务融合</p> <!-- :contentReference[oaicite:5]{index=5} -->
     </td>
@@ -196,8 +196,8 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-butlin-tore/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-butlin-tore-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Tore BUTLIN 托爾·巴特林"><br>
-        <b>Dr. Tore BUTLIN 托爾·巴特林</b>
+        <img src="UK/Cambridge/profiles/dr-butlin-tore-profile.jpg" width="150" style="border-radius: 8px;" alt="Tore BUTLIN 托爾·巴特林"><br>
+        <b>Tore BUTLIN 托爾·巴特林</b>
       </a>
       <p>非线性振动、制动啸声、摩擦诱发振动、油井钻探动态、涡轮叶片振动、不确定性、灵敏度、冲击、摩擦、实验验证、摩擦阻尼</p><!-- :contentReference[oaicite:0]{index=0} -->
     </td>
@@ -210,8 +210,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-cicirello-alice/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-cicirello-alice-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Alice CICIRELLO 爱丽丝·西西雷洛"><br>
-        <b>Dr. Alice CICIRELLO 爱丽丝·西西雷洛</b>
+        <img src="UK/Cambridge/profiles/dr-cicirello-alice-profile.jpg" width="150" style="border-radius: 8px;" alt="Alice CICIRELLO 爱丽丝·西西雷洛"><br>
+        <b>Alice CICIRELLO 爱丽丝·西西雷洛</b>
       </a>
       <p>应用力学、不确定性量化、物理信息机器学习、非线性系统辨识、数字孪生、结构动力学、振动声学</p><!-- :contentReference[oaicite:2]{index=2} -->
     </td>
@@ -233,8 +233,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-fitzgerald-shaun/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-fitzgerald-shaun-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Shaun FITZGERALD 肖恩·菲茨杰拉德"><br>
-        <b>Dr. Shaun FITZGERALD 肖恩·菲茨杰拉德</b>
+        <img src="UK/Cambridge/profiles/dr-fitzgerald-shaun-profile.jpg" width="150" style="border-radius: 8px;" alt="Shaun FITZGERALD 肖恩·菲茨杰拉德"><br>
+        <b>Shaun FITZGERALD 肖恩·菲茨杰拉德</b>
       </a>
       <p>通风、再冻结、海洋云增亮</p><!-- :contentReference[oaicite:5]{index=5} -->
     </td>
@@ -247,8 +247,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-na-xiaoxiang/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-na-xiaoxiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Xiaoxiang NA 那晓祥"><br>
-        <b>Dr. Xiaoxiang NA 那晓祥</b>
+        <img src="UK/Cambridge/profiles/dr-na-xiaoxiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaoxiang NA 那晓祥"><br>
+        <b>Xiaoxiang NA 那晓祥</b>
       </a>
       <p>道路货运车辆监测、车辆能效评估、驾驶员-车辆动力学</p><!-- :contentReference[oaicite:7]{index=7} -->
     </td>
@@ -295,8 +295,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-savin-thierry/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-savin-thierry-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Thierry SAVIN 蒂埃里·萨文"><br>
-        <b>Dr. Thierry SAVIN 蒂埃里·萨文</b>
+        <img src="UK/Cambridge/profiles/dr-savin-thierry-profile.jpg" width="150" style="border-radius: 8px;" alt="Thierry SAVIN 蒂埃里·萨文"><br>
+        <b>Thierry SAVIN 蒂埃里·萨文</b>
       </a>
       <p>生物物质结构-力学-热力学、生物物理学、材料科学、传输现象 :contentReference[oaicite:3]{index=3}</p>
     </td>
@@ -335,15 +335,15 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-jarrett-jerome/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-jarrett-jerome-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Jerome Jarrett 傑羅姆·賈雷特"><br>
-        <b>Dr. Jerome Jarrett 傑羅姆·賈雷特</b>
+        <img src="UK/Cambridge/profiles/dr-jarrett-jerome-profile.jpg" width="150" style="border-radius: 8px;" alt="Jerome Jarrett 傑羅姆·賈雷特"><br>
+        <b>Jerome Jarrett 傑羅姆·賈雷特</b>
       </a>
       <p>氣動設計、多保真設計、多學科設計優化、不確定性量化、混合與太陽能電動飛機概念設計</p>
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-ward-james/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-ward-james-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. James Ward 詹姆斯·沃德"><br>
-        <b>Dr. James Ward 詹姆斯·沃德</b>
+        <img src="UK/Cambridge/profiles/dr-ward-james-profile.jpg" width="150" style="border-radius: 8px;" alt="James Ward 詹姆斯·沃德"><br>
+        <b>James Ward 詹姆斯·沃德</b>
       </a>
       <p>工程设计</p>
     </td>
@@ -387,29 +387,29 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-liu-burigede/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-liu-burigede-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Burigede LIU"><br>
-        <b>Dr. Burigede LIU 劉布里蓋德</b>
+        <img src="UK/Cambridge/profiles/dr-liu-burigede-profile.jpg" width="150" style="border-radius: 8px;" alt="Burigede LIU"><br>
+        <b>Burigede LIU 劉布里蓋德</b>
       </a>
       <p>数据驱动力学、不确定性量化、复合材料、晶体塑性</p>:contentReference[oaicite:4]{index=4}
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-mcshane-graham/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-mcshane-graham-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Graham McSHANE"><br>
-        <b>Dr. Graham McSHANE 格雷厄姆·麥克夏恩</b>
+        <img src="UK/Cambridge/profiles/dr-mcshane-graham-profile.jpg" width="150" style="border-radius: 8px;" alt="Graham McSHANE"><br>
+        <b>Graham McSHANE 格雷厄姆·麥克夏恩</b>
       </a>
       <p>材料、复合材料、多孔材料、爆炸、冲击、加工、建模</p>:contentReference[oaicite:5]{index=5}
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-seita-matteo/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-seita-matteo-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Matteo SEITA"><br>
-        <b>Dr. Matteo SEITA 馬提奧·賽塔</b>
+        <img src="UK/Cambridge/profiles/dr-seita-matteo-profile.jpg" width="150" style="border-radius: 8px;" alt="Matteo SEITA"><br>
+        <b>Matteo SEITA 馬提奧·賽塔</b>
       </a>
       <p>金属增材制造、多晶微观结构、力学性能、微观结构表征、光学显微、腐蚀、可持续制造</p>:contentReference[oaicite:6]{index=6}
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-shaikeea-angkur/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-shaikeea-angkur-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Angkur SHAICKEEA"><br>
-        <b>Dr. Angkur SHAICKEEA 安庫爾·夏基亞</b>
+        <img src="UK/Cambridge/profiles/dr-shaikeea-angkur-profile.jpg" width="150" style="border-radius: 8px;" alt="Angkur SHAICKEEA"><br>
+        <b>Angkur SHAICKEEA 安庫爾·夏基亞</b>
       </a>
       <p>实验力学、可扩展增材制造、结构材料、X射线断层成像、断裂力学、生物工程</p>:contentReference[oaicite:7]{index=7}
     </td>
@@ -435,22 +435,22 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-ahmadian-tehrani-yashar/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-ahmadian-tehrani-yashar-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼"><br>
-        <b>Dr. Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼</b>
+        <img src="UK/Cambridge/profiles/dr-ahmadian-tehrani-yashar-profile.jpg" width="150" style="border-radius: 8px;" alt="Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼"><br>
+        <b>Yashar Ahmadian Tehrani 雅沙爾·阿赫瑪迪安·泰拉尼</b>
       </a>
       <p>理論神經科學、計算神經科學</p>
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-dudley-john/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-dudley-john-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. John Dudley 約翰·達德利"><br>
-        <b>Dr. John Dudley 約翰·達德利</b>
+        <img src="UK/Cambridge/profiles/dr-dudley-john-profile.jpg" width="150" style="border-radius: 8px;" alt="John Dudley 約翰·達德利"><br>
+        <b>John Dudley 約翰·達德利</b>
       </a>
       <p>人機交互、虛擬現實、增強現實、文本輸入</p>
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-ge-hong/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-ge-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Hong Ge 葛洪"><br>
-        <b>Dr. Hong Ge 葛洪</b>
+        <img src="UK/Cambridge/profiles/dr-ge-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Hong Ge 葛洪"><br>
+        <b>Hong Ge 葛洪</b>
       </a>
       <p>學習算法、推理算法、決策制定、貝葉斯推理、概率編程</p>
     </td>
@@ -488,8 +488,8 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-mancini-flavia/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-mancini-flavia-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Flavia Mancini 弗拉維亞·曼奇尼"><br>
-        <b>Dr. Flavia Mancini 弗拉維亞·曼奇尼</b>
+        <img src="UK/Cambridge/profiles/dr-mancini-flavia-profile.jpg" width="150" style="border-radius: 8px;" alt="Flavia Mancini 弗拉維亞·曼奇尼"><br>
+        <b>Flavia Mancini 弗拉維亞·曼奇尼</b>
       </a>
       <p>身體穩態、厭惡狀態、決策制定、計算方法、控制理論、動態系統、神經影像</p>
     </td>
@@ -509,8 +509,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-weller-adrian/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-weller-adrian-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Adrian Weller 亞德里安·韋勒"><br>
-        <b>Dr. Adrian Weller 亞德里安·韋勒</b>
+        <img src="UK/Cambridge/profiles/dr-weller-adrian-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrian Weller 亞德里安·韋勒"><br>
+        <b>Adrian Weller 亞德里安·韋勒</b>
       </a>
       <p>可解釋性、公平性、健壯性、可擴展性、隱私保護、安全、倫理</p>
     </td>
@@ -530,8 +530,8 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-bakshi-somenath/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-bakshi-somenath-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Somenath BAKSHI"><br>
-        <b>Dr. Somenath Bakshi 索梅納斯·巴克希</b>
+        <img src="UK/Cambridge/profiles/dr-bakshi-somenath-profile.jpg" width="150" style="border-radius: 8px;" alt="Somenath BAKSHI"><br>
+        <b>Somenath Bakshi 索梅納斯·巴克希</b>
       </a>
       <p>系统生物学、合成生物学、定量微生物学、显微成像、微流体学</p>
     </td>
@@ -613,7 +613,7 @@
   <tr>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-russell-hunter/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-russell-hunter-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Russell Hunter 羅素·亨特"><br>
+        <img src="UK/Cambridge/profiles/dr-russell-hunter-profile.jpg" width="150" style="border-radius: 8px;" alt="Russell Hunter 羅素·亨特"><br>
         <b>Russell Hunter 羅素·亨特</b>
       </a>
       <p>软件工程、图像处理、教育技术</p>
@@ -627,7 +627,7 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-kate-knill/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-kate-knill-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Kate Knill 凱特·諾伊爾"><br>
+        <img src="UK/Cambridge/profiles/dr-kate-knill-profile.jpg" width="150" style="border-radius: 8px;" alt="Kate Knill 凱特·諾伊爾"><br>
         <b>Kate Knill 凱特·諾伊爾</b>
       </a>
       <p>语音识别、语音合成</p>
@@ -686,7 +686,7 @@
     </td>
     <td align="center">
       <a href="UK/Cambridge/Engineering/dr-sayir-jossy/research-overview.md">
-        <img src="UK/Cambridge/profiles/dr-sayir-jossy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Jossy SAYIR 喬西·賽亞爾"><br>
+        <img src="UK/Cambridge/profiles/dr-sayir-jossy-profile.jpg" width="150" style="border-radius: 8px;" alt="Jossy SAYIR 喬西·賽亞爾"><br>
         <b>Jossy SAYIR 喬西·賽亞爾</b>
       </a>
       <p>信息论、信道编码、数据压缩、通信系统、存储系统、DNA数据存储</p>
