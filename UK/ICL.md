@@ -1175,5 +1175,281 @@
 </table>
 
 
-### [Computing](https://www.imperial.ac.uk/computing/)
+### [Computing](https://www.imperial.ac.uk/computing/research/)
+
+- **Field**: [Analysis and Verification](https://www.imperial.ac.uk/computing/research/analysis-and-verification/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/cristian-cadar/research-overview.md">
+                <img src="UK/ICL/profiles/cristian-cadar-profile.jpg" width="150" style="border-radius: 8px;" alt="Cristian Cadar"><br>
+                <b>Cristian Cadar 克里斯蒂安·卡达尔</b>
+            </a>
+            <p>软件工程、计算机系统、软件安全、可靠性分析、自动化验证</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/alastair-donaldson/research-overview.md">
+                <img src="UK/ICL/profiles/alastair-donaldson-profile.jpg" width="150" style="border-radius: 8px;" alt="Alastair Donaldson"><br>
+                <b>Alastair Donaldson 阿拉斯泰尔·唐纳森</b>
+            </a>
+            <p>形式验证、多核软件、并行计算、程序优化、系统可靠性</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/sophia-drossopoulou/research-overview.md">
+                <img src="UK/ICL/profiles/sophia-drossopoulou-profile.jpg" width="150" style="border-radius: 8px;" alt="Sophia Drossopoulou"><br>
+                <b>Sophia Drossopoulou 索菲娅·德罗索普卢</b>
+            </a>
+            <p>并发编程、程序验证、程序演化、定理证明、语言语义</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/susan-eisenbach/research-overview.md">
+                <img src="UK/ICL/profiles/susan-eisenbach-profile.jpg" width="150" style="border-radius: 8px;" alt="Susan Eisenbach"><br>
+                <b>Susan Eisenbach 苏珊·艾森巴赫</b>
+            </a>
+            <p>编程语言、并发计算、软件测试、系统调度</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/philippa-gardner/research-overview.md">
+                <img src="UK/ICL/profiles/philippa-gardner-profile.jpg" width="150" style="border-radius: 8px;" alt="Philippa Gardner"><br>
+                <b>Philippa Gardner 菲利帕·加德纳</b>
+            </a>
+            <p>编程语言、程序分析、形式验证、并发推理、资源逻辑</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/ben-livshits/research-overview.md">
+                <img src="UK/ICL/profiles/ben-livshits-profile.jpg" width="150" style="border-radius: 8px;" alt="Ben Livshits"><br>
+                <b>Ben Livshits 本·利夫希茨</b>
+            </a>
+            <p>安全性、隐私保护、程序分析、编译器设计、众包计算</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/alessio-lomuscio/research-overview.md">
+                <img src="UK/ICL/profiles/alessio-lomuscio-profile.jpg" width="150" style="border-radius: 8px;" alt="Alessio Lomuscio"><br>
+                <b>Alessio Lomuscio 阿莱西奥·洛穆修</b>
+            </a>
+            <p>人工智能安全、逻辑规范、自主系统验证、形式方法</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/sergio-maffeis/research-overview.md">
+                <img src="UK/ICL/profiles/sergio-maffeis-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergio Maffeis"><br>
+                <b>Sergio Maffeis 塞尔吉奥·马费斯</b>
+            </a>
+            <p>软件安全、网络安全、机器学习安全、形式化分析、系统验证</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/azalea-raad/research-overview.md">
+                <img src="UK/ICL/profiles/azalea-raad-profile.jpg" width="150" style="border-radius: 8px;" alt="Azalea Raad"><br>
+                <b>Azalea Raad 阿泽莉娅·拉德</b>
+            </a>
+            <p>编程语言、内存模型、并发系统、程序语义、验证逻辑</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/herbert-wiklicky/research-overview.md">
+                <img src="UK/ICL/profiles/herbert-wiklicky-profile.jpg" width="150" style="border-radius: 8px;" alt="Herbert Wiklicky"><br>
+                <b>Herbert Wiklicky 赫伯特·维克利奇</b>
+            </a>
+            <p>程序分析、语义建模、概率计算、量子计算、安全语义</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Artificial Intelligence](https://www.imperial.ac.uk/engineering/departments/computing/research/artificial-intelligence/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/dalal-alrajeh/research-overview.md">
+                <img src="UK/ICL/profiles/dalal-alrajeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Dalal Alrajeh"><br>
+                <b>Dalal Alrajeh 达拉尔·阿尔拉杰赫</b>
+            </a>
+            <p>形式方法、软件工程、人工智能、数字取证、系统验证</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/tolga-birdal/research-overview.md">
+                <img src="UK/ICL/profiles/tolga-birdal-profile.jpg" width="150" style="border-radius: 8px;" alt="Tolga Birdal"><br>
+                <b>Tolga Birdal 托尔加·伯达尔</b>
+            </a>
+            <p>三维计算机视觉、几何机器学习、非欧几里得几何、拓扑深度学习</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/francesco-belardinelli/research-overview.md">
+                <img src="UK/ICL/profiles/francesco-belardinelli-profile.jpg" width="150" style="border-radius: 8px;" alt="Francesco Belardinelli"><br>
+                <b>Francesco Belardinelli 弗朗切斯科·贝拉尔迪内利</b>
+            </a>
+            <p>逻辑、人工智能、推理系统、多智能体系统、知识表示</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/krysia-broda/research-overview.md">
+                <img src="UK/ICL/profiles/krysia-broda-profile.jpg" width="150" style="border-radius: 8px;" alt="Krysia Broda"><br>
+                <b>Krysia Broda 克里西娅·布罗达</b>
+            </a>
+            <p>逻辑编程、定理证明、反应式智能体、神经符号集成</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/michael-bronstein/research-overview.md">
+                <img src="UK/ICL/profiles/michael-bronstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Bronstein"><br>
+                <b>Michael Bronstein 迈克尔·布朗斯坦</b>
+            </a>
+            <p>几何学习、模式识别、计算机视觉、形状分析、生物识别</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/keith-clark/research-overview.md">
+                <img src="UK/ICL/profiles/keith-clark-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith Clark"><br>
+                <b>Keith Clark 基思·克拉克</b>
+            </a>
+            <p>多智能体系统、认知机器人、符号编程、反应式系统、环境智能</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/antoine-cully/research-overview.md">
+                <img src="UK/ICL/profiles/antoine-cully-profile.jpg" width="150" style="border-radius: 8px;" alt="Antoine Cully"><br>
+                <b>Antoine Cully 安托万·库利</b>
+            </a>
+            <p>机器人学、人工智能、强化学习、适应性算法、智能控制</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/marc-deisenroth/research-overview.md">
+                <img src="UK/ICL/profiles/marc-deisenroth-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Deisenroth"><br>
+                <b>Marc Deisenroth 马克·戴森罗斯</b>
+            </a>
+            <p>统计机器学习、机器人控制、时间序列、信号处理、优化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/andrew-davison/research-overview.md">
+                <img src="UK/ICL/profiles/andrew-davison-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Davison"><br>
+                <b>Andrew Davison 安德鲁·戴维森</b>
+            </a>
+            <p>计算机视觉、机器人学、SLAM、增强现实、空间感知</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/yves-de-montjoye/research-overview.md">
+                <img src="UK/ICL/profiles/yves-de-montjoye-profile.jpg" width="150" style="border-radius: 8px;" alt="Yves-Alexandre de Montjoye"><br>
+                <b>Yves-Alexandre de Montjoye 伊夫-亚历山大·德蒙乔耶</b>
+            </a>
+            <p>数据隐私、机器学习、安全人工智能、自动攻击检测</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/abbas-edalat/research-overview.md">
+                <img src="UK/ICL/profiles/abbas-edalat-profile.jpg" width="150" style="border-radius: 8px;" alt="Abbas Edalat"><br>
+                <b>Abbas Edalat 阿巴斯·埃达拉特</b>
+            </a>
+            <p>计算几何、博弈论、计算精神病学、优化理论、逻辑计算</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/aldo-faisal/research-overview.md">
+                <img src="UK/ICL/profiles/aldo-faisal-profile.jpg" width="150" style="border-radius: 8px;" alt="Aldo Faisal"><br>
+                <b>Aldo Faisal 阿尔多·费萨尔</b>
+            </a>
+            <p>神经科学、神经技术、生物工程、机器学习、行为预测</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/abhijeet-ghosh/research-overview.md">
+                <img src="UK/ICL/profiles/abhijeet-ghosh-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhijeet Ghosh"><br>
+                <b>Abhijeet Ghosh 阿布希吉特·高什</b>
+            </a>
+            <p>外观建模、计算照明、摄影测量、图形与视觉、渲染技术</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/ben-glocker/research-overview.md">
+                <img src="UK/ICL/profiles/ben-glocker-profile.jpg" width="150" style="border-radius: 8px;" alt="Ben Glocker"><br>
+                <b>Ben Glocker 本·格洛克</b>
+            </a>
+            <p>医学影像、机器学习、语义理解、视觉分析、计算机视觉</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/edward-johns/research-overview.md">
+                <img src="UK/ICL/profiles/edward-johns-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward Johns"><br>
+                <b>Edward Johns 爱德华·约翰斯</b>
+            </a>
+            <p>机器人学习、强化学习、深度学习、机器人操作、感知</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/bernhard-kainz/research-overview.md">
+                <img src="UK/ICL/profiles/bernhard-kainz-profile.jpg" width="150" style="border-radius: 8px;" alt="Bernhard Kainz"><br>
+                <b>Bernhard Kainz 伯恩哈德·凯恩茨</b>
+            </a>
+            <p>医学影像、实时处理、可视化、GPU加速、深度学习</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/yingzhen-li/research-overview.md">
+                <img src="UK/ICL/profiles/yingzhen-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Yingzhen Li"><br>
+                <b>Yingzhen Li 李英祯</b>
+            </a>
+            <p>机器学习、贝叶斯推断、生成模型、鲁棒性学习、表示学习</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/pedro-mediano/research-overview.md">
+                <img src="UK/ICL/profiles/pedro-mediano-profile.jpg" width="150" style="border-radius: 8px;" alt="Pedro Mediano"><br>
+                <b>Pedro Mediano 佩德罗·梅迪亚诺</b>
+            </a>
+            <p>神经计算、信息论、认知神经科学、意识研究、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/stephen-muggleton/research-overview.md">
+                <img src="UK/ICL/profiles/stephen-muggleton-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Muggleton"><br>
+                <b>Stephen Muggleton 史蒂芬·马格尔顿</b>
+            </a>
+            <p>归纳逻辑编程、机器学习、生物信息学、自然语言学习</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/maja-pantic/research-overview.md">
+                <img src="UK/ICL/profiles/maja-pantic-profile.jpg" width="150" style="border-radius: 8px;" alt="Maja Pantic"><br>
+                <b>Maja Pantic 玛雅·潘蒂奇</b>
+            </a>
+            <p>计算机视觉、情感计算、人机交互、机器学习</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/CS/murray-shanahan/research-overview.md">
+                <img src="UK/ICL/profiles/murray-shanahan-profile.jpg" width="150" style="border-radius: 8px;" alt="Murray Shanahan"><br>
+                <b>Murray Shanahan 默里·沙纳汉</b>
+            </a>
+            <p>认知机器人、意识、神经动力学、通用人工智能、强化学习</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/lucia-specia/research-overview.md">
+                <img src="UK/ICL/profiles/lucia-specia-profile.jpg" width="150" style="border-radius: 8px;" alt="Lucia Specia"><br>
+                <b>Lucia Specia 露西娅·斯佩西亚</b>
+            </a>
+            <p>自然语言处理、多模态语言、机器翻译、语义质量评估</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/francesca-toni/research-overview.md">
+                <img src="UK/ICL/profiles/francesca-toni-profile.jpg" width="150" style="border-radius: 8px;" alt="Francesca Toni"><br>
+                <b>Francesca Toni 弗朗西丝卡·托尼</b>
+            </a>
+            <p>知识表示、论证推理、非单调逻辑、论点挖掘、多智能体系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/CS/stefanos-zafeiriou/research-overview.md">
+                <img src="UK/ICL/profiles/stefanos-zafeiriou-profile.jpg" width="150" style="border-radius: 8px;" alt="Stefanos Zafeiriou"><br>
+                <b>Stefanos Zafeiriou 斯特凡诺斯·扎菲里乌</b>
+            </a>
+            <p>机器学习、计算机视觉、图像分析、信号处理</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Data Science](https://www.imperial.ac.uk/engineering/departments/computing/research/data-science/)
+- **Field**: [Programming Languages](https://www.imperial.ac.uk/engineering/departments/computing/research/programming-languages/)
+- **Field**: [Cyber Security](https://www.imperial.ac.uk/engineering/departments/computing/research/cyber-security/)
+- **Field**: [Software Engineering](https://www.imperial.ac.uk/engineering/departments/computing/research/software-engineering/)
+- **Field**: [Systems](https://www.imperial.ac.uk/engineering/departments/computing/research/systems/)
+- **Field**: [Theory and Algorithms](https://www.imperial.ac.uk/engineering/departments/computing/research/theory-and-algorithms/)
+- **Field**: [Visual Computing](https://www.imperial.ac.uk/engineering/departments/computing/research/visual-computing/)
+- **Field**: [Quantum Computing](https://www.imperial.ac.uk/engineering/departments/computing/research/quantum-computing/)
+
+
 
