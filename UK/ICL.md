@@ -534,3 +534,646 @@
         </td>
     </tr>
 </table>
+
+### [Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/david-angeli/research-overview.md">
+                <img src="UK/ICL/profiles/david-angeli-profile.jpg" width="150" style="border-radius: 8px;" alt="David Angeli"><br>
+                <b>David Angeli 戴维·安杰利</b>
+            </a>
+            <p>非线性网络动力学、系统稳定性、控制理论、集体行为、鲁棒性</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/alessandro-astolfi/research-overview.md">
+                <img src="UK/ICL/profiles/alessandro-astolfi-profile.jpg" width="150" style="border-radius: 8px;" alt="Alessandro Astolfi"><br>
+                <b>Alessandro Astolfi 亚历山德罗·阿斯托尔菲</b>
+            </a>
+            <p>非线性控制、鲁棒控制、自适应控制、观测器设计、模型降维</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/javier-barria/research-overview.md">
+                <img src="UK/ICL/profiles/javier-barria-profile.jpg" width="150" style="border-radius: 8px;" alt="Javier Barria"><br>
+                <b>Javier Barria 哈维尔·巴里亚</b>
+            </a>
+            <p>时间序列、异常检测、分布式资源分配、动态网络、智能交通、电力系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/ayush-bhandari/research-overview.md">
+                <img src="UK/ICL/profiles/ayush-bhandari-profile.jpg" width="150" style="border-radius: 8px;" alt="Ayush Bhandari"><br>
+                <b>Ayush Bhandari 阿尤什·班达里</b>
+            </a>
+            <p>信号处理、计算感知、数字成像、算法硬件协同、时间分辨成像</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/christos-bouganis/research-overview.md">
+                <img src="UK/ICL/profiles/christos-bouganis-profile.jpg" width="150" style="border-radius: 8px;" alt="Christos Bouganis"><br>
+                <b>Christos Bouganis 克里斯托斯·布加尼斯</b>
+            </a>
+            <p>数字系统、机器学习、计算机视觉、硬件加速、低功耗设计</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/balarko-chaudhuri/research-overview.md">
+                <img src="UK/ICL/profiles/balarko-chaudhuri-profile.jpg" width="150" style="border-radius: 8px;" alt="Balarko Chaudhuri"><br>
+                <b>Balarko Chaudhuri 巴拉尔科·乔杜里</b>
+            </a>
+            <p>电力系统、动态稳定性、可再生能源、逆变器技术、网格控制</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/peter-cheung/research-overview.md">
+                <img src="UK/ICL/profiles/peter-cheung-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Cheung"><br>
+                <b>Peter Cheung 张炳强</b>
+            </a>
+            <p>可重构计算、数字设计、嵌入式系统、教学创新、FPGA体系</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/bruno-clerckx/research-overview.md">
+                <img src="UK/ICL/profiles/bruno-clerckx-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruno Clerckx"><br>
+                <b>Bruno Clerckx 布鲁诺·克莱克斯</b>
+            </a>
+            <p>无线通信、信号处理、无线能量传输、无线感知、机器学习通信</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/timothy-constandinou/research-overview.md">
+                <img src="UK/ICL/profiles/timothy-constandinou-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy Constandinou"><br>
+                <b>Timothy Constandinou 蒂莫西·康斯坦迪努</b>
+            </a>
+            <p>神经接口、生物电子、微电子系统、脑机接口、神经工程</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/george-constantinides/research-overview.md">
+                <img src="UK/ICL/profiles/george-constantinides-profile.jpg" width="150" style="border-radius: 8px;" alt="George Constantinides"><br>
+                <b>George Constantinides 乔治·康斯坦丁尼德斯</b>
+            </a>
+            <p>数字计算、有限精度优化、硬件自动化、计算加速、机器学习硬件</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/wei-dai/research-overview.md">
+                <img src="UK/ICL/profiles/wei-dai-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Dai"><br>
+                <b>Wei Dai 戴巍</b>
+            </a>
+            <p>感知计算、信号处理、优化算法、机器学习、分布式感知、成像系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/yiannis-demiris/research-overview.md">
+                <img src="UK/ICL/profiles/yiannis-demiris-profile.jpg" width="150" style="border-radius: 8px;" alt="Yiannis Demiris"><br>
+                <b>Yiannis Demiris 伊安尼斯·德米里斯</b>
+            </a>
+            <p>智能机器人、人机交互、计算机视觉、学习控制、自适应辅助</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/pier-luigi-dragotti/research-overview.md">
+                <img src="UK/ICL/profiles/pier-luigi-dragotti-profile.jpg" width="150" style="border-radius: 8px;" alt="Pier Luigi Dragotti"><br>
+                <b>Pier Luigi Dragotti 皮尔·路易吉·德拉戈蒂</b>
+            </a>
+            <p>高维数据分析、信号处理、模型神经网络、图像重建、数学建模</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/zahid-durrani/research-overview.md">
+                <img src="UK/ICL/profiles/zahid-durrani-profile.jpg" width="150" style="border-radius: 8px;" alt="Zahid Durrani"><br>
+                <b>Zahid Durrani 扎希德·杜拉尼</b>
+            </a>
+            <p>量子电子学、纳米器件、半导体技术、低功耗电路、量子电路</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/simos-evangelou/research-overview.md">
+                <img src="UK/ICL/profiles/simos-evangelou-profile.jpg" width="150" style="border-radius: 8px;" alt="Simos Evangelou"><br>
+                <b>Simos Evangelou 西莫斯·埃万杰卢</b>
+            </a>
+            <p>系统工程、多体动力学、车辆控制、机电系统、油气动力系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/kristel-fobelets/research-overview.md">
+                <img src="UK/ICL/profiles/kristel-fobelets-profile.jpg" width="150" style="border-radius: 8px;" alt="Kristel Fobelets"><br>
+                <b>Kristel Fobelets 克里斯特尔·福贝莱茨</b>
+            </a>
+            <p>硅基材料、碳纳米材料、传感器、能量存储、柔性电子、可穿戴设备</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/yulong-gao/research-overview.md">
+                <img src="UK/ICL/profiles/yulong-gao-profile.jpg" width="150" style="border-radius: 8px;" alt="Yulong Gao"><br>
+                <b>Yulong Gao 高玉龙</b>
+            </a>
+            <p>自主系统、安全验证、机器学习控制、形式化推理、关键基础设施</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/pantelis-georgiou/research-overview.md">
+                <img src="UK/ICL/profiles/pantelis-georgiou-profile.jpg" width="150" style="border-radius: 8px;" alt="Pantelis Georgiou"><br>
+                <b>Pantelis Georgiou 潘特利斯·乔治乌</b>
+            </a>
+            <p>生物电子、超低功耗电路、芯片实验室、医疗器械、可穿戴技术</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/eleonora-giunchiglia/research-overview.md">
+                <img src="UK/ICL/profiles/eleonora-giunchiglia-profile.jpg" width="150" style="border-radius: 8px;" alt="Eleonora Giunchiglia"><br>
+                <b>Eleonora Giunchiglia 埃莱奥诺拉·琼基利亚</b>
+            </a>
+            <p>神经符号人工智能、安全学习、逻辑推理、可验证AI、可靠决策</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/dan-goodman/research-overview.md">
+                <img src="UK/ICL/profiles/dan-goodman-profile.jpg" width="150" style="border-radius: 8px;" alt="Dan Goodman"><br>
+                <b>Dan Goodman 丹·古德曼</b>
+            </a>
+            <p>人工智能、神经计算、脑科学、机器学习、计算建模</p>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/tim-green/research-overview.md">
+                <img src="UK/ICL/profiles/tim-green-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Green"><br>
+                <b>Tim Green 蒂姆·格林</b>
+            </a>
+            <p>电力系统、可再生能源、电网稳定性、数据建模、电力调度</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/yunjie-gu/research-overview.md">
+                <img src="UK/ICL/profiles/yunjie-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yunjie Gu"><br>
+                <b>Yunjie Gu 顾云杰</b>
+            </a>
+            <p>逆变电网、功率电子、稳定性分析、振荡监测、电能质量</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/deniz-gunduz/research-overview.md">
+                <img src="UK/ICL/profiles/deniz-gunduz-profile.jpg" width="150" style="border-radius: 8px;" alt="Deniz Gündüz"><br>
+                <b>Deniz Gündüz 德尼兹·君杜兹</b>
+            </a>
+            <p>信息论、机器学习、信号处理、数据隐私、通信系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/andrew-holmes/research-overview.md">
+                <img src="UK/ICL/profiles/andrew-holmes-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Holmes"><br>
+                <b>Andrew Holmes 安德鲁·霍姆斯</b>
+            </a>
+            <p>微电子设计、系统集成、电路工程、半导体技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/imad-jaimoukha/research-overview.md">
+                <img src="UK/ICL/profiles/imad-jaimoukha-profile.jpg" width="150" style="border-radius: 8px;" alt="Imad Jaimoukha"><br>
+                <b>Imad Jaimoukha 伊马德·贾穆卡</b>
+            </a>
+            <p>鲁棒控制、系统设计、模型降阶、预测控制、故障检测</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/yassir-jedra/research-overview.md">
+                <img src="UK/ICL/profiles/yassir-jedra-profile.jpg" width="150" style="border-radius: 8px;" alt="Yassir Jedra"><br>
+                <b>Yassir Jedra 亚西尔·杰德拉</b>
+            </a>
+            <p>强化学习、动态系统、控制理论、算法优化、样本效率</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/adria-junyent-ferre/research-overview.md">
+                <img src="UK/ICL/profiles/adria-junyent-ferre-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrià Junyent-Ferré"><br>
+                <b>Adrià Junyent-Ferré 阿德里亚·胡涅特-费雷</b>
+            </a>
+            <p>电力电子、离网供电、微电网、太阳能系统、电动交通</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/eric-kerrigan/research-overview.md">
+                <img src="UK/ICL/profiles/eric-kerrigan-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Kerrigan"><br>
+                <b>Eric Kerrigan 埃里克·克里根</b>
+            </a>
+            <p>控制优化、航空系统、能源网络、数字孪生、不确定性分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/kin-leung/research-overview.md">
+                <img src="UK/ICL/profiles/kin-leung-profile.jpg" width="150" style="border-radius: 8px;" alt="Kin Leung"><br>
+                <b>Kin Leung 梁建</b>
+            </a>
+            <p>网络智能、人工智能、无线通信、量子计算、系统管理</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/geoffrey-li/research-overview.md">
+                <img src="UK/ICL/profiles/geoffrey-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Geoffrey Li"><br>
+                <b>Geoffrey Li 李国辉</b>
+            </a>
+            <p>无线通信、深度学习、人工智能、信号处理、网络优化</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/cong-ling/research-overview.md">
+                <img src="UK/ICL/profiles/cong-ling-profile.jpg" width="150" style="border-radius: 8px;" alt="Cong Ling"><br>
+                <b>Cong Ling 凌聪</b>
+            </a>
+            <p>信息论、密码学、量子通信、数论编码、数据安全</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/stepan-lucyszyn/research-overview.md">
+                <img src="UK/ICL/profiles/stepan-lucyszyn-profile.jpg" width="150" style="border-radius: 8px;" alt="Stepan Lucyszyn"><br>
+                <b>Stepan Lucyszyn 斯捷潘·卢奇申</b>
+            </a>
+            <p>微波工程、射频系统、无线能量传输、红外技术、3D打印</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/danilo-mandic/research-overview.md">
+                <img src="UK/ICL/profiles/danilo-mandic-profile.jpg" width="150" style="border-radius: 8px;" alt="Danilo Mandic"><br>
+                <b>Danilo Mandic 达尼洛·曼迪奇</b>
+            </a>
+            <p>统计学习、生成模型、张量分析、图学习、可解释人工智能</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/athanassios-manikas/research-overview.md">
+                <img src="UK/ICL/profiles/athanassios-manikas-profile.jpg" width="150" style="border-radius: 8px;" alt="Athanassios Manikas"><br>
+                <b>Athanassios Manikas 阿塔纳修斯·马尼卡斯</b>
+            </a>
+            <p>阵列通信、波束形成、雷达信号处理、定位算法、空间信号</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/krystian-mikolajczyk/research-overview.md">
+                <img src="UK/ICL/profiles/krystian-mikolajczyk-profile.jpg" width="150" style="border-radius: 8px;" alt="Krystian Mikolajczyk"><br>
+                <b>Krystian Mikolajczyk 克里斯蒂安·米科拉伊奇克</b>
+            </a>
+            <p>计算机视觉、三维重建、识别系统、语言视觉、机器人推理</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/paul-mitcheson/research-overview.md">
+                <img src="UK/ICL/profiles/paul-mitcheson-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Mitcheson"><br>
+                <b>Paul Mitcheson 保罗·米奇森</b>
+            </a>
+            <p>功率电子、无线能量、半导体材料、高频变换、能源接口</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/patrick-naylor/research-overview.md">
+                <img src="UK/ICL/profiles/patrick-naylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Naylor"><br>
+                <b>Patrick Naylor 帕特里克·内勒</b>
+            </a>
+            <p>语音信号、声学处理、听觉增强、声源定位、认知听觉</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/mark-omalley/research-overview.md">
+                <img src="UK/ICL/profiles/mark-omalley-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark O'Malley"><br>
+                <b>Mark O'Malley 马克·奥马利</b>
+            </a>
+            <p>电力系统、能源转型、零碳电网、可再生能源、系统规划</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/bikash-pal/research-overview.md">
+                <img src="UK/ICL/profiles/bikash-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Bikash Pal"><br>
+                <b>Bikash Pal 比卡什·帕尔</b>
+            </a>
+            <p>电网控制、电力稳定性、可再生集成、电动交通、动态分析</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/christos-papavassiliou/research-overview.md">
+                <img src="UK/ICL/profiles/christos-papavassiliou-profile.jpg" width="150" style="border-radius: 8px;" alt="Christos Papavassiliou"><br>
+                <b>Christos Papavassiliou 克里斯托斯·帕帕瓦西柳</b>
+            </a>
+            <p>纳米电子电路、忆阻器、量子点、低温电路、自旋电子学</p>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/sonali-parbhoo/research-overview.md">
+                <img src="UK/ICL/profiles/sonali-parbhoo-profile.jpg" width="150" style="border-radius: 8px;" alt="Sonali Parbhoo"><br>
+                <b>Sonali Parbhoo 索娜莉·帕布胡</b>
+            </a>
+            <p>不确定性决策、概率机器学习、强化学习、因果推断、可信人工智能</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/thomas-parisini/research-overview.md">
+                <img src="UK/ICL/profiles/thomas-parisini-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Parisini"><br>
+                <b>Thomas Parisini 托马斯·帕里西尼</b>
+            </a>
+            <p>分布式系统、学习优化、物理感知建模、数据驱动控制、系统韧性</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/tom-pike/research-overview.md">
+                <img src="UK/ICL/profiles/tom-pike-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Pike"><br>
+                <b>Tom Pike 汤姆·派克</b>
+            </a>
+            <p>微机电传感器、行星探测、硅地震仪、重力仪、地球物理传感</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/jeremy-pitt/research-overview.md">
+                <img src="UK/ICL/profiles/jeremy-pitt-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeremy Pitt"><br>
+                <b>Jeremy Pitt 杰里米·皮特</b>
+            </a>
+            <p>自组织系统、自治理算法、多智能体系统、社会计算、人工智能伦理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/chen-qin/research-overview.md">
+                <img src="UK/ICL/profiles/chen-qin-profile.jpg" width="150" style="border-radius: 8px;" alt="Chen Qin"><br>
+                <b>Chen Qin 秦晨</b>
+            </a>
+            <p>医学成像、生成模型、多模态学习、神经影像、心血管影像</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/esther-rodriguez-villegas/research-overview.md">
+                <img src="UK/ICL/profiles/esther-rodriguez-villegas-profile.jpg" width="150" style="border-radius: 8px;" alt="Esther Rodriguez-Villegas"><br>
+                <b>Esther Rodriguez-Villegas 埃丝特·罗德里格斯-维列加斯</b>
+            </a>
+            <p>可穿戴健康技术、低功耗电子、信号处理、医学设备、临床验证</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/giordano-scarciotti/research-overview.md">
+                <img src="UK/ICL/profiles/giordano-scarciotti-profile.jpg" width="150" style="border-radius: 8px;" alt="Giordano Scarciotti"><br>
+                <b>Giordano Scarciotti 乔尔达诺·斯卡尔乔蒂</b>
+            </a>
+            <p>控制理论、系统分析、动态建模、电力系统、稳定性研究</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/ad-spiers/research-overview.md">
+                <img src="UK/ICL/profiles/ad-spiers-profile.jpg" width="150" style="border-radius: 8px;" alt="Ad Spiers"><br>
+                <b>Ad Spiers 阿德·斯皮尔斯</b>
+            </a>
+            <p>机器人学、触觉接口、机器学习、人机交互、感知控制</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/elina-spyrou/research-overview.md">
+                <img src="UK/ICL/profiles/elina-spyrou-profile.jpg" width="150" style="border-radius: 8px;" alt="Elina Spyrou"><br>
+                <b>Elina Spyrou 埃莉娜·斯皮鲁</b>
+            </a>
+            <p>电力系统、决策支持、市场设计、减排政策、不确定性建模</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/tania-stathaki/research-overview.md">
+                <img src="UK/ICL/profiles/tania-stathaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Stathaki"><br>
+                <b>Tania Stathaki 塔尼娅·斯塔萨基</b>
+            </a>
+            <p>信号处理、图像分析、智能系统、安全防务、医疗数据、数字艺术</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/goran-strbac/research-overview.md">
+                <img src="UK/ICL/profiles/goran-strbac-profile.jpg" width="150" style="border-radius: 8px;" alt="Goran Strbac"><br>
+                <b>Goran Strbac 戈兰·斯特拉巴克</b>
+            </a>
+            <p>能源系统、碳中和、市场机制、多能源集成、电力经济</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/oleksiy-sydoruk/research-overview.md">
+                <img src="UK/ICL/profiles/oleksiy-sydoruk-profile.jpg" width="150" style="border-radius: 8px;" alt="Oleksiy Sydoruk"><br>
+                <b>Oleksiy Sydoruk 奥列克西·西多鲁克</b>
+            </a>
+            <p>电磁学、传感器、近场通信、超材料、电磁波传播</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/richard-syms/research-overview.md">
+                <img src="UK/ICL/profiles/richard-syms-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Syms"><br>
+                <b>Richard Syms 理查德·西姆斯</b>
+            </a>
+            <p>传感器、微纳机电系统、微流控、质谱仪、磁共振探针</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/fei-teng/research-overview.md">
+                <img src="UK/ICL/profiles/fei-teng-profile.jpg" width="150" style="border-radius: 8px;" alt="Fei Teng"><br>
+                <b>Fei Teng 滕飞</b>
+            </a>
+            <p>智能能源系统、优化决策、计算架构、能源调度、未来电网</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/chris-toumazou/research-overview.md">
+                <img src="UK/ICL/profiles/chris-toumazou-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Toumazou"><br>
+                <b>Chris Toumazou 克里斯·图马祖</b>
+            </a>
+            <p>精准健康、行为科学、神经传感、代谢调控、疾病预防</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/stefan-vlaski/research-overview.md">
+                <img src="UK/ICL/profiles/stefan-vlaski-profile.jpg" width="150" style="border-radius: 8px;" alt="Stefan Vlaski"><br>
+                <b>Stefan Vlaski 斯特凡·弗拉斯基</b>
+            </a>
+            <p>分布式学习、网络优化、统计推断、多智能体系统、自组织算法</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/EE/sen-wang/research-overview.md">
+                <img src="UK/ICL/profiles/sen-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sen Wang"><br>
+                <b>Sen Wang 王森</b>
+            </a>
+            <p>自主机器人、感知导航、SLAM、多传感融合、环境理解</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/john-wickerson/research-overview.md">
+                <img src="UK/ICL/profiles/john-wickerson-profile.jpg" width="150" style="border-radius: 8px;" alt="John Wickerson"><br>
+                <b>John Wickerson 约翰·威克森</b>
+            </a>
+            <p>计算机系统、程序验证、形式化方法、错误检测、可靠性分析</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/eric-yeatman/research-overview.md">
+                <img src="UK/ICL/profiles/eric-yeatman-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Yeatman"><br>
+                <b>Eric Yeatman 埃里克·耶特曼</b>
+            </a>
+            <p>微技术、微机电结构、传感器、光电器件、微机器人</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/EE/aaron-zhao/research-overview.md">
+                <img src="UK/ICL/profiles/aaron-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Zhao"><br>
+                <b>Aaron Zhao 赵昊</b>
+            </a>
+            <p>生成式人工智能、硬件安全、算法优化、大规模计算、系统架构</p>
+        </td>
+    </tr>
+</table>
+
+
+### [Aeronautics](https://www.imperial.ac.uk/aeronautics/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/davide-amato/research-overview.md">
+                <img src="UK/ICL/profiles/davide-amato-profile.jpg" width="150" style="border-radius: 8px;" alt="Davide Amato"><br>
+                <b>Davide Amato 达维德·阿马托</b>
+            </a>
+            <p>轨道动力学、空间态势感知、机器学习、再入控制、航天器导航</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/eric-kerrigan/research-overview.md">
+                <img src="UK/ICL/profiles/eric-kerrigan-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Kerrigan"><br>
+                <b>Eric Kerrigan 埃里克·克里根</b>
+            </a>
+            <p>预测控制、动态优化、实时控制、数值方法、航天器控制</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/matthew-santer/research-overview.md">
+                <img src="UK/ICL/profiles/matthew-santer-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Santer"><br>
+                <b>Matthew Santer 马修·桑特</b>
+            </a>
+            <p>可展开结构、自适应结构、精密驱动、变形结构、多稳态机构</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/oliver-buxton/research-overview.md">
+                <img src="UK/ICL/profiles/oliver-buxton-profile.jpg" width="150" style="border-radius: 8px;" alt="Oliver Buxton"><br>
+                <b>Oliver Buxton 奥利弗·巴克斯顿</b>
+            </a>
+            <p>湍流、风能、标量混合、实验流体力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/paul-bruce/research-overview.md">
+                <img src="UK/ICL/profiles/paul-bruce-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Bruce"><br>
+                <b>Paul Bruce 保罗·布鲁斯</b>
+            </a>
+            <p>高超声速、气动热力学、激波、再入飞行器、高速风洞</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/koonyang-lee/research-overview.md">
+                <img src="UK/ICL/profiles/koonyang-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Koonyang Lee"><br>
+                <b>Koonyang Lee 李坤洋</b>
+            </a>
+            <p>聚合物加工、复合材料、可持续材料、多孔材料、再生利用</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/ajit-panesar/research-overview.md">
+                <img src="UK/ICL/profiles/ajit-panesar-profile.jpg" width="150" style="border-radius: 8px;" alt="Ajit Panesar"><br>
+                <b>Ajit Panesar 阿吉特·帕内萨尔</b>
+            </a>
+            <p>增材制造、结构设计、机器学习、超材料、晶格结构</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/rafael-palacios/research-overview.md">
+                <img src="UK/ICL/profiles/rafael-palacios-profile.jpg" width="150" style="border-radius: 8px;" alt="Rafael Palacios"><br>
+                <b>Rafael Palacios 拉斐尔·帕拉西奥斯</b>
+            </a>
+            <p>气动弹性、流固耦合、载荷控制、风能、系统优化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/luca-magri/research-overview.md">
+                <img src="UK/ICL/profiles/luca-magri-profile.jpg" width="150" style="border-radius: 8px;" alt="Luca Magri"><br>
+                <b>Luca Magri 卢卡·马格里</b>
+            </a>
+            <p>机器学习、数据同化、混沌理论、多物理耦合、优化计算</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/silvestre-pinho/research-overview.md">
+                <img src="UK/ICL/profiles/silvestre-pinho-profile.jpg" width="150" style="border-radius: 8px;" alt="Silvestre Taveira Pinho"><br>
+                <b>Silvestre Taveira Pinho 西尔维斯特·塔维拉·平霍</b>
+            </a>
+            <p>复合材料力学、失效分析、生物启发结构、数值仿真、结构强度</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/aaron-knoll/research-overview.md">
+                <img src="UK/ICL/profiles/aaron-knoll-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Knoll"><br>
+                <b>Aaron Knoll 亚伦·诺尔</b>
+            </a>
+            <p>电推进、等离子体推进器、微推进系统、霍尔推力器、航天推进</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/georgios-rigas/research-overview.md">
+                <img src="UK/ICL/profiles/georgios-rigas-profile.jpg" width="150" style="border-radius: 8px;" alt="Georgios Rigas"><br>
+                <b>Georgios Rigas 乔治奥斯·里加斯</b>
+            </a>
+            <p>流动控制、湍流、数据驱动建模、控制优化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/spencer-sherwin/research-overview.md">
+                <img src="UK/ICL/profiles/spencer-sherwin-profile.jpg" width="150" style="border-radius: 8px;" alt="Spencer Sherwin"><br>
+                <b>Spencer Sherwin 斯宾塞·舍尔温</b>
+            </a>
+            <p>高保真流动模拟、谱元方法、数值流体力学、非定常流动</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/vito-tagarielli/research-overview.md">
+                <img src="UK/ICL/profiles/vito-tagarielli-profile.jpg" width="150" style="border-radius: 8px;" alt="Vito L Tagarielli"><br>
+                <b>Vito L Tagarielli 维托·塔加里耶利</b>
+            </a>
+            <p>固体力学、多尺度仿真、冲击工程、数据驱动建模、实验力学</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/sergei-chernyshenko/research-overview.md">
+                <img src="UK/ICL/profiles/sergei-chernyshenko-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergei Chernyshenko"><br>
+                <b>Sergei Chernyshenko 谢尔盖·切尔尼申科</b>
+            </a>
+            <p>数学流体力学、动力系统、湍流理论</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/sylvain-laizet/research-overview.md">
+                <img src="UK/ICL/profiles/sylvain-laizet-profile.jpg" width="150" style="border-radius: 8px;" alt="Sylvain Laizet"><br>
+                <b>Sylvain Laizet 西尔万·莱泽</b>
+            </a>
+            <p>计算流体力学、高性能计算、流动控制、湍流模拟</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/peter-vincent/research-overview.md">
+                <img src="UK/ICL/profiles/peter-vincent-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Vincent"><br>
+                <b>Peter Vincent 彼得·文森特</b>
+            </a>
+            <p>计算流体力学、数值方法、高性能计算、生物流体、非定常湍流</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/yongyun-hwang/research-overview.md">
+                <img src="UK/ICL/profiles/yongyun-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongyun Hwang"><br>
+                <b>Yongyun Hwang 黄永运</b>
+            </a>
+            <p>流动不稳定性、湍流、模式形成、生物流体系统</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/thulasi-mylvaganam/research-overview.md">
+                <img src="UK/ICL/profiles/thulasi-mylvaganam-profile.jpg" width="150" style="border-radius: 8px;" alt="Thulasi Mylvaganam"><br>
+                <b>Thulasi Mylvaganam 图拉西·米尔瓦加南</b>
+            </a>
+            <p>非线性控制、分布式控制、优化算法、机器人系统、数据驱动控制</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/francesco-montomoli/research-overview.md">
+                <img src="UK/ICL/profiles/francesco-montomoli-profile.jpg" width="150" style="border-radius: 8px;" alt="Francesco Montomoli"><br>
+                <b>Francesco Montomoli 弗朗西斯科·蒙托莫利</b>
+            </a>
+            <p>不确定性量化、工业4.0、机器学习、增材制造、设计优化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/mirko-kovac/research-overview.md">
+                <img src="UK/ICL/profiles/mirko-kovac-profile.jpg" width="150" style="border-radius: 8px;" alt="Mirko Kovac"><br>
+                <b>Mirko Kovac 米尔科·科瓦奇</b>
+            </a>
+            <p>仿生机器人、飞行机器人、软体机器人、多模态移动、人工智能</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/qianqian-li/research-overview.md">
+                <img src="UK/ICL/profiles/qianqian-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Qianqian Li"><br>
+                <b>Qianqian Li 李倩倩</b>
+            </a>
+            <p>轻质复合材料、纳米颗粒分散、界面特性、聚合物增强材料</p>
+        </td>
+        <td align="center">
+            <a href="UK/ICL/Aeronautics/emile-greenhalgh/research-overview.md">
+                <img src="UK/ICL/profiles/emile-greenhalgh-profile.jpg" width="150" style="border-radius: 8px;" alt="Emile Greenhalgh"><br>
+                <b>Emile Greenhalgh 埃米尔·格林哈尔</b>
+            </a>
+            <p>结构储能材料、复合材料、电化学存储、高性能能源结构</p>
+        </td>
+    </tr>
+</table>
+
+
+### [Computing](https://www.imperial.ac.uk/computing/)
+
