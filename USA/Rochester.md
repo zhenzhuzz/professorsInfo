@@ -1613,4 +1613,69 @@
 </table>
 
 - **Field**: [Ultrafast Optics & High-Field Sciences](https://www.hajim.rochester.edu/optics/research/ultrafast_optics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/william-renninger/research-overview.md">
+                <img src="USA/Rochester/profiles/william-renninger-profile.jpg" width="150" style="border-radius: 8px;" alt="William Renninger"><br>
+                <b>William Renninger 威廉·伦宁格</b>
+            </a>
+            <p>
+                飞秒激光、光纤激光器、锁模技术、固态激光、脉冲整形、超短脉冲源
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/govind-agrawal/research-overview.md">
+                <img src="USA/Rochester/profiles/govind-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Govind Agrawal"><br>
+                <b>Govind Agrawal 戈温德·阿格拉瓦尔</b>
+            </a>
+            <p>
+                超连续谱生成、锁模激光器、光孤子、非线性光纤、光谱展宽、色散管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/chunlei-guo/research-overview.md">
+                <img src="USA/Rochester/profiles/chunlei-guo-profile.jpg" width="150" style="border-radius: 8px;" alt="Chunlei Guo"><br>
+                <b>Chunlei Guo 郭春雷</b>
+            </a>
+            <p>
+                超快动力学、高场科学、等离激元、电子-声子相互作用、飞秒激光、物质相互作用
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/jianming-dai/research-overview.md">
+                <img src="USA/Rochester/profiles/jianming-dai-profile.jpg" width="150" style="border-radius: 8px;" alt="Jianming Dai"><br>
+                <b>Jianming Dai 戴建明</b>
+            </a>
+            <p>
+                太赫兹光电子学、飞秒光谱、空气光子学、非线性太赫兹、超快激光、时间分辨测量
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/wayne-knox/research-overview.md">
+                <img src="USA/Rochester/profiles/wayne-knox-profile.jpg" width="150" style="border-radius: 8px;" alt="Wayne Knox"><br>
+                <b>Wayne Knox 韦恩·诺克斯</b>
+            </a>
+            <p>
+                超快激光、脉冲压缩、光学频率梳、非线性光学、光纤激光、激光加工
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Vision & Ophthalmic Optics](https://www.hajim.rochester.edu/optics/research/vision_optics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/james-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="James Fienup"><br>
+                <b>James Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、波前测量、图像重建、视网膜超分辨、计算成像、稀疏阵列成像
+            </p>
+        </td>
+    </tr>
+</table>
