@@ -1032,16 +1032,585 @@
 ### [The Institute of Optics](https://www.hajim.rochester.edu/optics/index.html)
 
 - **Field**: [Biomedical Optics](https://www.hajim.rochester.edu/optics/research/biomedical.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/andrew-berger/research-overview.md">
+                <img src="USA/Rochester/profiles/andrew-berger-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Berger"><br>
+                <b>Andrew Berger 安德鲁·伯杰</b>
+            </a>
+            <p>
+                生物光谱学、近红外光谱、拉曼光谱、细胞成像、光散射、生物传感
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                光子生物传感器、非线性光学、光谐振腔、光学显微成像、集成光子学、纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/jim-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/jim-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="Jim Fienup"><br>
+                <b>Jim Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、计算成像、波前测量、光学系统设计、超分辨率、视网膜成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/william-renninger/research-overview.md">
+                <img src="USA/Rochester/profiles/william-renninger-profile.jpg" width="150" style="border-radius: 8px;" alt="William Renninger"><br>
+                <b>William Renninger 威廉·伦宁格</b>
+            </a>
+            <p>
+                超快激光源、多光子显微镜、生物组织成像、非线性光学、脉冲整形、深层成像
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/jannick-rolland/research-overview.md">
+                <img src="USA/Rochester/profiles/jannick-rolland-profile.jpg" width="150" style="border-radius: 8px;" alt="Jannick Rolland"><br>
+                <b>Jannick Rolland 雅尼克·罗兰</b>
+            </a>
+            <p>
+                光学相干层析成像、光学显微术、生物医学成像、功能成像、光学系统设计、光学诊断
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-zavislan/research-overview.md">
+                <img src="USA/Rochester/profiles/james-zavislan-profile.jpg" width="150" style="border-radius: 8px;" alt="James Zavislan"><br>
+                <b>James Zavislan 詹姆斯·扎维斯兰</b>
+            </a>
+            <p>
+                活体成像、实时病理、光学诊断、光纤系统、生物医学工程、成像仪器
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/nick-george/research-overview.md">
+                <img src="USA/Rochester/profiles/nick-george-profile.jpg" width="150" style="border-radius: 8px;" alt="Nick George"><br>
+                <b>Nick George 尼克·乔治</b>
+            </a>
+            <p>
+                光信息处理、傅里叶光学、全息术、光学信号分析、图像识别、光学计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/wayne-knox/research-overview.md">
+                <img src="USA/Rochester/profiles/wayne-knox-profile.jpg" width="150" style="border-radius: 8px;" alt="Wayne Knox"><br>
+                <b>Wayne Knox 韦恩·诺克斯</b>
+            </a>
+            <p>
+                超快激光、光纤通信、非线性光学、眼科应用、激光材料加工、成像光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/duncan-moore/research-overview.md">
+                <img src="USA/Rochester/profiles/duncan-moore-profile.jpg" width="150" style="border-radius: 8px;" alt="Duncan Moore"><br>
+                <b>Duncan Moore 邓肯·穆尔</b>
+            </a>
+            <p>
+                光学工程、镜头设计、制造工艺、自由曲面光学、系统集成、商业化创新
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/david-williams/research-overview.md">
+                <img src="USA/Rochester/profiles/david-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="David Williams"><br>
+                <b>David Williams 大卫·威廉姆斯</b>
+            </a>
+            <p>
+                视觉科学、自适应光学、视网膜成像、眼科光学、神经视觉、生物成像
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Fibers & Optical Communication](https://www.hajim.rochester.edu/optics/research/fibers.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/john-marciante/research-overview.md">
+                <img src="USA/Rochester/profiles/john-marciante-profile.jpg" width="150" style="border-radius: 8px;" alt="John Marciante"><br>
+                <b>John Marciante 约翰·马尔钱特</b>
+            </a>
+            <p>
+                光纤激光器、稀有波长放大器、大模场光纤、模式控制、光纤设计、高功率光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/govind-agrawal/research-overview.md">
+                <img src="USA/Rochester/profiles/govind-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Govind Agrawal"><br>
+                <b>Govind Agrawal 戈温德·阿格拉瓦尔</b>
+            </a>
+            <p>
+                非线性光纤、超连续谱生成、空间分复用、深空光通信、时间放大、光孤子动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/william-renninger/research-overview.md">
+                <img src="USA/Rochester/profiles/william-renninger-profile.jpg" width="150" style="border-radius: 8px;" alt="William Renninger"><br>
+                <b>William Renninger 威廉·伦宁格</b>
+            </a>
+            <p>
+                微结构光纤、光力学效应、多模孤子、非线性光学、光纤激光器、声光耦合
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/wayne-knox/research-overview.md">
+                <img src="USA/Rochester/profiles/wayne-knox-profile.jpg" width="150" style="border-radius: 8px;" alt="Wayne Knox"><br>
+                <b>Wayne Knox 韦恩·诺克斯</b>
+            </a>
+            <p>
+                光子晶体光纤、色散工程、非线性光学、超快光源、光纤通信、脉冲整形
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                慢光技术、受激光散射、光孤子传播、光纤非线性、光通信、量子光学
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Image Science & Systems](https://www.hajim.rochester.edu/optics/research/imagescience.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                量子成像、量子光学、空间分辨率、光敏感性、光子纠缠、量子干涉
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/jim-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/jim-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="Jim Fienup"><br>
+                <b>Jim Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、计算成像、图像重建、干涉测量、稀疏阵列成像、波前测量
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/andrew-berger/research-overview.md">
+                <img src="USA/Rochester/profiles/andrew-berger-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Berger"><br>
+                <b>Andrew Berger 安德鲁·伯杰</b>
+            </a>
+            <p>
+                生物光谱学、化学检测、光学诊断、近红外分析、生物传感、医学成像
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Nanooptics](https://www.hajim.rochester.edu/optics/research/nanooptics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/qiang-lin/research-overview.md">
+                <img src="USA/Rochester/profiles/qiang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiang Lin"><br>
+                <b>Qiang Lin 林强</b>
+            </a>
+            <p>
+                集成量子光子学、腔光力学、碳化硅光子学、非线性光子学、芯片级光子器件、量子信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                纳米光子学、等离激元学、单光子源、量子通信、纳米发射体、室温光源
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/todd-krauss/research-overview.md">
+                <img src="USA/Rochester/profiles/todd-krauss-profile.jpg" width="150" style="border-radius: 8px;" alt="Todd Krauss"><br>
+                <b>Todd Krauss 托德·克劳斯</b>
+            </a>
+            <p>
+                近场光谱、纳米光刻、纳米检测、单分子光学、纳米粒子、蛋白质折叠能景
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Nonlinear Optics](https://www.hajim.rochester.edu/optics/research/nonlinear.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                自聚焦效应、液晶非线性光学、光功率限制、激光光学、非线性折射、光学元件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/chunlei-guo/research-overview.md">
+                <img src="USA/Rochester/profiles/chunlei-guo-profile.jpg" width="150" style="border-radius: 8px;" alt="Chunlei Guo"><br>
+                <b>Chunlei Guo 郭春雷</b>
+            </a>
+            <p>
+                飞秒激光、强场非线性、超快光学、高次谐波、金属光学、超短脉冲生成
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/qiang-lin/research-overview.md">
+                <img src="USA/Rochester/profiles/qiang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiang Lin"><br>
+                <b>Qiang Lin 林强</b>
+            </a>
+            <p>
+                集成非线性光子学、微纳光学、光波导、量子信息、光信号处理、频率计量
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/william-renninger/research-overview.md">
+                <img src="USA/Rochester/profiles/william-renninger-profile.jpg" width="150" style="border-radius: 8px;" alt="William Renninger"><br>
+                <b>William Renninger 威廉·伦宁格</b>
+            </a>
+            <p>
+                非线性模式形成、布里渊散射、光力学、量子测量、光孤子、非线性成像
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                慢光与快光、量子成像、光学超材料、纳米复合材料、光子学、非线性响应
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/wayne-knox/research-overview.md">
+                <img src="USA/Rochester/profiles/wayne-knox-profile.jpg" width="150" style="border-radius: 8px;" alt="Wayne Knox"><br>
+                <b>Wayne Knox 韦恩·诺克斯</b>
+            </a>
+            <p>
+                超快材料加工、激光微加工、非线性光学、脉冲控制、光学制造、超短脉冲技术
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Optical Engineering & Design](https://www.hajim.rochester.edu/optics/research/optical_engineering.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                加权孔径、渐变反射镜、高功率激光、菲涅耳衍射、介质层设计、光束亮度增强
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/duncan-moore/research-overview.md">
+                <img src="USA/Rochester/profiles/duncan-moore-profile.jpg" width="150" style="border-radius: 8px;" alt="Duncan Moore"><br>
+                <b>Duncan Moore 邓肯·穆尔</b>
+            </a>
+            <p>
+                渐变折射率材料、GRIN透镜、光学系统设计、材料制造、透镜容差分析、光学工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/james-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="James Fienup"><br>
+                <b>James Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、光学计量、系统对准、波前测量、非球面检测、计算光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-zavislan/research-overview.md">
+                <img src="USA/Rochester/profiles/james-zavislan-profile.jpg" width="150" style="border-radius: 8px;" alt="James Zavislan"><br>
+                <b>James Zavislan 詹姆斯·扎维斯兰</b>
+            </a>
+            <p>
+                光学工程、光学系统分析、公差设计、生物医学光学系统、波前相干性、远程成像系统
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Optical Fabrication & Testing](https://www.hajim.rochester.edu/optics/research/optical_fabrication.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                加权孔径、渐变反射镜、高功率激光、光学镀膜、菲涅耳衍射抑制、光束整形
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/duncan-moore/research-overview.md">
+                <img src="USA/Rochester/profiles/duncan-moore-profile.jpg" width="150" style="border-radius: 8px;" alt="Duncan Moore"><br>
+                <b>Duncan Moore 邓肯·穆尔</b>
+            </a>
+            <p>
+                渐变折射率材料、GRIN透镜、光学制造、塑料光学、系统容差、设计优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-zavislan/research-overview.md">
+                <img src="USA/Rochester/profiles/james-zavislan-profile.jpg" width="150" style="border-radius: 8px;" alt="James Zavislan"><br>
+                <b>James Zavislan 詹姆斯·扎维斯兰</b>
+            </a>
+            <p>
+                干涉测量、光学测试、系统对准、精密计量、光学检测、表面形貌测量
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/james-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="James Fienup"><br>
+                <b>James Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、光学计量、系统对准、非球面检测、计算光学、波前重建
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Optical Materials](https://www.hajim.rochester.edu/optics/research/optical_materials.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/duncan-moore/research-overview.md">
+                <img src="USA/Rochester/profiles/duncan-moore-profile.jpg" width="150" style="border-radius: 8px;" alt="Duncan Moore"><br>
+                <b>Duncan Moore 邓肯·穆尔</b>
+            </a>
+            <p>
+                渐变折射率材料、GRIN透镜、光学系统设计、玻璃光学、材料制造、透镜容差分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                液晶材料、单光子源、胆甾液晶激光、量子光学、光学纯化、光致取向
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                纳米复合材料、非线性光学、局域场效应、光响应增强、光子材料、激光工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/todd-krauss/research-overview.md">
+                <img src="USA/Rochester/profiles/todd-krauss-profile.jpg" width="150" style="border-radius: 8px;" alt="Todd Krauss"><br>
+                <b>Todd Krauss 托德·克劳斯</b>
+            </a>
+            <p>
+                纳米半导体材料、碳纳米管、量子点、超快光谱、单分子显微、光电子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/gary-wicks/research-overview.md">
+                <img src="USA/Rochester/profiles/gary-wicks-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Wicks"><br>
+                <b>Gary Wicks 盖瑞·威克斯</b>
+            </a>
+            <p>
+                分子束外延、半导体异质结构、量子阱、量子点、光发射控制、吸收增强
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Optics Education](https://www.hajim.rochester.edu/optics/research/optics_education.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                量子光学、量子信息、纳米光学教学、单光子计数、纳米科学工程证书
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Optoelectronics & Lasers](https://www.hajim.rochester.edu/optics/research/optoelectronics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                高功率激光、微型激光器、胆甾液晶、光束亮度提升、激光共振腔、光学材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/john-marciante/research-overview.md">
+                <img src="USA/Rochester/profiles/john-marciante-profile.jpg" width="150" style="border-radius: 8px;" alt="John Marciante"><br>
+                <b>John Marciante 约翰·马尔钱特</b>
+            </a>
+            <p>
+                半导体激光器、宽条激光、光束传播、模态滤波、光放大器、高功率光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/pablo-postigo/research-overview.md">
+                <img src="USA/Rochester/profiles/pablo-postigo-profile.jpg" width="150" style="border-radius: 8px;" alt="Pablo Postigo"><br>
+                <b>Pablo Postigo 巴勃罗·波斯蒂戈</b>
+            </a>
+            <p>
+                室温激光器、无阈值纳米激光、光通信、光传感、纳米光子学、集成光源
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/gary-wicks/research-overview.md">
+                <img src="USA/Rochester/profiles/gary-wicks-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Wicks"><br>
+                <b>Gary Wicks 盖瑞·威克斯</b>
+            </a>
+            <p>
+                分子束外延、半导体结构、量子阱、量子点、光发射器件、吸收增强
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Physical Optics](https://www.hajim.rochester.edu/optics/research/physical_optics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/james-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/james-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="James Fienup"><br>
+                <b>James Fienup 吉姆·费努普</b>
+            </a>
+            <p>
+                相位恢复、波前测量、计算成像、成像重建、稀疏阵列成像、傅里叶光学
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Quantum Optics](https://www.hajim.rochester.edu/optics/research/quantum_optics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/pablo-postigo/research-overview.md">
+                <img src="USA/Rochester/profiles/pablo-postigo-profile.jpg" width="150" style="border-radius: 8px;" alt="Pablo Postigo"><br>
+                <b>Pablo Postigo 巴勃罗·波斯蒂戈</b>
+            </a>
+            <p>
+                集成量子光子学、CMOS兼容芯片、量子通信、量子计算、光机械传感、室温操作
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/carlos-stroud/research-overview.md">
+                <img src="USA/Rochester/profiles/carlos-stroud-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Stroud"><br>
+                <b>Carlos Stroud 卡洛斯·斯特劳德</b>
+            </a>
+            <p>
+                电子波包、量子纠缠、量子逻辑、原子波函数控制、电磁感应透明、量子态操控
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/qiang-lin/research-overview.md">
+                <img src="USA/Rochester/profiles/qiang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiang Lin"><br>
+                <b>Qiang Lin 林强</b>
+            </a>
+            <p>
+                集成量子光子学、硅基量子光子学、芯片量子系统、量子信息处理、光子检测、量子通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/nick-bigelow/research-overview.md">
+                <img src="USA/Rochester/profiles/nick-bigelow-profile.jpg" width="150" style="border-radius: 8px;" alt="Nick Bigelow"><br>
+                <b>Nick Bigelow 尼克·比格洛</b>
+            </a>
+            <p>
+                激光冷却、原子俘获、玻色–爱因斯坦凝聚、超冷量子气体、原子光相互作用、量子操控
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/govind-agrawal/research-overview.md">
+                <img src="USA/Rochester/profiles/govind-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Govind Agrawal"><br>
+                <b>Govind Agrawal 戈温德·阿格拉瓦尔</b>
+            </a>
+            <p>
+                光子对源、四波混频、量子纠缠光、量子通信、量子密码、非线性光纤
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/william-renninger/research-overview.md">
+                <img src="USA/Rochester/profiles/william-renninger-profile.jpg" width="150" style="border-radius: 8px;" alt="William Renninger"><br>
+                <b>William Renninger 威廉·伦宁格</b>
+            </a>
+            <p>
+                光子–声子耦合、布里渊散射、量子信息、光力学、量子测量、相干控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/joseph-eberly/research-overview.md">
+                <img src="USA/Rochester/profiles/joseph-eberly-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph Eberly"><br>
+                <b>Joseph Eberly 约瑟夫·埃伯利</b>
+            </a>
+            <p>
+                量子相干、暗态动力学、量子纠缠、腔量子电动力学、非顺序电离、量子信息理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/Optics/robert-boyd/research-overview.md">
+                <img src="USA/Rochester/profiles/robert-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Boyd"><br>
+                <b>Robert Boyd 罗伯特·博伊德</b>
+            </a>
+            <p>
+                量子成像、纠缠光子、量子干涉、非线性光学、量子光源、电磁感应透明
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/Optics/svetlana-lukishova/research-overview.md">
+                <img src="USA/Rochester/profiles/svetlana-lukishova-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lukishova"><br>
+                <b>Svetlana Lukishova 斯维特兰娜·卢基绍娃</b>
+            </a>
+            <p>
+                单光子源、室温量子通信、纳米发射体、等离激元结构、量子光子学、光学纳米结构
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Ultrafast Optics & High-Field Sciences](https://www.hajim.rochester.edu/optics/research/ultrafast_optics.html)
 - **Field**: [Vision & Ophthalmic Optics](https://www.hajim.rochester.edu/optics/research/vision_optics.html)
