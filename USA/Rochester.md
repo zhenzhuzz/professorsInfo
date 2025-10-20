@@ -434,13 +434,600 @@
 ### [Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
 
 - **Field**: [Music Acoustics and Signal Processing](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/mark-bocko/research-overview.md">
+                <img src="USA/Rochester/profiles/mark-bocko-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Bocko"><br>
+                <b>Mark Bocko 马克·博科</b>
+            </a>
+            <p>
+                音频信号处理、声学建模、空间音频渲染、 平板扬声器、 计算机听觉、 传感器转导器
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/jack-mottley/research-overview.md">
+                <img src="USA/Rochester/profiles/jack-mottley-profile.jpg" width="150" style="border-radius: 8px;" alt="Jack G. Mottley"><br>
+                <b>Jack G. Mottley 杰克·莫特利</b>
+            </a>
+            <p>
+                管风琴物理建模、 表演者接口、 触觉反馈、 音乐空间声场、 管风琴键盘仿真、 性能声学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/zhiyao-duan/research-overview.md">
+                <img src="USA/Rochester/profiles/zhiyao-duan-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhiyao Duan"><br>
+                <b>Zhiyao Duan 段志尧</b>
+            </a>
+            <p>
+                计算机听觉、 音频信号处理、 机器学习、 音乐信息检索、 多模态音频-视觉、 合作音乐生成
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/ming-lun-lee/research-overview.md">
+                <img src="USA/Rochester/profiles/ming-lun-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Ming-Lun Lee"><br>
+                <b>Ming-Lun Lee 李明伦</b>
+            </a>
+            <p>
+                音频编程、 互动多媒体演出、 音频保存、 音乐录音分析、 空间/沉浸音频、 经典录音制作
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/michael-heilemann/research-overview.md">
+                <img src="USA/Rochester/profiles/michael-heilemann-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Heilemann"><br>
+                <b>Michael Heilemann 迈克尔·海勒曼</b>
+            </a>
+            <p>
+                声学与振动、 人机交互接口、 空间音频、 数字音频效果、 混响控制、 虚拟现实音频
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/sarah-smith/research-overview.md">
+                <img src="USA/Rochester/profiles/sarah-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Sarah Smith"><br>
+                <b>Sarah Smith 萨拉·史密斯</b>
+            </a>
+            <p>
+                音频信号处理、 乐器声学、 混响信号分析、 声音场建模、 音乐录音处理、 声音检索
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Signal and Image Processing and Communications](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/marvin-doyley/research-overview.md">
+                <img src="USA/Rochester/profiles/marvin-doyley-profile.jpg" width="150" style="border-radius: 8px;" alt="Marvin Doyley"><br>
+                <b>Marvin Doyley 马文·多利</b>
+            </a>
+            <p>
+                非侵入血管弹性成像、 高频非线性超声成像、 结构与功能影像、生物医学成像、 超声成像、 血管内成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/mark-bocko/research-overview.md">
+                <img src="USA/Rochester/profiles/mark-bocko-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Bocko"><br>
+                <b>Mark Bocko 马克·博科</b>
+            </a>
+            <p>
+                音频信号处理、 声学建模、 计算机听觉、 传感器与换能器、 空间音频渲染、 数字录音技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/gaurav-sharma/research-overview.md">
+                <img src="USA/Rochester/profiles/gaurav-sharma-profile.jpg" width="150" style="border-radius: 8px;" alt="Gaurav Sharma"><br>
+                <b>Gaurav Sharma 高拉夫·沙尔马</b>
+            </a>
+            <p>
+                信号与图像处理、 计算机视觉、 媒体安全、 数据分析、 网络物理系统、 通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/wendi-heinzelman/research-overview.md">
+                <img src="USA/Rochester/profiles/wendi-heinzelman-profile.jpg" width="150" style="border-radius: 8px;" alt="Wendi Heinzelman"><br>
+                <b>Wendi Heinzelman 温迪·海因泽尔曼</b>
+            </a>
+            <p>
+                传感器网络、 无线通信、 物联网安全、 多媒体信号处理、 嵌入式系统、 网络编排
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/hui-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/hui-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Wu"><br>
+                <b>Hui Wu 吴慧</b>
+            </a>
+            <p>
+                高速集成电路、 硅光子学、 电子－光子集成电路、高速互连、 宽带射频电路、 纳米电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/gonzalo-mateos/research-overview.md">
+                <img src="USA/Rochester/profiles/gonzalo-mateos-profile.jpg" width="150" style="border-radius: 8px;" alt="Gonzalo Mateos"><br>
+                <b>Gonzalo Mateos 冈萨洛·马特奥斯</b>
+            </a>
+            <p>
+                统计信号处理、 网络科学、 去中心化优化、 图信号处理、 大数据分析、 动态网络监测
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/kevin-parker/research-overview.md">
+                <img src="USA/Rochester/profiles/kevin-parker-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin Parker"><br>
+                <b>Kevin Parker 凯文·帕克</b>
+            </a>
+            <p>
+                医学成像、 三维／四维影像、 CT／MRI／超声、 多维处理、 多普勒成像、 数字半色调
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/mujdat-cetin/research-overview.md">
+                <img src="USA/Rochester/profiles/mujdat-cetin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mujdat Cetin"><br>
+                <b>Mujdat Cetin 穆贾特·切廷</b>
+            </a>
+            <p>
+                计算成像、 生物影像分析、 脑—机接口、 信号与影像科学、 机器学习、 概率方法
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/lisha-chen/research-overview.md">
+                <img src="USA/Rochester/profiles/lisha-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisha Chen"><br>
+                <b>Lisha Chen 陈丽莎</b>
+            </a>
+            <p>
+                优化, 机器学习, 统计信号处理, 理论分析, 数据驱动算法, 信号建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/cristiano-tapparello/research-overview.md">
+                <img src="USA/Rochester/profiles/cristiano-tapparello-profile.jpg" width="150" style="border-radius: 8px;" alt="Cristiano Tapparello"><br>
+                <b>Cristiano Tapparello 克里斯蒂亚诺·塔帕雷洛</b>
+            </a>
+            <p>
+                无线通信, 移动健康, 物联网, 智能连接系统, 软件定义网络, 大规模优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/laurel-carney/research-overview.md">
+                <img src="USA/Rochester/profiles/laurel-carney-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurel Carney"><br>
+                <b>Laurel Carney 劳雷尔·卡尼</b>
+            </a>
+            <p>
+                听觉神经科学, 行为与计算研究, 听力辅助设备信号处理, 声学感知, 生理信号分析, 听觉系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/james-r-fienup/research-overview.md">
+                <img src="USA/Rochester/profiles/james-r-fienup-profile.jpg" width="150" style="border-radius: 8px;" alt="James R. Fienup"><br>
+                <b>James R. Fienup 詹姆斯·R·费诺普</b>
+            </a>
+            <p>
+                相位恢复, 非传统成像, 波前传感, 成像重构与恢复, 合成孔径成像, 图像科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/jiebo-luo/research-overview.md">
+                <img src="USA/Rochester/profiles/jiebo-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiebo Luo"><br>
+                <b>Jiebo Luo 罗杰波</b>
+            </a>
+            <p>
+                计算机视觉, 机器学习, 多模态数据挖掘, 社交媒体分析, 数字健康, 图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/jean-phillippe-couderc/research-overview.md">
+                <img src="USA/Rochester/profiles/jean-phillippe-couderc-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Philippe Couderc"><br>
+                <b>Jean-Philippe Couderc 让-菲利普·库德雷克</b>
+            </a>
+            <p>
+                生理信号处理, 医疗软件设计, 定量心电图, 临床研究设计, 心脏安全, 信号检测
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/tolulope-olugboji/research-overview.md">
+                <img src="USA/Rochester/profiles/tolulope-olugboji-profile.jpg" width="150" style="border-radius: 8px;" alt="Tolulope Olugboji"><br>
+                <b>Tolulope Olugboji 托卢洛普·奥鲁博吉</b>
+            </a>
+            <p>
+                地球成像, 地震信号处理, 逆问题, 计算成像, 机器学习地球科学, 高性能数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/axel-wismueller/research-overview.md">
+                <img src="USA/Rochester/profiles/axel-wismueller-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Wismueller"><br>
+                <b>Axel Wismueller 阿克塞尔·维斯缪勒</b>
+            </a>
+            <p>
+                计算机辅助分析, 可视化系统, 图像处理, 机器学习医学影像, 计算放射学, 多维数据可视化
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 - **Field**: [Biomedical Ultrasound and Biomedical Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/kevin-j-parker/research-overview.md">
+                <img src="USA/Rochester/profiles/kevin-j-parker-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin J. Parker"><br>
+                <b>Kevin J. Parker 凯文·J·帕克</b>
+            </a>
+            <p>
+                医学成像、 3D／4D成像、 CT／MRI／超声、多维处理与显示、 多普勒成像、 弹性成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/marvin-doyley/research-overview.md">
+                <img src="USA/Rochester/profiles/marvin-doyley-profile.jpg" width="150" style="border-radius: 8px;" alt="Marvin Doyley"><br>
+                <b>Marvin Doyley 马文·多利</b>
+            </a>
+            <p>
+                血管弹性成像、 高频非线性超声成像、 结构与功能影像、 胰腺癌影像、 超声弹性成像、 对比增强超声
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/diane-dalecki/research-overview.md">
+                <img src="USA/Rochester/profiles/diane-dalecki-profile.jpg" width="150" style="border-radius: 8px;" alt="Diane Dalecki"><br>
+                <b>Diane Dalecki 黛安·达莱基</b>
+            </a>
+            <p>
+                诊断超声成像、 治疗超声、 组织工程、 再生医学、 物理声学、生物效应
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/benjamin-castaneda/research-overview.md">
+                <img src="USA/Rochester/profiles/benjamin-castaneda-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Castaneda"><br>
+                <b>Benjamin Castaneda 本杰明·卡斯塔涅达</b>
+            </a>
+            <p>
+                生物医学超声、 医疗影像设备、 边远地区医疗技术、 点护理成像、 AI辅助影像、 超声图像处理
+            </p>
+        </td>
+    </tr>
+        <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/stephen-mcaleavey/research-overview.md">
+                <img src="USA/Rochester/profiles/stephen-mcaleavey-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen McAleavey"><br>
+                <b>Stephen McAleavey 斯蒂芬·麦克阿利维</b>
+            </a>
+            <p>
+                仪器系统、 信号处理、 超声成像、 运动追踪、 弹性成像方法、 回声模型
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/nebojsa‐duric/research-overview.md">
+                <img src="USA/Rochester/profiles/nebojsa‐duric-profile.jpg" width="150" style="border-radius: 8px;" alt="Nebojsa Duric"><br>
+                <b>Nebojsa Duric 内博伊沙·杜里奇</b>
+            </a>
+            <p>
+                超声断层成像、 声速成像、 乳腺密度评估、 全乳波形断层、 医学成像物理、 图像重构
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/giovanni-schifitto/research-overview.md">
+                <img src="USA/Rochester/profiles/giovanni-schifitto-profile.jpg" width="150" style="border-radius: 8px;" alt="Giovanni Schifitto"><br>
+                <b>Giovanni Schifitto 吉奥瓦尼·斯基菲托</b>
+            </a>
+            <p>
+                神经影像生物标志物、 神经炎症、 神经退行性疾病、 脑血管障碍、 医学影像分析、 影像学应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/regine‐choe/research-overview.md">
+                <img src="USA/Rochester/profiles/regine-choe-profile.jpg" width="150" style="border-radius: 8px;" alt="Regine Choe"><br>
+                <b>Regine Choe 雷吉娜·赵</b>
+            </a>
+            <p>
+                近红外光扩散方法、 脑／骨／乳腺疾病检测、 治疗监测、 生物医学光学、 功能成像、 组织光学特征
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/axel-wismueller/research-overview.md">
+                <img src="USA/Rochester/profiles/axel-wismueller-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Wismueller"><br>
+                <b>Axel Wismueller 阿克塞尔·维斯缪勒</b>
+            </a>
+            <p>
+                临床模式识别、 计算成像算法、 医学影像分析、 多维数据可视化、 模式识别、 影像学算法
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Circuits and Computer Systems](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/michael-huang/research-overview.md">
+                <img src="USA/Rochester/profiles/michael-huang-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Huang"><br>
+                <b>Michael Huang 黄立铭</b>
+            </a>
+            <p>
+                高性能微架构、 非冯诺依曼计算、 Ising 机器、 通信与存储结构、 可靠性、 能效优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/hui-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/hui-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Wu"><br>
+                <b>Hui Wu 吴慧</b>
+            </a>
+            <p>
+                高速电子、 射频与微波电路、 硅光子集成、 片上互连、 超宽带无线、 纳米电子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/selcuk-kose/research-overview.md">
+                <img src="USA/Rochester/profiles/selcuk-kose-profile.jpg" width="150" style="border-radius: 8px;" alt="Selçuk Köse"><br>
+                <b>Selçuk Köse 塞尔丘克·科瑟</b>
+            </a>
+            <p>
+                硬件安全、 侧信道攻击、 错误注入攻击、 可编程 DC-DC 转换器、 3-D 集成、电源/时钟网络
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/mark-bocko/research-overview.md">
+                <img src="USA/Rochester/profiles/mark-bocko-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Bocko"><br>
+                <b>Mark Bocko 马克·博科</b>
+            </a>
+            <p>
+                音频信号处理、 声学建模、 计算机听觉、 传感器/换能器、 空间音频渲染、 数字录音技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/eby-g-friedman/research-overview.md">
+                <img src="USA/Rochester/profiles/eby-g-friedman-profile.jpg" width="150" style="border-radius: 8px;" alt="Eby G. Friedman"><br>
+                <b>Eby G. Friedman 伊比·G·弗里德曼</b>
+            </a>
+            <p>
+                CMOS 电路、 时钟和电源分配网络、 互连设计、 3-D 电路集成、 混合信号电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/zeljko-ignjatovic/research-overview.md">
+                <img src="USA/Rochester/profiles/zeljko-ignjatovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Zeljko Ignjatovic"><br>
+                <b>Zeljko Ignjatovic 泽利科·伊格尼亚托维奇</b>
+            </a>
+            <p>
+                模数转换器、 超低功耗传感器接口、 全数字图像传感器、 焦平面压缩、 模拟 VLSI 电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/tony-geng/research-overview.md">
+                <img src="USA/Rochester/profiles/tony-geng-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Geng"><br>
+                <b>Tony Geng 耿同</b>
+            </a>
+            <p>
+                计算机架构、 图学习、 机器学习加速器、 高性能 HPC、电加速器、 嵌入式系统
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Nanoscale Electronics and Photonics](https://www.hajim.rochester.edu/ece/research/topics.html)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/roman-sobolewski/research-overview.md">
+                <img src="USA/Rochester/profiles/roman-sobolewski-profile.jpg" width="150" style="border-radius: 8px;" alt="Roman Sobolewski"><br>
+                <b>Roman Sobolewski 罗曼·索波列夫斯基</b>
+            </a>
+            <p>
+                超快电子、 光电材料、 超导器件、 凝聚态物理、 飞秒激光、 量子电子
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/hui-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/hui-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Wu"><br>
+                <b>Hui Wu 吴慧</b>
+            </a>
+            <p>
+                高速集成电路、 硅光子学、 电子-光子集成电路、 宽带射频、 片上互连、 纳米电子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/hanan-dery/research-overview.md">
+                <img src="USA/Rochester/profiles/hanan-dery-profile.jpg" width="150" style="border-radius: 8px;" alt="Hanan Dery"><br>
+                <b>Hanan Dery 哈南·德里</b>
+            </a>
+            <p>
+                2D半导体、 自旋电子学、 激子-电子相互作用、 纳米量子器件、 声谷耦合、 半导体物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/qiang-lin/research-overview.md">
+                <img src="USA/Rochester/profiles/qiang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiang Lin"><br>
+                <b>Qiang Lin 林强</b>
+            </a>
+            <p>
+                纳米光子器件、 非线性光学、 量子光学、 光机械耦合、 微腔光子学、 晶片级光信号处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/stephen-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/stephen-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Wu"><br>
+                <b>Stephen Wu 斯蒂芬·吴</b>
+            </a>
+            <p>
+                纳米电子学、 自旋电子学、 量子材料器件、 新型电子材料、 低功耗器件、 量子器件
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Quantum Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/roman-sobolewski/research-overview.md">
+                <img src="USA/Rochester/profiles/roman-sobolewski-profile.jpg" width="150" style="border-radius: 8px;" alt="Roman Sobolewski"><br>
+                <b>Roman Sobolewski 罗曼·索波列夫斯基</b>
+            </a>
+            <p>
+                超快电子、 光电材料、 凝聚态物理、 飞秒激光、 量子电子、 超导器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/qiang-lin/research-overview.md">
+                <img src="USA/Rochester/profiles/qiang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiang Lin"><br>
+                <b>Qiang Lin 林强</b>
+            </a>
+            <p>
+                纳米光子器件、 非线性光学、 量子光学、 光机械耦合、 微腔光子学、 晶片级光信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/hui-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/hui-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Wu"><br>
+                <b>Hui Wu 吴慧</b>
+            </a>
+            <p>
+                高速集成电路、 硅光子学、 电子-光子集成电路、 宽带射频电路、 片上互连、 纳米电子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/stephen-wu/research-overview.md">
+                <img src="USA/Rochester/profiles/stephen-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Wu"><br>
+                <b>Stephen Wu 斯蒂芬·吴</b>
+            </a>
+            <p>
+                自旋电子学、 纳米电子、 新型电子材料、 量子材料器件、 2D 电子系统、 拓扑电子器件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/william-r-donaldson/research-overview.md">
+                <img src="USA/Rochester/profiles/william-r-donaldson-profile.jpg" width="150" style="border-radius: 8px;" alt="William R. Donaldson"><br>
+                <b>William R. Donaldson 威廉·R·唐纳森</b>
+            </a>
+            <p>
+                光电开关物理、 超导体光响应、 高温超导、 半导体诊断、 生物分子荧光、 光电子器件
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Machine Learning and Artificial Intelligence](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/mujdat-cetin/research-overview.md">
+                <img src="USA/Rochester/profiles/mujdat-cetin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mujdat Cetin"><br>
+                <b>Mujdat Cetin 穆贾特·切廷</b>
+            </a>
+            <p>
+                概率方法、 机器学习、 计算成像、 信号与影像科学、 脑机接口、 医学影像分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/lisha-chen/research-overview.md">
+                <img src="USA/Rochester/profiles/lisha-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisha Chen"><br>
+                <b>Lisha Chen 陈丽莎</b>
+            </a>
+            <p>
+                优化理论、 机器学习理论、 统计信号处理、多目标学习、 可扩展算法、 信号建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/marvin-doyley/research-overview.md">
+                <img src="USA/Rochester/profiles/marvin-doyley-profile.jpg" width="150" style="border-radius: 8px;" alt="Marvin Doyley"><br>
+                <b>Marvin Doyley 马文·多利</b>
+            </a>
+            <p>
+                （研究兴趣中机器学习部分不详，保留通用关键词）成像算法、 超声弹性成像、 模型基于成像、 血管弹性、 生物医学影像、 超声成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/zhiyao-duan/research-overview.md">
+                <img src="USA/Rochester/profiles/zhiyao-duan-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhiyao Duan"><br>
+                <b>Zhiyao Duan 段志尧</b>
+            </a>
+            <p>
+                计算机听觉、 音频信号处理、 机器学习、 音乐信息检索、 音频-视觉分析、 声学感知
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/tony-geng/research-overview.md">
+                <img src="USA/Rochester/profiles/tony-geng-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Geng"><br>
+                <b>Tony Geng 耿同</b>
+            </a>
+            <p>
+                机器学习加速器、 高性能计算、 嵌入式系统、 图学习、 计算架构、 系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/thomas-howard/research-overview.md">
+                <img src="USA/Rochester/profiles/thomas-howard-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Howard"><br>
+                <b>Thomas Howard 托马斯·霍华德</b>
+            </a>
+            <p>
+                人工智能系统、 控制与学习、 智能决策、 强化学习、 自适应系统、 自动化算法
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/gonzalo-mateos/research-overview.md">
+                <img src="USA/Rochester/profiles/gonzalo-mateos-profile.jpg" width="150" style="border-radius: 8px;" alt="Gonzalo Mateos"><br>
+                <b>Gonzalo Mateos 冈萨洛·马特奥斯</b>
+            </a>
+            <p>
+                图信号处理、 网络科学、 去中心化优化、 统计学习、 大数据分析、 动态网络监测
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ECE/gaurav-sharma/research-overview.md">
+                <img src="USA/Rochester/profiles/gaurav-sharma-profile.jpg" width="150" style="border-radius: 8px;" alt="Gaurav Sharma"><br>
+                <b>Gaurav Sharma 高拉夫·沙尔马</b>
+            </a>
+            <p>
+                数据分析、 信号与图像处理、 计算机视觉、 媒体安全、 网络物理系统、 机器学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/jiebo-luo/research-overview.md">
+                <img src="USA/Rochester/profiles/jiebo-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiebo Luo"><br>
+                <b>Jiebo Luo 罗杰波</b>
+            </a>
+            <p>
+                计算机视觉、 机器学习、 数据挖掘、 社交媒体、 数字健康、 自然语言处理
+            </p>
+        </td>
+
+    </tr>
+</table>
+
 - **Field**: [Robotics](https://www.hajim.rochester.edu/ece/research/topics.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ECE/thomas-howard/research-overview.md">
+                <img src="USA/Rochester/profiles/thomas-howard-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Howard"><br>
+                <b>Thomas Howard 托马斯·霍华德</b>
+            </a>
+            <p>
+                人工智能、 机器人学、 运动规划、 人-机交互
+            </p>
+        </td>
+    </tr>
+</table>
 
 ### [The Institute of Optics](https://www.hajim.rochester.edu/optics/index.html)
 
