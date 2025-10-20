@@ -4,8 +4,7 @@
 [$155](https://grad.ucdavis.edu/international-applicants);
 [More than one](https://grad.ucdavis.edu/admissions-process-overview);
 [Apply Now](https://grad.ucdavis.edu/apply)
-<details>
-<summary>Click to expand UC Davis Professors</summary>
+
 
 [Colleges and Schools](https://www.ucdavis.edu/academics/colleges-and-schools)  
 [All Graduate Programs](https://grad.ucdavis.edu/graduate-programs)  
