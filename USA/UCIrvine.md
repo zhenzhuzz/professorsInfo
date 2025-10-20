@@ -649,4 +649,239 @@
 </table>
 
 - **Field**: [Electrical Engineering Systems](https://engineering.uci.edu/dept/eecs/research/electrical-engineering-systems)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/ender-ayanoglu/research-overview.md">
+                <img src="USA/UCI/profiles/ender-ayanoglu-profile.jpg" width="150" style="border-radius: 8px;" alt="Ender Ayanoglu"><br>
+                <b>Ender Ayanoglu 恩德尔·阿亚诺卢</b>
+            </a>
+            <p>
+                通信系统、通信理论、通信网络
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/magnus-egerstedt/research-overview.md">
+                <img src="USA/UCI/profiles/magnus-egerstedt-profile.jpg" width="150" style="border-radius: 8px;" alt="Magnus Egerstedt"><br>
+                <b>Magnus Egerstedt 马格纳斯·艾格斯泰特</b>
+            </a>
+            <p>
+                控制理论、机器人系统、多机器人协调、网络物理系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/glenn-healey/research-overview.md">
+                <img src="USA/UCI/profiles/glenn-healey-profile.jpg" width="150" style="border-radius: 8px;" alt="Glenn Healey"><br>
+                <b>Glenn Healey 格伦·希利</b>
+            </a>
+            <p>
+                计算机视觉、图像处理、物理建模、智能系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/syed-jafar/research-overview.md">
+                <img src="USA/UCI/profiles/syed-jafar-profile.jpg" width="150" style="border-radius: 8px;" alt="Syed Jafar"><br>
+                <b>Syed Jafar 赛义德·贾法尔</b>
+            </a>
+            <p>
+                无线通信、信息理论、多用户网络、干扰对齐
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/hamid-jafarkhani/research-overview.md">
+                <img src="USA/UCI/profiles/hamid-jafarkhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Hamid Jafarkhani"><br>
+                <b>Hamid Jafarkhani 哈米德·贾法尔哈尼</b>
+            </a>
+            <p>
+                编码理论、无线通信、网络信号处理、多天线系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/pramod-khargonekar/research-overview.md">
+                <img src="USA/UCI/profiles/pramod-khargonekar-profile.jpg" width="150" style="border-radius: 8px;" alt="Pramod Khargonekar"><br>
+                <b>Pramod Khargonekar 普拉莫德·卡尔戈尼卡尔</b>
+            </a>
+            <p>
+                系统与控制理论、智能系统、可再生能源系统、神经工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/athina-markopoulou/research-overview.md">
+                <img src="USA/UCI/profiles/athina-markopoulou-profile.jpg" width="150" style="border-radius: 8px;" alt="Athina Markopoulou"><br>
+                <b>Athina Markopoulou 阿西娜·马尔科普卢</b>
+            </a>
+            <p>
+                网络协议、移动系统、网络测量与分析、安全与隐私
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/terry-sanger/research-overview.md">
+                <img src="USA/UCI/profiles/terry-sanger-profile.jpg" width="150" style="border-radius: 8px;" alt="Terry Sanger"><br>
+                <b>Terry Sanger 特里·桑格尔</b>
+            </a>
+            <p>
+                计算神经科学、生物信号处理、运动障碍建模、适应控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/a-lee-swindlehurst/research-overview.md">
+                <img src="USA/UCI/profiles/a-lee-swindlehurst-profile.jpg" width="150" style="border-radius: 8px;" alt="A. Lee Swindlehurst"><br>
+                <b>A. Lee Swindlehurst 李·斯温德尔赫斯特</b>
+            </a>
+            <p>
+                信号处理、检测估计理论、无线定位、雷达声纳
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/yanning-shen/research-overview.md">
+                <img src="USA/UCI/profiles/yanning-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yanning Shen"><br>
+                <b>Yanning Shen 沈雅宁</b>
+            </a>
+            <p>
+                机器学习、数据科学、网络科学、统计信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/zhiying-wang/research-overview.md">
+                <img src="USA/UCI/profiles/zhiying-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhiying Wang"><br>
+                <b>Zhiying Wang 王志英</b>
+            </a>
+            <p>
+                信息理论、编码理论、基因组数据存储、压缩计算
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Computer Engineering](https://engineering.uci.edu/dept/eecs/research/computer-engineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/mohammad-al-faruque/research-overview.md">
+                <img src="USA/UCI/profiles/mohammad-al-faruque-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad Al Faruque"><br>
+                <b>Mohammad Al Faruque 穆罕默德·阿尔法鲁克</b>
+            </a>
+            <p>
+                嵌入式系统、网络物理系统、设计自动化、低功耗系统、安全体系结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/nader-bagherzadeh/research-overview.md">
+                <img src="USA/UCI/profiles/nader-bagherzadeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Bagherzadeh"><br>
+                <b>Nader Bagherzadeh 纳德尔·巴格泽达赫</b>
+            </a>
+            <p>
+                计算机体系结构、可重构计算、低功耗处理器、3D集成电路、记忆系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/aparna-chandramowlishwaran/research-overview.md">
+                <img src="USA/UCI/profiles/aparna-chandramowlishwaran-profile.jpg" width="150" style="border-radius: 8px;" alt="Aparna Chandramowlishwaran"><br>
+                <b>Aparna Chandramowlishwaran 阿帕娜·钱德拉莫威什瓦兰</b>
+            </a>
+            <p>
+                高性能计算、领域特定编译器、算法-体系结构协同、科学计算、数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/quoc-viet-dang/research-overview.md">
+                <img src="USA/UCI/profiles/quoc-viet-dang-profile.jpg" width="150" style="border-radius: 8px;" alt="Quoc-Viet Dang"><br>
+                <b>Quoc-Viet Dang 邓国越</b>
+            </a>
+            <p>
+                e-学习、数据分析、自动驾驶赛车、网络物理系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/rainer-doemer/research-overview.md">
+                <img src="USA/UCI/profiles/rainer-doemer-profile.jpg" width="150" style="border-radius: 8px;" alt="Rainer Doemer"><br>
+                <b>Rainer Doemer 雷纳·多默尔</b>
+            </a>
+            <p>
+                嵌入式计算机系统、系统级设计、硬件软件协同、并行仿真、建模语言
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/salma-elmalaki/research-overview.md">
+                <img src="USA/UCI/profiles/salma-elmalaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Salma Elmalaki"><br>
+                <b>Salma Elmalaki 萨尔玛·埃尔马拉基</b>
+            </a>
+            <p>
+                移动计算、普适自主系统、个人化计算、物联网
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/jean-luc-gaudiot/research-overview.md">
+                <img src="USA/UCI/profiles/jean-luc-gaudiot-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Luc Gaudiot"><br>
+                <b>Jean-Luc Gaudiot 让-吕克·高迪奥</b>
+            </a>
+            <p>
+                计算机体系结构、并行分布式处理、可重构体系结构、低功耗微处理器
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/sitao-huang/research-overview.md">
+                <img src="USA/UCI/profiles/sitao-huang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sitao Huang"><br>
+                <b>Sitao Huang 黄思涛</b>
+            </a>
+            <p>
+                硬件加速器、编译器与加速器、异构计算、高级综合
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/fadi-kurdahi/research-overview.md">
+                <img src="USA/UCI/profiles/fadi-kurdahi-profile.jpg" width="150" style="border-radius: 8px;" alt="Fadi Kurdahi"><br>
+                <b>Fadi Kurdahi 法迪·库尔达希</b>
+            </a>
+            <p>
+                VLSI系统设计、数字系统自动化、嵌入式系统、低功耗系统-芯片
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/zhou-li/research-overview.md">
+                <img src="USA/UCI/profiles/zhou-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhou Li"><br>
+                <b>Zhou Li 李舟</b>
+            </a>
+            <p>
+                数据驱动安全分析、测量网络、物联网安全、侧信道分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/chen-yu-phillip-sheu/research-overview.md">
+                <img src="USA/UCI/profiles/chen-yu-phillip-sheu-profile.jpg" width="150" style="border-radius: 8px;" alt="Chen-Yu (Phillip) Sheu"><br>
+                <b>Chen-Yu (Phillip) Sheu 薛晨瑜（菲利普）</b>
+            </a>
+            <p>
+                语义计算、机器人计算、人工智能、生物医学计算、多媒体计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/yasser-shoukry/research-overview.md">
+                <img src="USA/UCI/profiles/yasser-shoukry-profile.jpg" width="150" style="border-radius: 8px;" alt="Yasser Shoukry"><br>
+                <b>Yasser Shoukry 亚瑟·舒克里</b>
+            </a>
+            <p>
+                强韧性、自主系统安全、物联网、机器人系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/kwei-jay-lin/research-overview.md">
+                <img src="USA/UCI/profiles/kwei-jay-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Kwei-Jay Lin"><br>
+                <b>Kwei-Jay Lin 林奎志</b>
+            </a>
+            <p>
+                实时系统、分布式系统、面向服务计算
+            </p>
+        </td>
+    </tr>
+</table>
