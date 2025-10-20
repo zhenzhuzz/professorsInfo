@@ -473,5 +473,180 @@
 ### [Electrical Engineering and Computer Science](https://engineering.uci.edu/dept/eecs/research)
 
 - **Field**: [Circuits and Devices](https://engineering.uci.edu/dept/eecs/research/circuits-and-devices)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/hamidreza-aghasi/research-overview.md">
+                <img src="USA/UCI/profiles/hamidreza-aghasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hamidreza Aghasi"><br>
+                <b>Hamidreza Aghasi 哈米德雷扎·阿加西</b>
+            </a>
+            <p>
+                计算成像, 信号处理, 机器学习硬件, 模拟计算, 神经形态电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/ozdal-boyraz/research-overview.md">
+                <img src="USA/UCI/profiles/ozdal-boyraz-profile.jpg" width="150" style="border-radius: 8px;" alt="Ozdal Boyraz"><br>
+                <b>Ozdal Boyraz 奥兹达尔·博伊拉兹</b>
+            </a>
+            <p>
+                光子集成电路, 光通信, 超快光学, 半导体激光器, 光电探测器
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/peter-burke/research-overview.md">
+                <img src="USA/UCI/profiles/peter-burke-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Burke"><br>
+                <b>Peter Burke 彼得·伯克</b>
+            </a>
+            <p>
+                纳米电子学, 生物电子学, 微波纳米器件, 生物传感器, 纳米制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/filippo-capolino/research-overview.md">
+                <img src="USA/UCI/profiles/filippo-capolino-profile.jpg" width="150" style="border-radius: 8px;" alt="Filippo Capolino"><br>
+                <b>Filippo Capolino 菲利波·卡波利诺</b>
+            </a>
+            <p>
+                超材料, 天线工程, 电磁波传播, 微波电路, 电磁建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/hung-cao/research-overview.md">
+                <img src="USA/UCI/profiles/hung-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hung Cao"><br>
+                <b>Hung Cao 曹雄</b>
+            </a>
+            <p>
+                生物医学电子学, 微系统, 电生理信号, 医学传感器, 可穿戴设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/rahim-esfandyarpour/research-overview.md">
+                <img src="USA/UCI/profiles/rahim-esfandyarpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahim Esfandyarpour"><br>
+                <b>Rahim Esfandyarpour 拉希姆·埃斯凡迪亚普尔</b>
+            </a>
+            <p>
+                生物电子学, 微流控系统, 医疗器件, 纳米制造, 实验诊断平台
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/franco-de-flaviis/research-overview.md">
+                <img src="USA/UCI/profiles/franco-de-flaviis-profile.jpg" width="150" style="border-radius: 8px;" alt="Franco De Flaviis"><br>
+                <b>Franco De Flaviis 弗兰科·德弗拉维斯</b>
+            </a>
+            <p>
+                射频集成电路, 天线系统, 微波工程, 无线通信, 电磁材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/michael-green/research-overview.md">
+                <img src="USA/UCI/profiles/michael-green-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Green"><br>
+                <b>Michael Green 迈克尔·格林</b>
+            </a>
+            <p>
+                模拟集成电路, 混合信号电路, 射频系统, 电源管理, 集成系统设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/payam-heydari/research-overview.md">
+                <img src="USA/UCI/profiles/payam-heydari-profile.jpg" width="150" style="border-radius: 8px;" alt="Payam Heydari"><br>
+                <b>Payam Heydari 帕亚姆·海达里</b>
+            </a>
+            <p>
+                高速集成电路, 射频系统, 毫米波通信, 模拟CMOS设计, 无线芯片
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/stuart-kleinfelder/research-overview.md">
+                <img src="USA/UCI/profiles/stuart-kleinfelder-profile.jpg" width="150" style="border-radius: 8px;" alt="Stuart Kleinfelder"><br>
+                <b>Stuart Kleinfelder 斯图尔特·克莱因费尔德</b>
+            </a>
+            <p>
+                CMOS传感器, 模拟数字混合芯片, 高速读出电路, 成像系统, 粒子探测器
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/gp-li/research-overview.md">
+                <img src="USA/UCI/profiles/gp-li-profile.jpg" width="150" style="border-radius: 8px;" alt="G.P. Li"><br>
+                <b>G.P. Li 李光平</b>
+            </a>
+            <p>
+                微系统技术, MEMS, 生物传感器, 纳米制造, 智能系统集成
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/maxim-shcherbakov/research-overview.md">
+                <img src="USA/UCI/profiles/maxim-shcherbakov-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Shcherbakov"><br>
+                <b>Maxim Shcherbakov 马克西姆·谢尔巴科夫</b>
+            </a>
+            <p>
+                光子学, 纳米光学, 超材料, 非线性光学, 光调控
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/keyue-smedley/research-overview.md">
+                <img src="USA/UCI/profiles/keyue-smedley-profile.jpg" width="150" style="border-radius: 8px;" alt="Keyue Smedley"><br>
+                <b>Keyue Smedley 司马德莉</b>
+            </a>
+            <p>
+                电力电子学, 控制系统, 变换器拓扑, 能量管理, 开关电源
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/peter-tseng/research-overview.md">
+                <img src="USA/UCI/profiles/peter-tseng-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Tseng"><br>
+                <b>Peter Tseng 曾柏睿</b>
+            </a>
+            <p>
+                微电子系统, 神经形态计算, 晶体管器件, 低功耗电路, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/h-kumar-wickramasinghe/research-overview.md">
+                <img src="USA/UCI/profiles/h-kumar-wickramasinghe-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Kumar Wickramasinghe"><br>
+                <b>H. Kumar Wickramasinghe 库马尔·维克拉马辛赫</b>
+            </a>
+            <p>
+                纳米探针显微术, 扫描探针技术, 纳米制造, 数据存储, 生物传感
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/chin-lee/research-overview.md">
+                <img src="USA/UCI/profiles/chin-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Chin Lee"><br>
+                <b>Chin Lee 李清</b>
+            </a>
+            <p>
+                模拟电路, 半导体器件, 电力系统, 微电子设计
+            </p>
+        </td>
+    </tr>
+        <tr>
+        <td align="center">
+            <a href="USA/UCI/EECS/henry-lee/research-overview.md">
+                <img src="USA/UCI/profiles/henry-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Henry Lee"><br>
+                <b>Henry Lee 亨利·李</b>
+            </a>
+            <p>
+                半导体材料, 光电子器件, III-V异质结构, 全光纤调谐器件, 氮化镓LED
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/UCI/EECS/chen-tsai/research-overview.md">
+                <img src="USA/UCI/profiles/chen-tsai-profile.jpg" width="150" style="border-radius: 8px;" alt="Chen Tsai"><br>
+                <b>Chen Tsai 蔡晨</b>
+            </a>
+            <p>
+                硅基光电子学, 磁性薄膜微波器件, MEMS超声喷嘴, 纳米光子器件, 集成传感系统
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Electrical Engineering Systems](https://engineering.uci.edu/dept/eecs/research/electrical-engineering-systems)
 - **Field**: [Computer Engineering](https://engineering.uci.edu/dept/eecs/research/computer-engineering)
