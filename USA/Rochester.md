@@ -398,6 +398,37 @@
 </table>
 
 - **Field**: [Precision Machining and Optics Manufacturing](https://www.hajim.rochester.edu/me/research/precision_machining_and_optics_manufacturing.html)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/Rochester/ME/paul-funkenbusch/research-overview.md">
+                <img src="USA/Rochester/profiles/paul-funkenbusch-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Funkenbusch"><br>
+                <b>Paul Funkenbusch 保罗·方肯布施</b>
+            </a>
+            <p>
+                材料微结构、性能与加工、变异性设计、鲁棒实验设计、光学制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ME/vic-genberg/research-overview.md">
+                <img src="USA/Rochester/profiles/vic-genberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Vic Genberg"><br>
+                <b>Vic Genberg 维克·根伯格</b>
+            </a>
+            <p>
+                有限元分析、优化结构设计、精密光学结构、光机一体化分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/Rochester/ME/john-lambropoulos/research-overview.md">
+                <img src="USA/Rochester/profiles/john-lambropoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="John Lambropoulos"><br>
+                <b>John Lambropoulos 约翰·兰布罗波洛斯</b>
+            </a>
+            <p>
+                微观力学、光学制造材料技术、晶体生长缺陷、热机械损伤
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 ### [Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
