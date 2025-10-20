@@ -5,8 +5,7 @@
 [$155](https://grad.uci.edu/admissions/application-fee-fee-waivers/);
 [More than one](http://ucigrad.wadev.com/helparticles/degree-programs-and-general-application-information/);
 [Apply Now](https://grad.uci.edu/admissions/applying-to-uci/)
-<details>
-<summary>Click to expand UC Irvine Professors</summary>
+
 
 [Colleges and Schools](https://catalogue.uci.edu/schoolsandprograms/)  
 [All Graduate Programs](https://grad.uci.edu/admissions/degree-programs/)  
