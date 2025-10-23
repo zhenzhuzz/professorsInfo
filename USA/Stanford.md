@@ -3,8 +3,6 @@
 [$125](https://gradadmissions.stanford.edu/apply/application-fee);
 [Apply Now](https://gradadmissions.stanford.edu/apply/apply-now)
 
-<details>
-<summary>Click to expand Stanford Professors</summary>
 
 [Colleges and Schools](https://www.stanford.edu/academics/schools/)  
 [All Departments](https://www.stanford.edu/list/academic/)  
