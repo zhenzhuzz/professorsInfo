@@ -14,8 +14,6 @@
 
 ### [Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/)
 
-<details>
-<summary>Click to expand CUHK Professors</summary>
 
 - **Field**: [Design and Manufacturing](https://www4.mae.cuhk.edu.hk/research/design-and-manufacturing/)
 
@@ -422,11 +420,10 @@
     </tr>
 </table>
 
-</details>
+
 
 ### [Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/)
-<details>
-<summary>Click to expand CUHK Professors</summary>
+
 
 - **Field**: [Robotics, Perception and Artificial Intelligence Group](https://www.ee.cuhk.edu.hk/en-gb/research/research-groups/robotics-perception-and-ai-group)
 
@@ -984,4 +981,3 @@
 </table>
 
 
-</details>
