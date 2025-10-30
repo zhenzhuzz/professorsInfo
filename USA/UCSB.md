@@ -5,8 +5,7 @@
 [$155](https://www.graddiv.ucsb.edu/how-apply/faqs-applicants#Graduate-Fee);
 [Only one program](https://www.graddiv.ucsb.edu/how-apply/types-applicants);
 [Apply Now](https://www.graddiv.ucsb.edu/how-apply/how-complete-online-application)
-<details>
-<summary>Click to expand UCSB Professors</summary>
+
 
 [Colleges and Schools](https://www.ucsb.edu/academics/academic-departments-and-programs)  
 [All Graduate Programs](https://www.ucsb.edu/academics/academic-departments-and-programs)  
