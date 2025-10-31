@@ -11,14 +11,15 @@
 *************
 # USA  
 ## CALIFORNIA  
-- ### [Stanford -- Stanford University](USA/Stanford.md)  
-- ### [UCB -- University of California, Berkeley](USA/UCB.md)  
+- ### [Stanford -- Stanford University](USA/Stanford.md)
 - ### [Caltech -- California Institute of Technology](USA/Caltech.md)  
+- ### [UCB -- University of California, Berkeley](USA/UCB.md)  
 - ### [UCLA -- University of California, Los Angeles](USA/UCLA.md)  
-- ### [UCSD -- University of California, San Diego](USA/UCSD.md)  
-- ### [UCSB -- University of California, Santa Barbara](USA/UCSB.md)  
+- ### [UCSD -- University of California, San Diego](USA/UCSD.md)
+- ### [UCD -- University of California, Davis](USA/UCDavis.md)
 - ### [UCI -- University of California, Irvine](USA/UCIrvine.md)  
-- ### [UCD -- University of California, Davis](USA/UCDavis.md)  
+- ### [UCSB -- University of California, Santa Barbara](USA/UCSB.md)  
+- ### [USC -- University of Southern California](USA/USC.md)  
 
 ## NORTHEAST  
 - ### [Harvard -- Harvard University](USA/Harvard.md)  
@@ -43,7 +44,6 @@
 - ### [UT Austin -- University of Texas at Austin](USA/UTexasAustin.md)  
 - ### [TAMU -- Texas A&M University](USA/TexasAM.md)  
 - ### [GT -- Georgia Institute of Technology](USA/Gatech.md)  
-- ### [USC -- University of Southern California](USA/USC.md)  
 *************
 # UK  
 - ## [Cambridge -- University of Cambridge](UK/Cambridge.md)  
