@@ -938,8 +938,296 @@
 </table>
 
 - **Field**: [Neural Engineering and Biomedical Systems](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/ece-research-areas#chapter-id-54164)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/farshad-khorrami/research-overview.md">
+                <img src="USA/NYU/profiles/farshad-khorrami-profile.jpg" width="150" style="border-radius: 8px;" alt="Farshad Khorrami"><br>
+                <b>Farshad Khorrami 哈梅德 拉赫马尼</b>
+            </a>
+            <p>
+                非线性控制、大规模系统、自动化与机器人、无人自主系统、控制系统安全、网络物理系统安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/unnikrishna-pillai/research-overview.md">
+                <img src="USA/NYU/profiles/unnikrishna-pillai-profile.jpg" width="150" style="border-radius: 8px;" alt="Unnikrishna Pillai"><br>
+                <b>Unnikrishna Pillai 乌尼克里希纳 皮莱</b>
+            </a>
+            <p>
+                合成孔径雷达成像、波形设计、信号处理、阵列信号处理、系统辨识、移动目标检测
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/sundeep-rangan/research-overview.md">
+                <img src="USA/NYU/profiles/sundeep-rangan-profile.jpg" width="150" style="border-radius: 8px;" alt="Sundeep Rangan"><br>
+                <b>Sundeep Rangan 桑迪普 兰甘</b>
+            </a>
+            <p>
+                无线通信、信号处理、信息理论、OFDM系统、网络优化、多天线系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/brandon-reagen/research-overview.md">
+                <img src="USA/NYU/profiles/brandon-reagen-profile.jpg" width="150" style="border-radius: 8px;" alt="Brandon Reagen"><br>
+                <b>Brandon Reagen 布兰登 里根</b>
+            </a>
+            <p>
+                硬件加速器、机器学习、隐私计算、VLSI设计、神经网络架构、AI系统优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/ivan-selesnick/research-overview.md">
+                <img src="USA/NYU/profiles/ivan-selesnick-profile.jpg" width="150" style="border-radius: 8px;" alt="Ivan Selesnick"><br>
+                <b>Ivan Selesnick 伊万 塞莱斯尼克</b>
+            </a>
+            <p>
+                信号处理、稀疏模型、小波分析、生物医学信号、稀疏优化、图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/yao-wang/research-overview.md">
+                <img src="USA/NYU/profiles/yao-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yao Wang"><br>
+                <b>Yao Wang 王瑶</b>
+            </a>
+            <p>
+                视频处理、视频编码与传输、计算机视觉、医学影像、机器学习、网络视频应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/sai-zhang/research-overview.md">
+                <img src="USA/NYU/profiles/sai-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sai Zhang"><br>
+                <b>Sai Zhang 张赛骞</b>
+            </a>
+            <p>
+                深度学习算法与硬件协同、AR/VR计算、神经网络加速器、边缘AI、量化与剪枝、硬件系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/quanyan-zhu/research-overview.md">
+                <img src="USA/NYU/profiles/quanyan-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Quanyan Zhu"><br>
+                <b>Quanyan Zhu 朱全彦</b>
+            </a>
+            <p>
+                博弈论与通信网络、智能基础设施、网络控制系统、安全通信、物联网优化、决策理论
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/wenqi-cui/research-overview.md">
+                <img src="USA/NYU/profiles/wenqi-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenqi Cui"><br>
+                <b>Wenqi Cui 崔文琪</b>
+            </a>
+            <p>
+                控制与优化、机器学习在能源系统、电力系统信号处理、网络物理系统、系统级控制、强化学习
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Robotics and AI](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/ece-research-areas#chapter-id-54166)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/anna-choromanska/research-overview.md">
+                <img src="USA/NYU/profiles/anna-choromanska-profile.jpg" width="150" style="border-radius: 8px;" alt="Anna Choromanska"><br>
+                <b>Anna Choromanska 安娜 乔罗曼斯卡</b>
+            </a>
+            <p>
+                深度学习优化、极大规模多类分类、机器学习理论、自主系统感知、机器人驾驶、数据流学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/mohamad-eid/research-overview.md">
+                <img src="USA/NYU/profiles/mohamad-eid-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohamad Eid"><br>
+                <b>Mohamad Eid 穆罕默德 埃伊德</b>
+            </a>
+            <p>
+                情感触觉、触觉界面、脑电反馈、多人机交互、游戏技术、生物反馈
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/yi-fang/research-overview.md">
+                <img src="USA/NYU/profiles/yi-fang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yi Fang"><br>
+                <b>Yi Fang 方毅</b>
+            </a>
+            <p>
+                三维计算机视觉、深度学习模型、多模态学习、机器人视觉、自主驾驶视觉、智能可视系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/giuseppe-loianno/research-overview.md">
+                <img src="USA/NYU/profiles/giuseppe-loianno-profile.jpg" width="150" style="border-radius: 8px;" alt="Giuseppe Loianno"><br>
+                <b>Giuseppe Loianno 朱塞佩 洛伊亚诺</b>
+            </a>
+            <p>
+                微型飞行器、自主机器人、视觉惯导系统、飞行感知与控制、机器人导航、机电一体化飞行系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/zhong-ping-jiang/research-overview.md">
+                <img src="USA/NYU/profiles/zhong-ping-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhong-Ping Jiang"><br>
+                <b>Zhong-Ping Jiang 钟平 蒋</b>
+            </a>
+            <p>
+                强化学习控制、分布式非线性控制、网络系统优化、自主车辆控制、多智能体系统、人机网络系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/farshad-khorrami/research-overview.md">
+                <img src="USA/NYU/profiles/farshad-khorrami-profile.jpg" width="150" style="border-radius: 8px;" alt="Farshad Khorrami"><br>
+                <b>Farshad Khorrami 法尔沙德 科拉米</b>
+            </a>
+            <p>
+                非线性控制、机器人自动化、多代理系统、网络物理系统安全、自主车辆控制、机器学习应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/ludovic-righetti/research-overview.md">
+                <img src="USA/NYU/profiles/ludovic-righetti-profile.jpg" width="150" style="border-radius: 8px;" alt="Ludovic Righetti"><br>
+                <b>Ludovic Righetti 卢多维克 里格蒂</b>
+            </a>
+            <p>
+                机器学习机器人、最优控制、腿式机器人、机器人操纵、动态系统优化、自主移动系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/anthony-tzes/research-overview.md">
+                <img src="USA/NYU/profiles/anthony-tzes-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Tzes"><br>
+                <b>Anthony Tzes 安东尼 茨斯</b>
+            </a>
+            <p>
+                智能控制系统、视觉伺服机器人、嵌入式机器人系统、无人机群控制、机器人导航系统、系统集成
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/quanyan-zhu/research-overview.md">
+                <img src="USA/NYU/profiles/quanyan-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Quanyan Zhu"><br>
+                <b>Quanyan Zhu 朱全彦</b>
+            </a>
+            <p>
+                博弈论、机器学习通信网络、安全控制系统、网络物理系统、智能基础设施优化、对抗学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/wenqi-cui/research-overview.md">
+                <img src="USA/NYU/profiles/wenqi-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenqi Cui"><br>
+                <b>Wenqi Cui 崔文琪</b>
+            </a>
+            <p>
+                能源系统控制、机器学习优化、强化学习电力系统、网络物理系统、智能电网、可再生能源管理
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 - **Field**: [Systems and Control](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/ece-research-areas#chapter-id-34209)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/anna-choromanska/research-overview.md">
+                <img src="USA/NYU/profiles/anna-choromanska-profile.jpg" width="150" style="border-radius: 8px;" alt="Anna Choromanska"><br>
+                <b>Anna Choromanska 安娜 乔罗曼斯卡</b>
+            </a>
+            <p>
+                深度学习优化、极大规模多类分类、机器学习理论、自主系统感知、数据流学习、算法效率
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/dariusz-czarkowski/research-overview.md">
+                <img src="USA/NYU/profiles/dariusz-czarkowski-profile.jpg" width="150" style="border-radius: 8px;" alt="Dariusz Czarkowski"><br>
+                <b>Dariusz Czarkowski 达留什 察尔科夫斯基</b>
+            </a>
+            <p>
+                智能电源供应、RF DC-DC转换器控制、SHE-PWM单相有源滤波、相位角崩塌指标、二次网络负荷模型、需求估算子站系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/andras-gyorgy/research-overview.md">
+                <img src="USA/NYU/profiles/andras-gyorgy-profile.jpg" width="150" style="border-radius: 8px;" alt="Andras Gyorgy"><br>
+                <b>Andras Gyorgy 安德拉什 乔尔吉</b>
+            </a>
+            <p>
+                网络动力系统、生物控制电路、合成生物学反馈、细胞系统模块化、多尺度系统分析、动态系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/zhong-ping-jiang/research-overview.md">
+                <img src="USA/NYU/profiles/zhong-ping-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhong-Ping Jiang"><br>
+                <b>Zhong-Ping Jiang 钟平 蒋</b>
+            </a>
+            <p>
+                鲁棒自适应控制、分布式非线性控制、强化学习控制、网络系统优化、自主车辆控制、多智能体系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/farshad-khorrami/research-overview.md">
+                <img src="USA/NYU/profiles/farshad-khorrami-profile.jpg" width="150" style="border-radius: 8px;" alt="Farshad Khorrami"><br>
+                <b>Farshad Khorrami 法尔沙德 科拉米</b>
+            </a>
+            <p>
+                非线性控制系统、机器人自动化、多代理系统控制、网络物理系统安全、自主车辆控制、机器学习应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/yuzhang-lin/research-overview.md">
+                <img src="USA/NYU/profiles/yuzhang-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuzhang Lin"><br>
+                <b>Yuzhang Lin 林玉章</b>
+            </a>
+            <p>
+                智能电网、分布式系统控制、网络物理系统韧性、可再生能源系统、态势感知、能源系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/ludovic-righetti/research-overview.md">
+                <img src="USA/NYU/profiles/ludovic-righetti-profile.jpg" width="150" style="border-radius: 8px;" alt="Ludovic Righetti"><br>
+                <b>Ludovic Righetti 卢多维克 里格蒂</b>
+            </a>
+            <p>
+                机器人规划与控制、腿式机器人、最优控制、强化学习机器人、动态系统优化、机器学习控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/anthony-tzes/research-overview.md">
+                <img src="USA/NYU/profiles/anthony-tzes-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Tzes"><br>
+                <<b>Anthony Tzes 安东尼 茨斯</b>
+            </a>
+            <p>
+                智能控制系统、机器人视觉伺服、无人机群控制、嵌入式机器人、机器人导航系统、系统集成
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/ECE/quanyan-zhu/research-overview.md">
+                <img src="USA/NYU/profiles/quanyan-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Quanyan Zhu"><br>
+                <b>Quanyan Zhu 朱全彦</b>
+            </a>
+            <p>
+                博弈论、控制理论、网络物理系统、安全通信、智能基础设施、对抗机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/ECE/wenqi-cui/research-overview.md">
+                <img src="USA/NYU/profiles/wenqi-cui-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenqi Cui"><br>
+                <b>Wenqi Cui 崔文琪</b>
+            </a>
+            <p>
+                控制优化、机器学习、强化学习、电力能源系统、网络物理系统、可再生能源管理
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 ### [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering)
@@ -954,3 +1242,81 @@
 ### [Applied Physics](https://engineering.nyu.edu/academics/departments/applied-physics)
 
 - **People**: [Faculty](https://engineering.nyu.edu/academics/departments/applied-physics/people)
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/AP/john-di-bartolo/research-overview.md">
+                <img src="USA/NYU/profiles/john-di-bartolo-profile.jpg" width="150" style="border-radius: 8px;" alt="John Di Bartolo"><br>
+                <b>John Di Bartolo 约翰 迪 巴托洛</b>
+            </a>
+            <p>
+                II型超导体、教育软件、关节运动机制、体育物理学、量子力学教育
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/stephen-arnold/research-overview.md">
+                <img src="USA/NYU/profiles/stephen-arnold-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Arnold"><br>
+                <b>Stephen Arnold 斯蒂芬 阿诺德</b>
+            </a>
+            <p>
+                微粒光物理、环形模态生物传感、有机分子晶体、超灵敏生物传感器、纳米光子学、生物纳米探测
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/rupak-chatterjee/research-overview.md">
+                <img src="USA/NYU/profiles/rupak-chatterjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Rupak Chatterjee"><br>
+                <b>Rupak Chatterjee 鲁帕克 查特吉</b>
+            </a>
+            <p>
+                量子信息与计算、量子系统机器学习、量子优化、数学物理、C*-代数、超对称量子力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/vikram-duvvuri/research-overview.md">
+                <img src="USA/NYU/profiles/vikram-duvvuri-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikram Duvvuri"><br>
+                <b>Vikram Duvvuri 维克拉姆 杜武里</b>
+            </a>
+            <p>
+                引力理论、f(R)引力模型、暗能量替代、基于证据教学、物理教育研究、理论物理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="USA/NYU/AP/david-mugglin/research-overview.md">
+                <img src="USA/NYU/profiles/david-mugglin-profile.jpg" width="150" style="border-radius: 8px;" alt="David Mugglin"><br>
+                <b>David Mugglin 大卫 马格林</b>
+            </a>
+            <p>
+                表面增强拉曼散射、光诱导动力效应、非线性动力学、混沌系统、激光散射、原子分子物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/gabe-perez-giz/research-overview.md">
+                <img src="USA/NYU/profiles/gabe-perez-giz-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabe Perez-Giz"><br>
+                <b>Gabe Perez-Giz 加布 佩雷斯-吉兹</b>
+            </a>
+            <p>
+                广义相对论、致密天体轨道动力学、引力波、应用机器学习、数值方法与算法、物理教育研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/valery-sheverev/research-overview.md">
+                <img src="USA/NYU/profiles/valery-sheverev-profile.jpg" width="150" style="border-radius: 8px;" alt="Valery Sheverev"><br>
+                <b>Valery Sheverev 瓦列里 谢维列夫</b>
+            </a>
+            <p>
+                光学与光谱学、辉光放电等离子体、微光学传感、等离子体空气动力学、照明技术、多相流诊断
+            </p>
+        </td>
+        <td align="center">
+            <a href="USA/NYU/AP/vladimir-tsifrinovich/research-overview.md">
+                <img src="USA/NYU/profiles/vladimir-tsifrinovich-profile.jpg" width="150" style="border-radius: 8px;" alt="Vladimir Tsifrinovich"><br>
+                <b>Vladimir Tsifrinovich 弗拉基米尔 茨夫里诺维奇</b>
+            </a>
+            <p>
+                磁共振、量子计算、量子测量、量子信息、超导量子系统、自旋物理
+            </p>
+        </td>
+    </tr>
+</table>
