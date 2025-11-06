@@ -1090,8 +1090,6 @@
                 热/电储能、微纳热传输、机器学习预测、器件界面、可持续能效、系统优化
             </p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="USA/BostonU/ME/sheryl-grace/research-overview.md">
                 <img src="USA/BostonU/profiles/sheryl-grace-profile.jpg" width="150" style="border-radius: 8px;" alt="Sheryl Grace"><br>
