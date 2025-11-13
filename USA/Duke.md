@@ -190,8 +190,6 @@
 
 ### [Electrical and Computer Engineering](https://ece.duke.edu/)
 
-<details>
-<summary>Electrical and Computer Engineering Faculty</summary>
 
 - **Field**: [Microelectronics, Photonics And Nanotechnology](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=microelectronics-photonics-and-nanotechnology)
 
