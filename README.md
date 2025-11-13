@@ -35,7 +35,7 @@
 
 ## GREAT LAKES  
 - ### [Northwestern -- Northwestern University](USA/Northwestern.md)  
-- ### [UMich -- University of Michigan Ann bor](USA/UMich.md)  
+- ### [UMich -- University of Michigan Ann bor](USA/UMich.md)
 - ### [UIUC -- University of Illinois Urbana-Champaign](USA/UIUC.md)  
 - ### [Rochester -- University of Rochester](USA/Rochester.md)
 
