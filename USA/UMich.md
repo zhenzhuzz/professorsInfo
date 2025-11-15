@@ -442,6 +442,7 @@
 
 
 - **Field**: [Design](https://me.engin.umich.edu/research/areas/design/)
+
 <table>
     <tr>
         <td align="center">
@@ -629,6 +630,7 @@
 </table>
 
 - **Field**: [Dynamics & Vibration](https://me.engin.umich.edu/research/areas/dynamics-vibration/)
+
 <table>
     <tr>
         <td align="center">
