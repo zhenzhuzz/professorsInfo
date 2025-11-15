@@ -454,6 +454,19 @@
                 机械设计、以人为本设计、机电系统、并联构机制、柔性机制、微机电系统
             </p>
         </td>
+    </tr>
+<table>
+<table>
+    <tr>
+        <td align="center">
+            <a href="USA/UMich/ME/shorya-awtar/research-overview.md">
+                <img src="USA/UMich/profiles/shorya-awtar-profile.jpg" width="150" style="border-radius: 8px;" alt="Shorya Awtar"><br>
+                <b>Shorya Awtar 舒里亚·奥塔尔</b>
+            </a>
+            <p>
+                机械设计、以人为本设计、机电系统、并联构机制、柔性机制、微机电系统
+            </p>
+        </td>
         <td align="center">
             <a href="USA/UMich/ME/diann-brei/research-overview.md">
                 <img src="USA/UMich/profiles/diann-brei-profile.jpg" width="150" style="border-radius: 8px;" alt="Diann Brei"><br>
