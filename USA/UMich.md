@@ -454,19 +454,6 @@
                 机械设计、以人为本设计、机电系统、并联构机制、柔性机制、微机电系统
             </p>
         </td>
-    </tr>
-<table>
-<table>
-    <tr>
-        <td align="center">
-            <a href="USA/UMich/ME/shorya-awtar/research-overview.md">
-                <img src="USA/UMich/profiles/shorya-awtar-profile.jpg" width="150" style="border-radius: 8px;" alt="Shorya Awtar"><br>
-                <b>Shorya Awtar 舒里亚·奥塔尔</b>
-            </a>
-            <p>
-                机械设计、以人为本设计、机电系统、并联构机制、柔性机制、微机电系统
-            </p>
-        </td>
         <td align="center">
             <a href="USA/UMich/ME/diann-brei/research-overview.md">
                 <img src="USA/UMich/profiles/diann-brei-profile.jpg" width="150" style="border-radius: 8px;" alt="Diann Brei"><br>
@@ -619,7 +606,6 @@
                 可持续设计、清洁制造、循环经济系统、产品生命周期分析、环保材料与工艺
             </p>
         </td>
-
         <td align="center">
             <a href="USA/UMich/ME/sita-syal/research-overview.md">
                 <img src="USA/UMich/profiles/sita-syal-profile.jpg" width="150" style="border-radius: 8px;" alt="Sita Syal"><br>
@@ -629,7 +615,6 @@
                 能源系统设计、可持续基础设施、技术公平性、用户行为与系统设计、社会技术系统
             </p>
         </td>
-
         <td align="center">
             <a href="USA/UMich/ME/jing-tang/research-overview.md">
                 <img src="USA/UMich/profiles/jing-tang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jing Tang"><br>
