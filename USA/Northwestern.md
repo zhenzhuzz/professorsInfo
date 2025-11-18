@@ -28,7 +28,7 @@
                 先进制造工艺，智能制造系统，材料成形技术，数字化制造，制造过程建模与控制
             </p>
         </td>
-        <td align="="center">
+        <td align="center">
             <a href="USA/nu/mems/wei-chen/research-overview.md">
                 <img src="USA/nu/profiles/wei-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Chen"><br>
                 <b>Wei Chen</b>
